@@ -1,0 +1,1712 @@
+district_number,district_name ,subgroup,Number of students,number of ready graduates,percent of ready graduates 
+10,Anderson County,All Students,552,237,42.9
+10,Anderson County,American Indian or Alaska Native,2,*,*
+10,Anderson County,Asian,8,*,*
+10,Anderson County,Black or African American,10,1,10
+10,Anderson County,Black/Hispanic/Native American,19,5,26.3
+10,Anderson County,Economically Disadvantaged,208,59,28.4
+10,Anderson County,English Learners with Transitional 1-4,3,*,*
+10,Anderson County,Hispanic,7,*,*
+10,Anderson County,Non-Economically Disadvantaged,344,178,51.7
+10,Anderson County,Non-English Learners,549,237,43.2
+10,Anderson County,Non-Students with Disabilities,465,233,50.1
+10,Anderson County,Students with Disabilities,87,4,4.6
+10,Anderson County,Super Subgroup,260,66,25.4
+10,Anderson County,White,525,227,43.2
+12,Oak Ridge,All Students,304,199,65.5
+12,Oak Ridge,American Indian or Alaska Native,2,*,*
+12,Oak Ridge,Asian,17,14,82.4
+12,Oak Ridge,Black or African American,50,24,48
+12,Oak Ridge,Black/Hispanic/Native American,84,40,47.6
+12,Oak Ridge,Economically Disadvantaged,80,40,50
+12,Oak Ridge,English Learners with Transitional 1-4,10,3,30
+12,Oak Ridge,Hispanic,32,15,46.9
+12,Oak Ridge,Native Hawaiian or Other Pacific Islander,1,*,*
+12,Oak Ridge,Non-Economically Disadvantaged,224,159,71
+12,Oak Ridge,Non-English Learners,294,196,66.7
+12,Oak Ridge,Non-Students with Disabilities,267,189,70.8
+12,Oak Ridge,Students with Disabilities,37,10,27
+12,Oak Ridge,Super Subgroup,144,74,51.4
+12,Oak Ridge,White,202,145,71.8
+20,Bedford County,All Students,632,189,29.9
+20,Bedford County,American Indian or Alaska Native,4,*,*
+20,Bedford County,Asian,4,*,*
+20,Bedford County,Black or African American,59,9,15.3
+20,Bedford County,Black/Hispanic/Native American,213,26,12.2
+20,Bedford County,Economically Disadvantaged,268,48,17.9
+20,Bedford County,English Learners with Transitional 1-4,47,**,**
+20,Bedford County,Hispanic,150,16,10.7
+20,Bedford County,Non-Economically Disadvantaged,364,141,38.7
+20,Bedford County,Non-English Learners,585,189,32.3
+20,Bedford County,Non-Students with Disabilities,551,188,34.1
+20,Bedford County,Students with Disabilities,81,1,1.2
+20,Bedford County,Super Subgroup,392,58,14.8
+20,Bedford County,White,415,160,38.6
+30,Benton County,All Students,160,44,27.5
+30,Benton County,Black or African American,8,*,*
+30,Benton County,Black/Hispanic/Native American,11,1,9.1
+30,Benton County,Economically Disadvantaged,83,13,15.7
+30,Benton County,Hispanic,3,*,*
+30,Benton County,Non-Economically Disadvantaged,77,31,40.3
+30,Benton County,Non-English Learners,160,44,27.5
+30,Benton County,Non-Students with Disabilities,128,44,34.4
+30,Benton County,Students with Disabilities,32,**,**
+30,Benton County,Super Subgroup,95,13,13.7
+30,Benton County,White,149,43,28.9
+40,Bledsoe County,All Students,121,39,32.2
+40,Bledsoe County,American Indian or Alaska Native,2,*,*
+40,Bledsoe County,Black or African American,4,*,*
+40,Bledsoe County,Black/Hispanic/Native American,11,3,27.3
+40,Bledsoe County,Economically Disadvantaged,56,8,14.3
+40,Bledsoe County,English Learners with Transitional 1-4,3,*,*
+40,Bledsoe County,Hispanic,5,*,*
+40,Bledsoe County,Native Hawaiian or Other Pacific Islander,1,*,*
+40,Bledsoe County,Non-Economically Disadvantaged,65,31,47.7
+40,Bledsoe County,Non-English Learners,118,39,33.1
+40,Bledsoe County,Non-Students with Disabilities,94,37,39.4
+40,Bledsoe County,Students with Disabilities,27,2,7.4
+40,Bledsoe County,Super Subgroup,73,12,16.4
+40,Bledsoe County,White,109,36,33
+50,Blount County,All Students,794,281,35.4
+50,Blount County,American Indian or Alaska Native,6,*,*
+50,Blount County,Asian,7,*,*
+50,Blount County,Black or African American,17,2,11.8
+50,Blount County,Black/Hispanic/Native American,53,7,13.2
+50,Blount County,Economically Disadvantaged,257,50,19.5
+50,Blount County,English Learners with Transitional 1-4,10,**,**
+50,Blount County,Hispanic,30,5,16.7
+50,Blount County,Native Hawaiian or Other Pacific Islander,2,*,*
+50,Blount County,Non-Economically Disadvantaged,537,231,43
+50,Blount County,Non-English Learners,784,281,35.8
+50,Blount County,Non-Students with Disabilities,680,275,40.4
+50,Blount County,Students with Disabilities,114,6,5.3
+50,Blount County,Super Subgroup,348,58,16.7
+50,Blount County,White,732,270,36.9
+51,Alcoa,All Students,172,102,59.3
+51,Alcoa,American Indian or Alaska Native,1,*,*
+51,Alcoa,Asian,3,*,*
+51,Alcoa,Black or African American,59,19,32.2
+51,Alcoa,Black/Hispanic/Native American,73,31,42.5
+51,Alcoa,Economically Disadvantaged,66,23,34.8
+51,Alcoa,English Learners with Transitional 1-4,2,*,*
+51,Alcoa,Hispanic,13,11,84.6
+51,Alcoa,Native Hawaiian or Other Pacific Islander,1,*,*
+51,Alcoa,Non-Economically Disadvantaged,106,79,74.5
+51,Alcoa,Non-English Learners,170,101,59.4
+51,Alcoa,Non-Students with Disabilities,155,101,65.2
+51,Alcoa,Students with Disabilities,17,1,5.9
+51,Alcoa,Super Subgroup,101,42,41.6
+51,Alcoa,White,95,69,72.6
+52,Maryville,All Students,420,277,66
+52,Maryville,Asian,12,10,83.3
+52,Maryville,Black or African American,20,8,40
+52,Maryville,Black/Hispanic/Native American,42,13,31
+52,Maryville,Economically Disadvantaged,77,31,40.3
+52,Maryville,English Learners with Transitional 1-4,8,*,*
+52,Maryville,Hispanic,22,5,22.7
+52,Maryville,Native Hawaiian or Other Pacific Islander,1,*,*
+52,Maryville,Non-Economically Disadvantaged,343,246,71.7
+52,Maryville,Non-English Learners,412,275,66.7
+52,Maryville,Non-Students with Disabilities,357,265,74.2
+52,Maryville,Students with Disabilities,63,12,19
+52,Maryville,Super Subgroup,142,53,37.3
+52,Maryville,White,365,253,69.3
+60,Bradley County,All Students,826,444,53.8
+60,Bradley County,American Indian or Alaska Native,1,*,*
+60,Bradley County,Asian,3,*,*
+60,Bradley County,Black or African American,32,12,37.5
+60,Bradley County,Black/Hispanic/Native American,71,30,42.3
+60,Bradley County,Economically Disadvantaged,287,111,38.7
+60,Bradley County,English Learners with Transitional 1-4,5,*,*
+60,Bradley County,Hispanic,38,17,44.7
+60,Bradley County,Native Hawaiian or Other Pacific Islander,2,*,*
+60,Bradley County,Non-Economically Disadvantaged,539,333,61.8
+60,Bradley County,Non-English Learners,821,444,54.1
+60,Bradley County,Non-Students with Disabilities,745,431,57.9
+60,Bradley County,Students with Disabilities,81,13,16
+60,Bradley County,Super Subgroup,361,133,36.8
+60,Bradley County,White,750,411,54.8
+61,Cleveland,All Students,413,177,42.9
+61,Cleveland,American Indian or Alaska Native,5,*,*
+61,Cleveland,Asian,9,*,*
+61,Cleveland,Black or African American,69,14,20.3
+61,Cleveland,Black/Hispanic/Native American,152,42,27.6
+61,Cleveland,Economically Disadvantaged,182,44,24.2
+61,Cleveland,English Learners with Transitional 1-4,28,3,10.7
+61,Cleveland,Hispanic,78,25,32.1
+61,Cleveland,Native Hawaiian or Other Pacific Islander,1,*,*
+61,Cleveland,Non-Economically Disadvantaged,231,133,57.6
+61,Cleveland,Non-English Learners,385,174,45.2
+61,Cleveland,Non-Students with Disabilities,353,175,49.6
+61,Cleveland,Students with Disabilities,60,2,3.3
+61,Cleveland,Super Subgroup,267,68,25.5
+61,Cleveland,White,251,129,51.4
+70,Campbell County,All Students,407,114,28
+70,Campbell County,Asian,1,*,*
+70,Campbell County,Black or African American,1,*,*
+70,Campbell County,Black/Hispanic/Native American,3,*,*
+70,Campbell County,Economically Disadvantaged,211,41,19.4
+70,Campbell County,Hispanic,2,*,*
+70,Campbell County,Non-Economically Disadvantaged,196,73,37.2
+70,Campbell County,Non-English Learners,407,114,28
+70,Campbell County,Non-Students with Disabilities,353,112,31.7
+70,Campbell County,Students with Disabilities,54,2,3.7
+70,Campbell County,Super Subgroup,233,41,17.6
+70,Campbell County,White,403,114,28.3
+80,Cannon County,All Students,144,52,36.1
+80,Cannon County,Asian,1,*,*
+80,Cannon County,Black or African American,1,*,*
+80,Cannon County,Black/Hispanic/Native American,7,*,*
+80,Cannon County,Economically Disadvantaged,50,12,24
+80,Cannon County,English Learners with Transitional 1-4,1,*,*
+80,Cannon County,Hispanic,6,*,*
+80,Cannon County,Non-Economically Disadvantaged,94,40,42.6
+80,Cannon County,Non-English Learners,143,52,36.4
+80,Cannon County,Non-Students with Disabilities,119,52,43.7
+80,Cannon County,Students with Disabilities,25,**,**
+80,Cannon County,Super Subgroup,63,13,20.6
+80,Cannon County,White,136,51,37.5
+90,Carroll County,All Students,10,**,**
+90,Carroll County,Black or African American,3,*,*
+90,Carroll County,Black/Hispanic/Native American,3,*,*
+90,Carroll County,Economically Disadvantaged,8,*,*
+90,Carroll County,Non-Economically Disadvantaged,2,*,*
+90,Carroll County,Non-English Learners,10,**,**
+90,Carroll County,Non-Students with Disabilities,9,*,*
+90,Carroll County,Students with Disabilities,1,*,*
+90,Carroll County,Super Subgroup,8,*,*
+90,Carroll County,White,7,*,*
+92,Hollow Rock - Bruceton,All Students,44,14,31.8
+92,Hollow Rock - Bruceton,American Indian or Alaska Native,1,*,*
+92,Hollow Rock - Bruceton,Black or African American,4,*,*
+92,Hollow Rock - Bruceton,Black/Hispanic/Native American,5,*,*
+92,Hollow Rock - Bruceton,Economically Disadvantaged,20,6,30
+92,Hollow Rock - Bruceton,Non-Economically Disadvantaged,24,8,33.3
+92,Hollow Rock - Bruceton,Non-English Learners,44,14,31.8
+92,Hollow Rock - Bruceton,Non-Students with Disabilities,40,14,35
+92,Hollow Rock - Bruceton,Students with Disabilities,4,*,*
+92,Hollow Rock - Bruceton,Super Subgroup,21,6,28.6
+92,Hollow Rock - Bruceton,White,39,14,35.9
+93,Huntingdon Special School District,All Students,78,38,48.7
+93,Huntingdon Special School District,American Indian or Alaska Native,1,*,*
+93,Huntingdon Special School District,Black or African American,11,**,**
+93,Huntingdon Special School District,Black/Hispanic/Native American,13,1,7.7
+93,Huntingdon Special School District,Economically Disadvantaged,34,14,41.2
+93,Huntingdon Special School District,Hispanic,1,*,*
+93,Huntingdon Special School District,Non-Economically Disadvantaged,44,24,54.5
+93,Huntingdon Special School District,Non-English Learners,78,38,48.7
+93,Huntingdon Special School District,Non-Students with Disabilities,71,37,52.1
+93,Huntingdon Special School District,Students with Disabilities,7,*,*
+93,Huntingdon Special School District,Super Subgroup,38,14,36.8
+93,Huntingdon Special School District,White,65,37,56.9
+94,McKenzie,All Students,112,64,57.1
+94,McKenzie,Asian,2,*,*
+94,McKenzie,Black or African American,20,6,30
+94,McKenzie,Black/Hispanic/Native American,23,7,30.4
+94,McKenzie,Economically Disadvantaged,43,14,32.6
+94,McKenzie,English Learners with Transitional 1-4,1,*,*
+94,McKenzie,Hispanic,3,*,*
+94,McKenzie,Non-Economically Disadvantaged,69,50,72.5
+94,McKenzie,Non-English Learners,111,64,57.7
+94,McKenzie,Non-Students with Disabilities,98,63,64.3
+94,McKenzie,Students with Disabilities,14,1,7.1
+94,McKenzie,Super Subgroup,55,17,30.9
+94,McKenzie,White,87,56,64.4
+95,South Carroll,All Students,17,13,76.5
+95,South Carroll,Black or African American,1,*,*
+95,South Carroll,Black/Hispanic/Native American,1,*,*
+95,South Carroll,Economically Disadvantaged,4,*,*
+95,South Carroll,Non-Economically Disadvantaged,13,11,84.6
+95,South Carroll,Non-English Learners,17,13,76.5
+95,South Carroll,Non-Students with Disabilities,15,11,73.3
+95,South Carroll,Students with Disabilities,2,*,*
+95,South Carroll,Super Subgroup,6,*,*
+95,South Carroll,White,16,13,81.3
+97,West Carroll Sp Dist,All Students,71,25,35.2
+97,West Carroll Sp Dist,Black or African American,6,*,*
+97,West Carroll Sp Dist,Black/Hispanic/Native American,6,*,*
+97,West Carroll Sp Dist,Economically Disadvantaged,32,6,18.8
+97,West Carroll Sp Dist,Non-Economically Disadvantaged,39,19,48.7
+97,West Carroll Sp Dist,Non-English Learners,71,25,35.2
+97,West Carroll Sp Dist,Non-Students with Disabilities,60,25,41.7
+97,West Carroll Sp Dist,Students with Disabilities,11,**,**
+97,West Carroll Sp Dist,Super Subgroup,35,7,20
+97,West Carroll Sp Dist,White,65,24,36.9
+100,Carter County,All Students,367,108,29.4
+100,Carter County,American Indian or Alaska Native,2,*,*
+100,Carter County,Asian,1,*,*
+100,Carter County,Black or African American,3,*,*
+100,Carter County,Black/Hispanic/Native American,7,*,*
+100,Carter County,Economically Disadvantaged,183,34,18.6
+100,Carter County,English Learners with Transitional 1-4,1,*,*
+100,Carter County,Hispanic,2,*,*
+100,Carter County,Non-Economically Disadvantaged,184,74,40.2
+100,Carter County,Non-English Learners,366,108,29.5
+100,Carter County,Non-Students with Disabilities,303,104,34.3
+100,Carter County,Students with Disabilities,64,4,6.3
+100,Carter County,Super Subgroup,204,36,17.6
+100,Carter County,White,359,106,29.5
+101,Elizabethton,All Students,198,92,46.5
+101,Elizabethton,American Indian or Alaska Native,1,*,*
+101,Elizabethton,Asian,2,*,*
+101,Elizabethton,Black or African American,15,6,40
+101,Elizabethton,Black/Hispanic/Native American,18,6,33.3
+101,Elizabethton,Economically Disadvantaged,74,19,25.7
+101,Elizabethton,Hispanic,2,*,*
+101,Elizabethton,Non-Economically Disadvantaged,124,73,58.9
+101,Elizabethton,Non-English Learners,198,92,46.5
+101,Elizabethton,Non-Students with Disabilities,176,92,52.3
+101,Elizabethton,Students with Disabilities,22,**,**
+101,Elizabethton,Super Subgroup,94,23,24.5
+101,Elizabethton,White,178,84,47.2
+110,Cheatham County,All Students,444,161,36.3
+110,Cheatham County,American Indian or Alaska Native,3,*,*
+110,Cheatham County,Asian,2,*,*
+110,Cheatham County,Black or African American,12,1,8.3
+110,Cheatham County,Black/Hispanic/Native American,34,6,17.6
+110,Cheatham County,Economically Disadvantaged,151,37,24.5
+110,Cheatham County,English Learners with Transitional 1-4,5,*,*
+110,Cheatham County,Hispanic,19,5,26.3
+110,Cheatham County,Non-Economically Disadvantaged,293,124,42.3
+110,Cheatham County,Non-English Learners,439,161,36.7
+110,Cheatham County,Non-Students with Disabilities,390,156,40
+110,Cheatham County,Students with Disabilities,54,5,9.3
+110,Cheatham County,Super Subgroup,199,45,22.6
+110,Cheatham County,White,408,154,37.7
+120,Chester County,All Students,219,106,48.4
+120,Chester County,American Indian or Alaska Native,1,*,*
+120,Chester County,Asian,2,*,*
+120,Chester County,Black or African American,26,5,19.2
+120,Chester County,Black/Hispanic/Native American,29,8,27.6
+120,Chester County,Economically Disadvantaged,76,22,28.9
+120,Chester County,Hispanic,2,*,*
+120,Chester County,Non-Economically Disadvantaged,143,84,58.7
+120,Chester County,Non-English Learners,219,106,48.4
+120,Chester County,Non-Students with Disabilities,196,105,53.6
+120,Chester County,Students with Disabilities,23,1,4.3
+120,Chester County,Super Subgroup,94,28,29.8
+120,Chester County,White,188,96,51.1
+130,Claiborne County,All Students,287,81,28.2
+130,Claiborne County,American Indian or Alaska Native,1,*,*
+130,Claiborne County,Asian,1,*,*
+130,Claiborne County,Black or African American,3,*,*
+130,Claiborne County,Black/Hispanic/Native American,8,*,*
+130,Claiborne County,Economically Disadvantaged,129,22,17.1
+130,Claiborne County,Hispanic,4,*,*
+130,Claiborne County,Non-Economically Disadvantaged,158,59,37.3
+130,Claiborne County,Non-English Learners,287,81,28.2
+130,Claiborne County,Non-Students with Disabilities,254,81,31.9
+130,Claiborne County,Students with Disabilities,33,**,**
+130,Claiborne County,Super Subgroup,143,22,15.4
+130,Claiborne County,White,278,80,28.8
+140,Clay County,All Students,89,54,60.7
+140,Clay County,Black or African American,3,*,*
+140,Clay County,Black/Hispanic/Native American,4,*,*
+140,Clay County,Economically Disadvantaged,47,24,51.1
+140,Clay County,Hispanic,1,*,*
+140,Clay County,Non-Economically Disadvantaged,42,30,71.4
+140,Clay County,Non-English Learners,89,54,60.7
+140,Clay County,Non-Students with Disabilities,79,50,63.3
+140,Clay County,Students with Disabilities,10,4,40
+140,Clay County,Super Subgroup,51,26,51
+140,Clay County,White,85,54,63.5
+150,Cocke County,All Students,382,111,29.1
+150,Cocke County,Asian,2,*,*
+150,Cocke County,Black or African American,10,3,30
+150,Cocke County,Black/Hispanic/Native American,16,5,31.3
+150,Cocke County,Economically Disadvantaged,211,38,18
+150,Cocke County,English Learners with Transitional 1-4,2,*,*
+150,Cocke County,Hispanic,6,*,*
+150,Cocke County,Native Hawaiian or Other Pacific Islander,1,*,*
+150,Cocke County,Non-Economically Disadvantaged,171,73,42.7
+150,Cocke County,Non-English Learners,380,111,29.2
+150,Cocke County,Non-Students with Disabilities,319,111,34.8
+150,Cocke County,Students with Disabilities,63,**,**
+150,Cocke County,Super Subgroup,230,39,17
+150,Cocke County,White,363,104,28.7
+160,Coffee County,All Students,437,148,33.9
+160,Coffee County,American Indian or Alaska Native,2,*,*
+160,Coffee County,Asian,7,*,*
+160,Coffee County,Black or African American,16,3,18.8
+160,Coffee County,Black/Hispanic/Native American,48,10,20.8
+160,Coffee County,Economically Disadvantaged,180,29,16.1
+160,Coffee County,English Learners with Transitional 1-4,9,*,*
+160,Coffee County,Hispanic,30,6,20
+160,Coffee County,Non-Economically Disadvantaged,257,119,46.3
+160,Coffee County,Non-English Learners,428,147,34.3
+160,Coffee County,Non-Students with Disabilities,381,146,38.3
+160,Coffee County,Students with Disabilities,56,2,3.6
+160,Coffee County,Super Subgroup,209,35,16.7
+160,Coffee County,White,382,134,35.1
+162,Tullahoma,All Students,251,99,39.4
+162,Tullahoma,American Indian or Alaska Native,2,*,*
+162,Tullahoma,Asian,6,*,*
+162,Tullahoma,Black or African American,29,5,17.2
+162,Tullahoma,Black/Hispanic/Native American,45,12,26.7
+162,Tullahoma,Economically Disadvantaged,79,11,13.9
+162,Tullahoma,English Learners with Transitional 1-4,6,*,*
+162,Tullahoma,Hispanic,14,6,42.9
+162,Tullahoma,Native Hawaiian or Other Pacific Islander,2,*,*
+162,Tullahoma,Non-Economically Disadvantaged,172,88,51.2
+162,Tullahoma,Non-English Learners,245,98,40
+162,Tullahoma,Non-Students with Disabilities,230,99,43
+162,Tullahoma,Students with Disabilities,21,**,**
+162,Tullahoma,Super Subgroup,109,21,19.3
+162,Tullahoma,White,198,83,41.9
+170,Crockett County,All Students,220,80,36.4
+170,Crockett County,Asian,1,*,*
+170,Crockett County,Black or African American,36,7,19.4
+170,Crockett County,Black/Hispanic/Native American,74,14,18.9
+170,Crockett County,Economically Disadvantaged,109,30,27.5
+170,Crockett County,English Learners with Transitional 1-4,8,*,*
+170,Crockett County,Hispanic,38,7,18.4
+170,Crockett County,Non-Economically Disadvantaged,111,50,45
+170,Crockett County,Non-English Learners,212,80,37.7
+170,Crockett County,Non-Students with Disabilities,193,78,40.4
+170,Crockett County,Students with Disabilities,27,2,7.4
+170,Crockett County,Super Subgroup,134,33,24.6
+170,Crockett County,White,145,65,44.8
+180,Cumberland County,All Students,504,200,39.7
+180,Cumberland County,American Indian or Alaska Native,4,*,*
+180,Cumberland County,Asian,2,*,*
+180,Cumberland County,Black or African American,5,*,*
+180,Cumberland County,Black/Hispanic/Native American,44,4,9.1
+180,Cumberland County,Economically Disadvantaged,180,42,23.3
+180,Cumberland County,English Learners with Transitional 1-4,15,**,**
+180,Cumberland County,Hispanic,35,2,5.7
+180,Cumberland County,Native Hawaiian or Other Pacific Islander,1,*,*
+180,Cumberland County,Non-Economically Disadvantaged,324,158,48.8
+180,Cumberland County,Non-English Learners,489,200,40.9
+180,Cumberland County,Non-Students with Disabilities,437,196,44.9
+180,Cumberland County,Students with Disabilities,67,4,6
+180,Cumberland County,Super Subgroup,241,46,19.1
+180,Cumberland County,White,457,196,42.9
+190,Davidson County,All Students,5612,1677,29.9
+190,Davidson County,American Indian or Alaska Native,15,7,46.7
+190,Davidson County,Asian,259,123,47.5
+190,Davidson County,Black or African American,2559,555,21.7
+190,Davidson County,Black/Hispanic/Native American,3918,850,21.7
+190,Davidson County,Economically Disadvantaged,3330,605,18.2
+190,Davidson County,English Learners with Transitional 1-4,786,45,5.7
+190,Davidson County,Hispanic,1344,288,21.4
+190,Davidson County,Native Hawaiian or Other Pacific Islander,4,*,*
+190,Davidson County,Non-Economically Disadvantaged,2282,1072,47
+190,Davidson County,Non-English Learners,4826,1632,33.8
+190,Davidson County,Non-Students with Disabilities,4871,1629,33.4
+190,Davidson County,Students with Disabilities,741,48,6.5
+190,Davidson County,Super Subgroup,4769,1082,22.7
+190,Davidson County,White,1431,701,49
+200,Decatur County,All Students,118,51,43.2
+200,Decatur County,American Indian or Alaska Native,1,*,*
+200,Decatur County,Asian,1,*,*
+200,Decatur County,Black or African American,8,*,*
+200,Decatur County,Black/Hispanic/Native American,14,3,21.4
+200,Decatur County,Economically Disadvantaged,52,17,32.7
+200,Decatur County,Hispanic,5,*,*
+200,Decatur County,Non-Economically Disadvantaged,66,34,51.5
+200,Decatur County,Non-English Learners,118,51,43.2
+200,Decatur County,Non-Students with Disabilities,94,50,53.2
+200,Decatur County,Students with Disabilities,24,1,4.2
+200,Decatur County,Super Subgroup,63,19,30.2
+200,Decatur County,White,103,47,45.6
+210,DeKalb County,All Students,197,82,41.6
+210,DeKalb County,Asian,1,*,*
+210,DeKalb County,Black or African American,2,*,*
+210,DeKalb County,Black/Hispanic/Native American,29,5,17.2
+210,DeKalb County,Economically Disadvantaged,81,17,21
+210,DeKalb County,English Learners with Transitional 1-4,9,*,*
+210,DeKalb County,Hispanic,27,5,18.5
+210,DeKalb County,Non-Economically Disadvantaged,116,65,56
+210,DeKalb County,Non-English Learners,188,82,43.6
+210,DeKalb County,Non-Students with Disabilities,177,80,45.2
+210,DeKalb County,Students with Disabilities,20,2,10
+210,DeKalb County,Super Subgroup,103,21,20.4
+210,DeKalb County,White,167,76,45.5
+220,Dickson County,All Students,600,245,40.8
+220,Dickson County,American Indian or Alaska Native,1,*,*
+220,Dickson County,Asian,4,*,*
+220,Dickson County,Black or African American,43,8,18.6
+220,Dickson County,Black/Hispanic/Native American,78,16,20.5
+220,Dickson County,Economically Disadvantaged,190,48,25.3
+220,Dickson County,English Learners with Transitional 1-4,8,*,*
+220,Dickson County,Hispanic,34,8,23.5
+220,Dickson County,Non-Economically Disadvantaged,410,197,48
+220,Dickson County,Non-English Learners,592,244,41.2
+220,Dickson County,Non-Students with Disabilities,539,238,44.2
+220,Dickson County,Students with Disabilities,61,7,11.5
+220,Dickson County,Super Subgroup,252,62,24.6
+220,Dickson County,White,518,228,44
+230,Dyer County,All Students,275,136,49.5
+230,Dyer County,Asian,1,*,*
+230,Dyer County,Black or African American,29,6,20.7
+230,Dyer County,Black/Hispanic/Native American,35,9,25.7
+230,Dyer County,Economically Disadvantaged,116,39,33.6
+230,Dyer County,English Learners with Transitional 1-4,2,*,*
+230,Dyer County,Hispanic,6,*,*
+230,Dyer County,Non-Economically Disadvantaged,159,97,61
+230,Dyer County,Non-English Learners,273,135,49.5
+230,Dyer County,Non-Students with Disabilities,245,133,54.3
+230,Dyer County,Students with Disabilities,30,3,10
+230,Dyer County,Super Subgroup,142,44,31
+230,Dyer County,White,239,126,52.7
+231,Dyersburg,All Students,190,100,52.6
+231,Dyersburg,Asian,3,*,*
+231,Dyersburg,Black or African American,70,18,25.7
+231,Dyersburg,Black/Hispanic/Native American,83,24,28.9
+231,Dyersburg,Economically Disadvantaged,91,25,27.5
+231,Dyersburg,English Learners with Transitional 1-4,6,*,*
+231,Dyersburg,Hispanic,13,6,46.2
+231,Dyersburg,Non-Economically Disadvantaged,99,75,75.8
+231,Dyersburg,Non-English Learners,184,100,54.3
+231,Dyersburg,Non-Students with Disabilities,152,98,64.5
+231,Dyersburg,Students with Disabilities,38,2,5.3
+231,Dyersburg,Super Subgroup,116,35,30.2
+231,Dyersburg,White,104,74,71.2
+240,Fayette County Public Schools,All Students,212,43,20.3
+240,Fayette County Public Schools,American Indian or Alaska Native,1,*,*
+240,Fayette County Public Schools,Black or African American,147,19,12.9
+240,Fayette County Public Schools,Black/Hispanic/Native American,160,22,13.8
+240,Fayette County Public Schools,Economically Disadvantaged,125,13,10.4
+240,Fayette County Public Schools,English Learners with Transitional 1-4,2,*,*
+240,Fayette County Public Schools,Hispanic,12,3,25
+240,Fayette County Public Schools,Non-Economically Disadvantaged,87,30,34.5
+240,Fayette County Public Schools,Non-English Learners,210,43,20.5
+240,Fayette County Public Schools,Non-Students with Disabilities,178,41,23
+240,Fayette County Public Schools,Students with Disabilities,34,2,5.9
+240,Fayette County Public Schools,Super Subgroup,179,26,14.5
+240,Fayette County Public Schools,White,52,21,40.4
+250,Fentress County,All Students,74,32,43.2
+250,Fentress County,Black/Hispanic/Native American,1,*,*
+250,Fentress County,Economically Disadvantaged,44,14,31.8
+250,Fentress County,Hispanic,1,*,*
+250,Fentress County,Non-Economically Disadvantaged,30,18,60
+250,Fentress County,Non-English Learners,74,32,43.2
+250,Fentress County,Non-Students with Disabilities,64,32,50
+250,Fentress County,Students with Disabilities,10,**,**
+250,Fentress County,Super Subgroup,48,14,29.2
+250,Fentress County,White,73,32,43.8
+260,Franklin County,All Students,374,125,33.4
+260,Franklin County,American Indian or Alaska Native,3,*,*
+260,Franklin County,Asian,3,*,*
+260,Franklin County,Black or African American,31,5,16.1
+260,Franklin County,Black/Hispanic/Native American,61,12,19.7
+260,Franklin County,Economically Disadvantaged,124,24,19.4
+260,Franklin County,English Learners with Transitional 1-4,5,*,*
+260,Franklin County,Hispanic,27,6,22.2
+260,Franklin County,Native Hawaiian or Other Pacific Islander,1,*,*
+260,Franklin County,Non-Economically Disadvantaged,250,101,40.4
+260,Franklin County,Non-English Learners,369,125,33.9
+260,Franklin County,Non-Students with Disabilities,321,122,38
+260,Franklin County,Students with Disabilities,53,3,5.7
+260,Franklin County,Super Subgroup,181,36,19.9
+260,Franklin County,White,309,111,35.9
+271,Humboldt City Schools,All Students,53,8,15.1
+271,Humboldt City Schools,Black or African American,43,4,9.3
+271,Humboldt City Schools,Black/Hispanic/Native American,45,5,11.1
+271,Humboldt City Schools,Economically Disadvantaged,33,2,6.1
+271,Humboldt City Schools,English Learners with Transitional 1-4,1,*,*
+271,Humboldt City Schools,Hispanic,2,*,*
+271,Humboldt City Schools,Non-Economically Disadvantaged,20,6,30
+271,Humboldt City Schools,Non-English Learners,52,8,15.4
+271,Humboldt City Schools,Non-Students with Disabilities,37,8,21.6
+271,Humboldt City Schools,Students with Disabilities,16,**,**
+271,Humboldt City Schools,Super Subgroup,49,5,10.2
+271,Humboldt City Schools,White,8,*,*
+272,Milan,All Students,146,82,56.2
+272,Milan,Black or African American,44,12,27.3
+272,Milan,Black/Hispanic/Native American,48,14,29.2
+272,Milan,Economically Disadvantaged,65,20,30.8
+272,Milan,Hispanic,4,*,*
+272,Milan,Non-Economically Disadvantaged,81,62,76.5
+272,Milan,Non-English Learners,146,82,56.2
+272,Milan,Non-Students with Disabilities,121,80,66.1
+272,Milan,Students with Disabilities,25,2,8
+272,Milan,Super Subgroup,79,28,35.4
+272,Milan,White,98,68,69.4
+273,Trenton,All Students,110,36,32.7
+273,Trenton,Black or African American,35,6,17.1
+273,Trenton,Black/Hispanic/Native American,42,7,16.7
+273,Trenton,Economically Disadvantaged,59,10,16.9
+273,Trenton,English Learners with Transitional 1-4,1,*,*
+273,Trenton,Hispanic,7,*,*
+273,Trenton,Non-Economically Disadvantaged,51,26,51
+273,Trenton,Non-English Learners,109,36,33
+273,Trenton,Non-Students with Disabilities,92,35,38
+273,Trenton,Students with Disabilities,18,1,5.6
+273,Trenton,Super Subgroup,73,15,20.5
+273,Trenton,White,68,29,42.6
+274,Bradford,All Students,38,23,60.5
+274,Bradford,Black or African American,2,*,*
+274,Bradford,Black/Hispanic/Native American,3,*,*
+274,Bradford,Economically Disadvantaged,11,5,45.5
+274,Bradford,Hispanic,1,*,*
+274,Bradford,Non-Economically Disadvantaged,27,18,66.7
+274,Bradford,Non-English Learners,38,23,60.5
+274,Bradford,Non-Students with Disabilities,35,23,65.7
+274,Bradford,Students with Disabilities,3,*,*
+274,Bradford,Super Subgroup,12,5,41.7
+274,Bradford,White,35,23,65.7
+275,Gibson Co Sp Dist,All Students,290,164,56.6
+275,Gibson Co Sp Dist,Asian,4,*,*
+275,Gibson Co Sp Dist,Black or African American,26,7,26.9
+275,Gibson Co Sp Dist,Black/Hispanic/Native American,33,13,39.4
+275,Gibson Co Sp Dist,Economically Disadvantaged,69,26,37.7
+275,Gibson Co Sp Dist,English Learners with Transitional 1-4,1,*,*
+275,Gibson Co Sp Dist,Hispanic,7,*,*
+275,Gibson Co Sp Dist,Non-Economically Disadvantaged,221,138,62.4
+275,Gibson Co Sp Dist,Non-English Learners,289,164,56.7
+275,Gibson Co Sp Dist,Non-Students with Disabilities,252,162,64.3
+275,Gibson Co Sp Dist,Students with Disabilities,38,2,5.3
+275,Gibson Co Sp Dist,Super Subgroup,106,34,32.1
+275,Gibson Co Sp Dist,White,253,149,58.9
+280,Giles County,All Students,279,93,33.3
+280,Giles County,American Indian or Alaska Native,2,*,*
+280,Giles County,Asian,1,*,*
+280,Giles County,Black or African American,42,3,7.1
+280,Giles County,Black/Hispanic/Native American,53,5,9.4
+280,Giles County,Economically Disadvantaged,127,20,15.7
+280,Giles County,English Learners with Transitional 1-4,3,*,*
+280,Giles County,Hispanic,9,*,*
+280,Giles County,Non-Economically Disadvantaged,152,73,48
+280,Giles County,Non-English Learners,276,93,33.7
+280,Giles County,Non-Students with Disabilities,248,92,37.1
+280,Giles County,Students with Disabilities,31,1,3.2
+280,Giles County,Super Subgroup,155,26,16.8
+280,Giles County,White,225,88,39.1
+290,Grainger County,All Students,274,80,29.2
+290,Grainger County,Black or African American,4,*,*
+290,Grainger County,Black/Hispanic/Native American,14,**,**
+290,Grainger County,Economically Disadvantaged,102,14,13.7
+290,Grainger County,English Learners with Transitional 1-4,6,*,*
+290,Grainger County,Hispanic,10,**,**
+290,Grainger County,Non-Economically Disadvantaged,172,66,38.4
+290,Grainger County,Non-English Learners,268,80,29.9
+290,Grainger County,Non-Students with Disabilities,245,79,32.2
+290,Grainger County,Students with Disabilities,29,1,3.4
+290,Grainger County,Super Subgroup,126,15,11.9
+290,Grainger County,White,260,80,30.8
+300,Greene County,All Students,523,199,38
+300,Greene County,American Indian or Alaska Native,4,*,*
+300,Greene County,Asian,3,*,*
+300,Greene County,Black or African American,6,*,*
+300,Greene County,Black/Hispanic/Native American,30,7,23.3
+300,Greene County,Economically Disadvantaged,217,56,25.8
+300,Greene County,English Learners with Transitional 1-4,6,*,*
+300,Greene County,Hispanic,20,5,25
+300,Greene County,Non-Economically Disadvantaged,306,143,46.7
+300,Greene County,Non-English Learners,517,199,38.5
+300,Greene County,Non-Students with Disabilities,432,193,44.7
+300,Greene County,Students with Disabilities,91,6,6.6
+300,Greene County,Super Subgroup,271,63,23.2
+300,Greene County,White,490,191,39
+301,Greeneville,All Students,230,142,61.7
+301,Greeneville,American Indian or Alaska Native,4,*,*
+301,Greeneville,Asian,7,*,*
+301,Greeneville,Black or African American,25,13,52
+301,Greeneville,Black/Hispanic/Native American,31,15,48.4
+301,Greeneville,Economically Disadvantaged,66,27,40.9
+301,Greeneville,English Learners with Transitional 1-4,5,*,*
+301,Greeneville,Hispanic,2,*,*
+301,Greeneville,Native Hawaiian or Other Pacific Islander,1,*,*
+301,Greeneville,Non-Economically Disadvantaged,164,115,70.1
+301,Greeneville,Non-English Learners,225,141,62.7
+301,Greeneville,Non-Students with Disabilities,193,135,69.9
+301,Greeneville,Students with Disabilities,37,7,18.9
+301,Greeneville,Super Subgroup,105,46,43.8
+301,Greeneville,White,191,121,63.4
+310,Grundy County,All Students,171,33,19.3
+310,Grundy County,Black/Hispanic/Native American,2,*,*
+310,Grundy County,Economically Disadvantaged,71,16,22.5
+310,Grundy County,Hispanic,2,*,*
+310,Grundy County,Non-Economically Disadvantaged,100,17,17
+310,Grundy County,Non-English Learners,171,33,19.3
+310,Grundy County,Non-Students with Disabilities,133,33,24.8
+310,Grundy County,Students with Disabilities,38,**,**
+310,Grundy County,Super Subgroup,95,16,16.8
+310,Grundy County,White,169,33,19.5
+320,Hamblen County,All Students,783,367,46.9
+320,Hamblen County,American Indian or Alaska Native,5,*,*
+320,Hamblen County,Asian,11,8,72.7
+320,Hamblen County,Black or African American,57,16,28.1
+320,Hamblen County,Black/Hispanic/Native American,220,69,31.4
+320,Hamblen County,Economically Disadvantaged,302,83,27.5
+320,Hamblen County,English Learners with Transitional 1-4,43,1,2.3
+320,Hamblen County,Hispanic,158,50,31.6
+320,Hamblen County,Native Hawaiian or Other Pacific Islander,4,*,*
+320,Hamblen County,Non-Economically Disadvantaged,481,284,59
+320,Hamblen County,Non-English Learners,740,366,49.5
+320,Hamblen County,Non-Students with Disabilities,676,359,53.1
+320,Hamblen County,Students with Disabilities,107,8,7.5
+320,Hamblen County,Super Subgroup,431,126,29.2
+320,Hamblen County,White,548,289,52.7
+330,Hamilton County,All Students,3167,1123,35.5
+330,Hamilton County,American Indian or Alaska Native,13,4,30.8
+330,Hamilton County,Asian,105,74,70.5
+330,Hamilton County,Black or African American,973,146,15
+330,Hamilton County,Black/Hispanic/Native American,1383,218,15.8
+330,Hamilton County,Economically Disadvantaged,1265,212,16.8
+330,Hamilton County,English Learners with Transitional 1-4,189,9,4.8
+330,Hamilton County,Hispanic,397,68,17.1
+330,Hamilton County,Native Hawaiian or Other Pacific Islander,2,*,*
+330,Hamilton County,Non-Economically Disadvantaged,1902,911,47.9
+330,Hamilton County,Non-English Learners,2978,1114,37.4
+330,Hamilton County,Non-Students with Disabilities,2773,1085,39.1
+330,Hamilton County,Students with Disabilities,394,38,9.6
+330,Hamilton County,Super Subgroup,1984,368,18.5
+330,Hamilton County,White,1677,830,49.5
+340,Hancock County,All Students,76,19,25
+340,Hancock County,Economically Disadvantaged,44,10,22.7
+340,Hancock County,Non-Economically Disadvantaged,32,9,28.1
+340,Hancock County,Non-English Learners,76,19,25
+340,Hancock County,Non-Students with Disabilities,59,18,30.5
+340,Hancock County,Students with Disabilities,17,1,5.9
+340,Hancock County,Super Subgroup,51,11,21.6
+340,Hancock County,White,76,19,25
+350,Hardeman County Schools,All Students,287,62,21.6
+350,Hardeman County Schools,Asian,4,*,*
+350,Hardeman County Schools,Black or African American,153,18,11.8
+350,Hardeman County Schools,Black/Hispanic/Native American,159,18,11.3
+350,Hardeman County Schools,Economically Disadvantaged,163,20,12.3
+350,Hardeman County Schools,English Learners with Transitional 1-4,4,*,*
+350,Hardeman County Schools,Hispanic,6,*,*
+350,Hardeman County Schools,Non-Economically Disadvantaged,124,42,33.9
+350,Hardeman County Schools,Non-English Learners,283,62,21.9
+350,Hardeman County Schools,Non-Students with Disabilities,251,59,23.5
+350,Hardeman County Schools,Students with Disabilities,36,3,8.3
+350,Hardeman County Schools,Super Subgroup,217,27,12.4
+350,Hardeman County Schools,White,124,44,35.5
+360,Hardin County,All Students,267,97,36.3
+360,Hardin County,American Indian or Alaska Native,1,*,*
+360,Hardin County,Asian,2,*,*
+360,Hardin County,Black or African American,19,4,21.1
+360,Hardin County,Black/Hispanic/Native American,26,5,19.2
+360,Hardin County,Economically Disadvantaged,121,29,24
+360,Hardin County,English Learners with Transitional 1-4,2,*,*
+360,Hardin County,Hispanic,6,*,*
+360,Hardin County,Non-Economically Disadvantaged,146,68,46.6
+360,Hardin County,Non-English Learners,265,97,36.6
+360,Hardin County,Non-Students with Disabilities,224,97,43.3
+360,Hardin County,Students with Disabilities,43,**,**
+360,Hardin County,Super Subgroup,146,31,21.2
+360,Hardin County,White,239,91,38.1
+370,Hawkins County,All Students,508,179,35.2
+370,Hawkins County,American Indian or Alaska Native,1,*,*
+370,Hawkins County,Asian,4,*,*
+370,Hawkins County,Black or African American,13,3,23.1
+370,Hawkins County,Black/Hispanic/Native American,28,6,21.4
+370,Hawkins County,Economically Disadvantaged,235,49,20.9
+370,Hawkins County,English Learners with Transitional 1-4,2,*,*
+370,Hawkins County,Hispanic,14,2,14.3
+370,Hawkins County,Native Hawaiian or Other Pacific Islander,1,*,*
+370,Hawkins County,Non-Economically Disadvantaged,273,130,47.6
+370,Hawkins County,Non-English Learners,506,179,35.4
+370,Hawkins County,Non-Students with Disabilities,436,178,40.8
+370,Hawkins County,Students with Disabilities,72,1,1.4
+370,Hawkins County,Super Subgroup,269,52,19.3
+370,Hawkins County,White,475,170,35.8
+380,Haywood County,All Students,264,59,22.3
+380,Haywood County,Asian,1,*,*
+380,Haywood County,Black or African American,186,30,16.1
+380,Haywood County,Black/Hispanic/Native American,200,34,17
+380,Haywood County,Economically Disadvantaged,157,21,13.4
+380,Haywood County,English Learners with Transitional 1-4,4,*,*
+380,Haywood County,Hispanic,14,4,28.6
+380,Haywood County,Non-Economically Disadvantaged,107,38,35.5
+380,Haywood County,Non-English Learners,260,59,22.7
+380,Haywood County,Non-Students with Disabilities,232,58,25
+380,Haywood County,Students with Disabilities,32,1,3.1
+380,Haywood County,Super Subgroup,229,39,17
+380,Haywood County,White,63,24,38.1
+390,Henderson County,All Students,327,155,47.4
+390,Henderson County,American Indian or Alaska Native,2,*,*
+390,Henderson County,Asian,3,*,*
+390,Henderson County,Black or African American,33,4,12.1
+390,Henderson County,Black/Hispanic/Native American,50,9,18
+390,Henderson County,Economically Disadvantaged,147,40,27.2
+390,Henderson County,English Learners with Transitional 1-4,2,*,*
+390,Henderson County,Hispanic,15,5,33.3
+390,Henderson County,Non-Economically Disadvantaged,180,115,63.9
+390,Henderson County,Non-English Learners,325,155,47.7
+390,Henderson County,Non-Students with Disabilities,271,150,55.4
+390,Henderson County,Students with Disabilities,56,5,8.9
+390,Henderson County,Super Subgroup,178,47,26.4
+390,Henderson County,White,274,143,52.2
+400,Henry County,All Students,304,184,60.5
+400,Henry County,Asian,5,*,*
+400,Henry County,Black or African American,31,10,32.3
+400,Henry County,Black/Hispanic/Native American,41,16,39
+400,Henry County,Economically Disadvantaged,110,56,50.9
+400,Henry County,English Learners with Transitional 1-4,1,*,*
+400,Henry County,Hispanic,10,6,60
+400,Henry County,Non-Economically Disadvantaged,194,128,66
+400,Henry County,Non-English Learners,303,184,60.7
+400,Henry County,Non-Students with Disabilities,268,174,64.9
+400,Henry County,Students with Disabilities,36,10,27.8
+400,Henry County,Super Subgroup,147,68,46.3
+400,Henry County,White,258,163,63.2
+410,Hickman County,All Students,250,83,33.2
+410,Hickman County,American Indian or Alaska Native,2,*,*
+410,Hickman County,Asian,2,*,*
+410,Hickman County,Black or African American,13,3,23.1
+410,Hickman County,Black/Hispanic/Native American,22,6,27.3
+410,Hickman County,Economically Disadvantaged,115,28,24.3
+410,Hickman County,English Learners with Transitional 1-4,1,*,*
+410,Hickman County,Hispanic,7,*,*
+410,Hickman County,Non-Economically Disadvantaged,135,55,40.7
+410,Hickman County,Non-English Learners,249,83,33.3
+410,Hickman County,Non-Students with Disabilities,209,80,38.3
+410,Hickman County,Students with Disabilities,41,3,7.3
+410,Hickman County,Super Subgroup,139,33,23.7
+410,Hickman County,White,226,76,33.6
+420,Houston County,All Students,121,40,33.1
+420,Houston County,Asian,1,*,*
+420,Houston County,Black or African American,2,*,*
+420,Houston County,Black/Hispanic/Native American,4,*,*
+420,Houston County,Economically Disadvantaged,42,12,28.6
+420,Houston County,Hispanic,2,*,*
+420,Houston County,Non-Economically Disadvantaged,79,28,35.4
+420,Houston County,Non-English Learners,121,40,33.1
+420,Houston County,Non-Students with Disabilities,95,39,41.1
+420,Houston County,Students with Disabilities,26,1,3.8
+420,Houston County,Super Subgroup,56,12,21.4
+420,Houston County,White,116,39,33.6
+430,Humphreys County,All Students,183,86,47
+430,Humphreys County,American Indian or Alaska Native,2,*,*
+430,Humphreys County,Asian,2,*,*
+430,Humphreys County,Black or African American,10,1,10
+430,Humphreys County,Black/Hispanic/Native American,18,5,27.8
+430,Humphreys County,Economically Disadvantaged,71,23,32.4
+430,Humphreys County,Hispanic,6,*,*
+430,Humphreys County,Non-Economically Disadvantaged,112,63,56.3
+430,Humphreys County,Non-English Learners,183,86,47
+430,Humphreys County,Non-Students with Disabilities,152,80,52.6
+430,Humphreys County,Students with Disabilities,31,6,19.4
+430,Humphreys County,Super Subgroup,91,31,34.1
+430,Humphreys County,White,163,79,48.5
+440,Jackson County,All Students,110,36,32.7
+440,Jackson County,Asian,1,*,*
+440,Jackson County,Black or African American,1,*,*
+440,Jackson County,Black/Hispanic/Native American,2,*,*
+440,Jackson County,Economically Disadvantaged,61,14,23
+440,Jackson County,Hispanic,1,*,*
+440,Jackson County,Non-Economically Disadvantaged,49,22,44.9
+440,Jackson County,Non-English Learners,110,36,32.7
+440,Jackson County,Non-Students with Disabilities,91,34,37.4
+440,Jackson County,Students with Disabilities,19,2,10.5
+440,Jackson County,Super Subgroup,65,15,23.1
+440,Jackson County,White,107,35,32.7
+450,Jefferson County,All Students,495,240,48.5
+450,Jefferson County,American Indian or Alaska Native,2,*,*
+450,Jefferson County,Asian,10,9,90
+450,Jefferson County,Black or African American,16,9,56.3
+450,Jefferson County,Black/Hispanic/Native American,58,19,32.8
+450,Jefferson County,Economically Disadvantaged,229,77,33.6
+450,Jefferson County,English Learners with Transitional 1-4,10,1,10
+450,Jefferson County,Hispanic,40,10,25
+450,Jefferson County,Native Hawaiian or Other Pacific Islander,1,*,*
+450,Jefferson County,Non-Economically Disadvantaged,266,163,61.3
+450,Jefferson County,Non-English Learners,485,239,49.3
+450,Jefferson County,Non-Students with Disabilities,430,236,54.9
+450,Jefferson County,Students with Disabilities,65,4,6.2
+450,Jefferson County,Super Subgroup,268,86,32.1
+450,Jefferson County,White,426,211,49.5
+460,Johnson County,All Students,134,35,26.1
+460,Johnson County,Black/Hispanic/Native American,4,*,*
+460,Johnson County,Economically Disadvantaged,61,11,18
+460,Johnson County,English Learners with Transitional 1-4,2,*,*
+460,Johnson County,Hispanic,4,*,*
+460,Johnson County,Non-Economically Disadvantaged,73,24,32.9
+460,Johnson County,Non-English Learners,132,35,26.5
+460,Johnson County,Non-Students with Disabilities,107,35,32.7
+460,Johnson County,Students with Disabilities,27,**,**
+460,Johnson County,Super Subgroup,71,11,15.5
+460,Johnson County,White,130,35,26.9
+470,Knox County,All Students,4349,2102,48.3
+470,Knox County,American Indian or Alaska Native,19,10,52.6
+470,Knox County,Asian,117,89,76.1
+470,Knox County,Black or African American,721,163,22.6
+470,Knox County,Black/Hispanic/Native American,1050,255,24.3
+470,Knox County,Economically Disadvantaged,1287,290,22.5
+470,Knox County,English Learners with Transitional 1-4,156,11,7.1
+470,Knox County,Hispanic,310,82,26.5
+470,Knox County,Native Hawaiian or Other Pacific Islander,18,14,77.8
+470,Knox County,Non-Economically Disadvantaged,3062,1812,59.2
+470,Knox County,Non-English Learners,4193,2091,49.9
+470,Knox County,Non-Students with Disabilities,3734,2034,54.5
+470,Knox County,Students with Disabilities,615,68,11.1
+470,Knox County,Super Subgroup,2033,505,24.8
+470,Knox County,White,3164,1744,55.1
+480,Lake County,All Students,46,17,37
+480,Lake County,Black or African American,18,5,27.8
+480,Lake County,Black/Hispanic/Native American,19,5,26.3
+480,Lake County,Economically Disadvantaged,31,9,29
+480,Lake County,Hispanic,1,*,*
+480,Lake County,Non-Economically Disadvantaged,15,8,53.3
+480,Lake County,Non-English Learners,46,17,37
+480,Lake County,Non-Students with Disabilities,39,17,43.6
+480,Lake County,Students with Disabilities,7,*,*
+480,Lake County,Super Subgroup,37,11,29.7
+480,Lake County,White,27,12,44.4
+490,Lauderdale County,All Students,276,102,37
+490,Lauderdale County,American Indian or Alaska Native,1,*,*
+490,Lauderdale County,Asian,1,*,*
+490,Lauderdale County,Black or African American,127,18,14.2
+490,Lauderdale County,Black/Hispanic/Native American,138,20,14.5
+490,Lauderdale County,Economically Disadvantaged,148,32,21.6
+490,Lauderdale County,English Learners with Transitional 1-4,5,*,*
+490,Lauderdale County,Hispanic,10,2,20
+490,Lauderdale County,Native Hawaiian or Other Pacific Islander,1,*,*
+490,Lauderdale County,Non-Economically Disadvantaged,128,70,54.7
+490,Lauderdale County,Non-English Learners,271,101,37.3
+490,Lauderdale County,Non-Students with Disabilities,240,101,42.1
+490,Lauderdale County,Students with Disabilities,36,1,2.8
+490,Lauderdale County,Super Subgroup,195,44,22.6
+490,Lauderdale County,White,136,81,59.6
+500,Lawrence County,All Students,555,227,40.9
+500,Lawrence County,Asian,1,*,*
+500,Lawrence County,Black or African American,19,5,26.3
+500,Lawrence County,Black/Hispanic/Native American,32,10,31.3
+500,Lawrence County,Economically Disadvantaged,233,63,27
+500,Lawrence County,English Learners with Transitional 1-4,6,*,*
+500,Lawrence County,Hispanic,13,5,38.5
+500,Lawrence County,Non-Economically Disadvantaged,322,164,50.9
+500,Lawrence County,Non-English Learners,549,225,41
+500,Lawrence County,Non-Students with Disabilities,482,219,45.4
+500,Lawrence County,Students with Disabilities,73,8,11
+500,Lawrence County,Super Subgroup,276,74,26.8
+500,Lawrence County,White,522,216,41.4
+510,Lewis County,All Students,114,39,34.2
+510,Lewis County,American Indian or Alaska Native,1,*,*
+510,Lewis County,Black or African American,3,*,*
+510,Lewis County,Black/Hispanic/Native American,9,*,*
+510,Lewis County,Economically Disadvantaged,49,12,24.5
+510,Lewis County,Hispanic,5,*,*
+510,Lewis County,Non-Economically Disadvantaged,65,27,41.5
+510,Lewis County,Non-English Learners,114,39,34.2
+510,Lewis County,Non-Students with Disabilities,100,39,39
+510,Lewis County,Students with Disabilities,14,**,**
+510,Lewis County,Super Subgroup,57,13,22.8
+510,Lewis County,White,105,36,34.3
+520,Lincoln County,All Students,272,118,43.4
+520,Lincoln County,American Indian or Alaska Native,1,*,*
+520,Lincoln County,Asian,2,*,*
+520,Lincoln County,Black or African American,11,1,9.1
+520,Lincoln County,Black/Hispanic/Native American,32,7,21.9
+520,Lincoln County,Economically Disadvantaged,94,22,23.4
+520,Lincoln County,English Learners with Transitional 1-4,6,*,*
+520,Lincoln County,Hispanic,20,6,30
+520,Lincoln County,Non-Economically Disadvantaged,178,96,53.9
+520,Lincoln County,Non-English Learners,266,117,44
+520,Lincoln County,Non-Students with Disabilities,237,118,49.8
+520,Lincoln County,Students with Disabilities,35,**,**
+520,Lincoln County,Super Subgroup,126,27,21.4
+520,Lincoln County,White,238,110,46.2
+521,Fayetteville,All Students,81,35,43.2
+521,Fayetteville,Black or African American,35,8,22.9
+521,Fayetteville,Black/Hispanic/Native American,37,8,21.6
+521,Fayetteville,Economically Disadvantaged,31,7,22.6
+521,Fayetteville,English Learners with Transitional 1-4,2,*,*
+521,Fayetteville,Hispanic,2,*,*
+521,Fayetteville,Non-Economically Disadvantaged,50,28,56
+521,Fayetteville,Non-English Learners,79,35,44.3
+521,Fayetteville,Non-Students with Disabilities,74,35,47.3
+521,Fayetteville,Students with Disabilities,7,*,*
+521,Fayetteville,Super Subgroup,49,12,24.5
+521,Fayetteville,White,44,27,61.4
+530,Loudon County,All Students,258,100,38.8
+530,Loudon County,Black or African American,10,1,10
+530,Loudon County,Black/Hispanic/Native American,40,7,17.5
+530,Loudon County,Economically Disadvantaged,66,17,25.8
+530,Loudon County,English Learners with Transitional 1-4,11,**,**
+530,Loudon County,Hispanic,30,6,20
+530,Loudon County,Non-Economically Disadvantaged,192,83,43.2
+530,Loudon County,Non-English Learners,247,100,40.5
+530,Loudon County,Non-Students with Disabilities,218,97,44.5
+530,Loudon County,Students with Disabilities,40,3,7.5
+530,Loudon County,Super Subgroup,117,25,21.4
+530,Loudon County,White,218,93,42.7
+531,Lenoir City,All Students,273,122,44.7
+531,Lenoir City,American Indian or Alaska Native,1,*,*
+531,Lenoir City,Asian,3,*,*
+531,Lenoir City,Black or African American,5,*,*
+531,Lenoir City,Black/Hispanic/Native American,53,7,13.2
+531,Lenoir City,Economically Disadvantaged,88,18,20.5
+531,Lenoir City,English Learners with Transitional 1-4,16,1,6.3
+531,Lenoir City,Hispanic,47,6,12.8
+531,Lenoir City,Non-Economically Disadvantaged,185,104,56.2
+531,Lenoir City,Non-English Learners,257,121,47.1
+531,Lenoir City,Non-Students with Disabilities,234,119,50.9
+531,Lenoir City,Students with Disabilities,39,3,7.7
+531,Lenoir City,Super Subgroup,137,25,18.2
+531,Lenoir City,White,217,112,51.6
+540,McMinn County,All Students,508,210,41.3
+540,McMinn County,American Indian or Alaska Native,2,*,*
+540,McMinn County,Asian,5,*,*
+540,McMinn County,Black or African American,26,5,19.2
+540,McMinn County,Black/Hispanic/Native American,63,17,27
+540,McMinn County,Economically Disadvantaged,210,44,21
+540,McMinn County,English Learners with Transitional 1-4,8,*,*
+540,McMinn County,Hispanic,35,11,31.4
+540,McMinn County,Non-Economically Disadvantaged,298,166,55.7
+540,McMinn County,Non-English Learners,500,210,42
+540,McMinn County,Non-Students with Disabilities,450,209,46.4
+540,McMinn County,Students with Disabilities,58,1,1.7
+540,McMinn County,Super Subgroup,255,51,20
+540,McMinn County,White,440,189,43
+550,McNairy County,All Students,326,135,41.4
+550,McNairy County,American Indian or Alaska Native,2,*,*
+550,McNairy County,Asian,3,*,*
+550,McNairy County,Black or African American,39,5,12.8
+550,McNairy County,Black/Hispanic/Native American,49,9,18.4
+550,McNairy County,Economically Disadvantaged,162,45,27.8
+550,McNairy County,Hispanic,8,*,*
+550,McNairy County,Non-Economically Disadvantaged,164,90,54.9
+550,McNairy County,Non-English Learners,326,135,41.4
+550,McNairy County,Non-Students with Disabilities,282,134,47.5
+550,McNairy County,Students with Disabilities,44,1,2.3
+550,McNairy County,Super Subgroup,188,48,25.5
+550,McNairy County,White,274,124,45.3
+560,Macon County,All Students,275,132,48
+560,Macon County,Asian,1,*,*
+560,Macon County,Black/Hispanic/Native American,25,11,44
+560,Macon County,Economically Disadvantaged,117,52,44.4
+560,Macon County,English Learners with Transitional 1-4,8,*,*
+560,Macon County,Hispanic,25,11,44
+560,Macon County,Non-Economically Disadvantaged,158,80,50.6
+560,Macon County,Non-English Learners,267,129,48.3
+560,Macon County,Non-Students with Disabilities,240,123,51.3
+560,Macon County,Students with Disabilities,35,9,25.7
+560,Macon County,Super Subgroup,142,56,39.4
+560,Macon County,White,249,120,48.2
+570,Madison County,All Students,878,269,30.6
+570,Madison County,American Indian or Alaska Native,3,*,*
+570,Madison County,Asian,9,*,*
+570,Madison County,Black or African American,549,108,19.7
+570,Madison County,Black/Hispanic/Native American,606,127,21
+570,Madison County,Economically Disadvantaged,460,82,17.8
+570,Madison County,English Learners with Transitional 1-4,21,1,4.8
+570,Madison County,Hispanic,54,18,33.3
+570,Madison County,Non-Economically Disadvantaged,418,187,44.7
+570,Madison County,Non-English Learners,857,268,31.3
+570,Madison County,Non-Students with Disabilities,747,266,35.6
+570,Madison County,Students with Disabilities,131,3,2.3
+570,Madison County,Super Subgroup,703,153,21.8
+570,Madison County,White,263,134,51
+580,Marion County,All Students,286,128,44.8
+580,Marion County,American Indian or Alaska Native,1,*,*
+580,Marion County,Asian,2,*,*
+580,Marion County,Black or African American,13,5,38.5
+580,Marion County,Black/Hispanic/Native American,19,8,42.1
+580,Marion County,Economically Disadvantaged,130,39,30
+580,Marion County,Hispanic,5,*,*
+580,Marion County,Native Hawaiian or Other Pacific Islander,1,*,*
+580,Marion County,Non-Economically Disadvantaged,156,89,57.1
+580,Marion County,Non-English Learners,286,128,44.8
+580,Marion County,Non-Students with Disabilities,248,124,50
+580,Marion County,Students with Disabilities,38,4,10.5
+580,Marion County,Super Subgroup,154,44,28.6
+580,Marion County,White,264,118,44.7
+581,Richard City,All Students,22,9,40.9
+581,Richard City,Black or African American,1,*,*
+581,Richard City,Black/Hispanic/Native American,2,*,*
+581,Richard City,Economically Disadvantaged,10,5,50
+581,Richard City,Hispanic,1,*,*
+581,Richard City,Non-Economically Disadvantaged,12,4,33.3
+581,Richard City,Non-English Learners,22,9,40.9
+581,Richard City,Non-Students with Disabilities,20,9,45
+581,Richard City,Students with Disabilities,2,*,*
+581,Richard City,Super Subgroup,12,5,41.7
+581,Richard City,White,20,9,45
+590,Marshall County,All Students,416,198,47.6
+590,Marshall County,Asian,3,*,*
+590,Marshall County,Black or African American,36,6,16.7
+590,Marshall County,Black/Hispanic/Native American,77,25,32.5
+590,Marshall County,Economically Disadvantaged,132,39,29.5
+590,Marshall County,English Learners with Transitional 1-4,4,*,*
+590,Marshall County,Hispanic,41,19,46.3
+590,Marshall County,Non-Economically Disadvantaged,284,159,56
+590,Marshall County,Non-English Learners,412,197,47.8
+590,Marshall County,Non-Students with Disabilities,380,198,52.1
+590,Marshall County,Students with Disabilities,36,**,**
+590,Marshall County,Super Subgroup,187,54,28.9
+590,Marshall County,White,336,170,50.6
+600,Maury County,All Students,871,315,36.2
+600,Maury County,Asian,13,7,53.8
+600,Maury County,Black or African American,151,22,14.6
+600,Maury County,Black/Hispanic/Native American,218,37,17
+600,Maury County,Economically Disadvantaged,310,59,19
+600,Maury County,English Learners with Transitional 1-4,18,**,**
+600,Maury County,Hispanic,67,15,22.4
+600,Maury County,Native Hawaiian or Other Pacific Islander,2,*,*
+600,Maury County,Non-Economically Disadvantaged,561,256,45.6
+600,Maury County,Non-English Learners,853,315,36.9
+600,Maury County,Non-Students with Disabilities,744,305,41
+600,Maury County,Students with Disabilities,127,10,7.9
+600,Maury County,Super Subgroup,451,81,18
+600,Maury County,White,638,270,42.3
+610,Meigs County,All Students,124,75,60.5
+610,Meigs County,Black or African American,2,*,*
+610,Meigs County,Black/Hispanic/Native American,4,*,*
+610,Meigs County,Economically Disadvantaged,54,25,46.3
+610,Meigs County,Hispanic,2,*,*
+610,Meigs County,Native Hawaiian or Other Pacific Islander,1,*,*
+610,Meigs County,Non-Economically Disadvantaged,70,50,71.4
+610,Meigs County,Non-English Learners,124,75,60.5
+610,Meigs County,Non-Students with Disabilities,108,72,66.7
+610,Meigs County,Students with Disabilities,16,3,18.8
+610,Meigs County,Super Subgroup,62,26,41.9
+610,Meigs County,White,119,73,61.3
+620,Monroe County,All Students,525,190,36.2
+620,Monroe County,Asian,7,*,*
+620,Monroe County,Black or African American,16,5,31.3
+620,Monroe County,Black/Hispanic/Native American,51,8,15.7
+620,Monroe County,Economically Disadvantaged,171,31,18.1
+620,Monroe County,English Learners with Transitional 1-4,11,**,**
+620,Monroe County,Hispanic,35,3,8.6
+620,Monroe County,Native Hawaiian or Other Pacific Islander,2,*,*
+620,Monroe County,Non-Economically Disadvantaged,354,159,44.9
+620,Monroe County,Non-English Learners,514,190,37
+620,Monroe County,Non-Students with Disabilities,445,179,40.2
+620,Monroe County,Students with Disabilities,80,11,13.8
+620,Monroe County,Super Subgroup,251,47,18.7
+620,Monroe County,White,465,179,38.5
+630,Montgomery County,All Students,2392,1032,43.1
+630,Montgomery County,American Indian or Alaska Native,22,8,36.4
+630,Montgomery County,Asian,67,40,59.7
+630,Montgomery County,Black or African American,717,207,28.9
+630,Montgomery County,Black/Hispanic/Native American,1033,327,31.7
+630,Montgomery County,Economically Disadvantaged,815,219,26.9
+630,Montgomery County,English Learners with Transitional 1-4,65,5,7.7
+630,Montgomery County,Hispanic,294,112,38.1
+630,Montgomery County,Native Hawaiian or Other Pacific Islander,26,8,30.8
+630,Montgomery County,Non-Economically Disadvantaged,1577,813,51.6
+630,Montgomery County,Non-English Learners,2327,1027,44.1
+630,Montgomery County,Non-Students with Disabilities,2075,1010,48.7
+630,Montgomery County,Students with Disabilities,317,22,6.9
+630,Montgomery County,Super Subgroup,1489,455,30.6
+630,Montgomery County,White,1266,657,51.9
+640,Moore County,All Students,70,40,57.1
+640,Moore County,Black or African American,2,*,*
+640,Moore County,Black/Hispanic/Native American,4,*,*
+640,Moore County,Economically Disadvantaged,21,10,47.6
+640,Moore County,Hispanic,2,*,*
+640,Moore County,Native Hawaiian or Other Pacific Islander,1,*,*
+640,Moore County,Non-Economically Disadvantaged,49,30,61.2
+640,Moore County,Non-English Learners,70,40,57.1
+640,Moore County,Non-Students with Disabilities,66,39,59.1
+640,Moore County,Students with Disabilities,4,*,*
+640,Moore County,Super Subgroup,25,12,48
+640,Moore County,White,65,35,53.8
+650,Morgan County,All Students,236,62,26.3
+650,Morgan County,American Indian or Alaska Native,1,*,*
+650,Morgan County,Asian,1,*,*
+650,Morgan County,Black or African American,4,*,*
+650,Morgan County,Black/Hispanic/Native American,5,*,*
+650,Morgan County,Economically Disadvantaged,116,20,17.2
+650,Morgan County,Non-Economically Disadvantaged,120,42,35
+650,Morgan County,Non-English Learners,236,62,26.3
+650,Morgan County,Non-Students with Disabilities,200,60,30
+650,Morgan County,Students with Disabilities,36,2,5.6
+650,Morgan County,Super Subgroup,130,20,15.4
+650,Morgan County,White,230,58,25.2
+660,Obion County,All Students,240,95,39.6
+660,Obion County,Asian,2,*,*
+660,Obion County,Black or African American,22,3,13.6
+660,Obion County,Black/Hispanic/Native American,33,4,12.1
+660,Obion County,Economically Disadvantaged,107,29,27.1
+660,Obion County,English Learners with Transitional 1-4,3,*,*
+660,Obion County,Hispanic,11,1,9.1
+660,Obion County,Non-Economically Disadvantaged,133,66,49.6
+660,Obion County,Non-English Learners,237,95,40.1
+660,Obion County,Non-Students with Disabilities,206,94,45.6
+660,Obion County,Students with Disabilities,34,1,2.9
+660,Obion County,Super Subgroup,133,31,23.3
+660,Obion County,White,205,90,43.9
+661,Union City,All Students,120,67,55.8
+661,Union City,Black or African American,33,11,33.3
+661,Union City,Black/Hispanic/Native American,45,13,28.9
+661,Union City,Economically Disadvantaged,38,11,28.9
+661,Union City,English Learners with Transitional 1-4,4,*,*
+661,Union City,Hispanic,12,2,16.7
+661,Union City,Non-Economically Disadvantaged,82,56,68.3
+661,Union City,Non-English Learners,116,67,57.8
+661,Union City,Non-Students with Disabilities,109,66,60.6
+661,Union City,Students with Disabilities,11,1,9.1
+661,Union City,Super Subgroup,59,19,32.2
+661,Union City,White,75,54,72
+670,Overton County,All Students,223,95,42.6
+670,Overton County,American Indian or Alaska Native,1,*,*
+670,Overton County,Asian,3,*,*
+670,Overton County,Black or African American,1,*,*
+670,Overton County,Black/Hispanic/Native American,4,*,*
+670,Overton County,Economically Disadvantaged,88,27,30.7
+670,Overton County,Hispanic,2,*,*
+670,Overton County,Non-Economically Disadvantaged,135,68,50.4
+670,Overton County,Non-English Learners,223,95,42.6
+670,Overton County,Non-Students with Disabilities,189,93,49.2
+670,Overton County,Students with Disabilities,34,2,5.9
+670,Overton County,Super Subgroup,100,29,29
+670,Overton County,White,216,93,43.1
+680,Perry County,All Students,69,37,53.6
+680,Perry County,Black or African American,2,*,*
+680,Perry County,Black/Hispanic/Native American,5,*,*
+680,Perry County,Economically Disadvantaged,30,11,36.7
+680,Perry County,Hispanic,3,*,*
+680,Perry County,Non-Economically Disadvantaged,39,26,66.7
+680,Perry County,Non-English Learners,69,37,53.6
+680,Perry County,Non-Students with Disabilities,57,31,54.4
+680,Perry County,Students with Disabilities,12,6,50
+680,Perry County,Super Subgroup,36,14,38.9
+680,Perry County,White,64,35,54.7
+690,Pickett County,All Students,41,18,43.9
+690,Pickett County,Black/Hispanic/Native American,2,*,*
+690,Pickett County,Economically Disadvantaged,13,5,38.5
+690,Pickett County,Hispanic,2,*,*
+690,Pickett County,Non-Economically Disadvantaged,28,13,46.4
+690,Pickett County,Non-English Learners,41,18,43.9
+690,Pickett County,Non-Students with Disabilities,36,17,47.2
+690,Pickett County,Students with Disabilities,5,*,*
+690,Pickett County,Super Subgroup,17,7,41.2
+690,Pickett County,White,39,17,43.6
+700,Polk County,All Students,182,67,36.8
+700,Polk County,American Indian or Alaska Native,1,*,*
+700,Polk County,Black or African American,1,*,*
+700,Polk County,Black/Hispanic/Native American,7,*,*
+700,Polk County,Economically Disadvantaged,80,24,30
+700,Polk County,Hispanic,5,*,*
+700,Polk County,Non-Economically Disadvantaged,102,43,42.2
+700,Polk County,Non-English Learners,182,67,36.8
+700,Polk County,Non-Students with Disabilities,157,66,42
+700,Polk County,Students with Disabilities,25,1,4
+700,Polk County,Super Subgroup,94,27,28.7
+700,Polk County,White,175,64,36.6
+710,Putnam County,All Students,822,339,41.2
+710,Putnam County,American Indian or Alaska Native,2,*,*
+710,Putnam County,Asian,11,8,72.7
+710,Putnam County,Black or African American,27,7,25.9
+710,Putnam County,Black/Hispanic/Native American,161,30,18.6
+710,Putnam County,Economically Disadvantaged,320,69,21.6
+710,Putnam County,English Learners with Transitional 1-4,45,1,2.2
+710,Putnam County,Hispanic,132,23,17.4
+710,Putnam County,Native Hawaiian or Other Pacific Islander,1,*,*
+710,Putnam County,Non-Economically Disadvantaged,502,270,53.8
+710,Putnam County,Non-English Learners,777,338,43.5
+710,Putnam County,Non-Students with Disabilities,677,325,48
+710,Putnam County,Students with Disabilities,145,14,9.7
+710,Putnam County,Super Subgroup,433,95,21.9
+710,Putnam County,White,649,301,46.4
+720,Rhea County,All Students,349,115,33
+720,Rhea County,American Indian or Alaska Native,2,*,*
+720,Rhea County,Asian,2,*,*
+720,Rhea County,Black or African American,17,1,5.9
+720,Rhea County,Black/Hispanic/Native American,52,6,11.5
+720,Rhea County,Economically Disadvantaged,184,37,20.1
+720,Rhea County,English Learners with Transitional 1-4,10,**,**
+720,Rhea County,Hispanic,33,5,15.2
+720,Rhea County,Non-Economically Disadvantaged,165,78,47.3
+720,Rhea County,Non-English Learners,339,115,33.9
+720,Rhea County,Non-Students with Disabilities,304,113,37.2
+720,Rhea County,Students with Disabilities,45,2,4.4
+720,Rhea County,Super Subgroup,213,41,19.2
+720,Rhea County,White,295,108,36.6
+730,Roane County,All Students,509,242,47.5
+730,Roane County,American Indian or Alaska Native,1,*,*
+730,Roane County,Asian,6,*,*
+730,Roane County,Black or African American,27,5,18.5
+730,Roane County,Black/Hispanic/Native American,37,9,24.3
+730,Roane County,Economically Disadvantaged,203,68,33.5
+730,Roane County,English Learners with Transitional 1-4,1,*,*
+730,Roane County,Hispanic,9,*,*
+730,Roane County,Native Hawaiian or Other Pacific Islander,1,*,*
+730,Roane County,Non-Economically Disadvantaged,306,174,56.9
+730,Roane County,Non-English Learners,508,242,47.6
+730,Roane County,Non-Students with Disabilities,440,234,53.2
+730,Roane County,Students with Disabilities,69,8,11.6
+730,Roane County,Super Subgroup,240,77,32.1
+730,Roane County,White,465,227,48.8
+740,Robertson County,All Students,794,271,34.1
+740,Robertson County,American Indian or Alaska Native,4,*,*
+740,Robertson County,Asian,8,*,*
+740,Robertson County,Black or African American,72,7,9.7
+740,Robertson County,Black/Hispanic/Native American,170,23,13.5
+740,Robertson County,Economically Disadvantaged,283,52,18.4
+740,Robertson County,English Learners with Transitional 1-4,22,1,4.5
+740,Robertson County,Hispanic,94,14,14.9
+740,Robertson County,Native Hawaiian or Other Pacific Islander,1,*,*
+740,Robertson County,Non-Economically Disadvantaged,511,219,42.9
+740,Robertson County,Non-English Learners,772,270,35
+740,Robertson County,Non-Students with Disabilities,677,267,39.4
+740,Robertson County,Students with Disabilities,117,4,3.4
+740,Robertson County,Super Subgroup,386,68,17.6
+740,Robertson County,White,615,242,39.3
+750,Rutherford County,All Students,3921,1886,48.1
+750,Rutherford County,American Indian or Alaska Native,8,*,*
+750,Rutherford County,Asian,188,105,55.9
+750,Rutherford County,Black or African American,860,265,30.8
+750,Rutherford County,Black/Hispanic/Native American,1398,424,30.3
+750,Rutherford County,Economically Disadvantaged,1221,347,28.4
+750,Rutherford County,English Learners with Transitional 1-4,190,15,7.9
+750,Rutherford County,Hispanic,530,154,29.1
+750,Rutherford County,Native Hawaiian or Other Pacific Islander,9,*,*
+750,Rutherford County,Non-Economically Disadvantaged,2700,1539,57
+750,Rutherford County,Non-English Learners,3731,1871,50.1
+750,Rutherford County,Non-Students with Disabilities,3510,1863,53.1
+750,Rutherford County,Students with Disabilities,411,23,5.6
+750,Rutherford County,Super Subgroup,2111,655,31
+750,Rutherford County,White,2326,1353,58.2
+760,Scott County,All Students,195,65,33.3
+760,Scott County,American Indian or Alaska Native,1,*,*
+760,Scott County,Black/Hispanic/Native American,3,*,*
+760,Scott County,Economically Disadvantaged,97,24,24.7
+760,Scott County,Hispanic,2,*,*
+760,Scott County,Non-Economically Disadvantaged,98,41,41.8
+760,Scott County,Non-English Learners,195,65,33.3
+760,Scott County,Non-Students with Disabilities,177,65,36.7
+760,Scott County,Students with Disabilities,18,**,**
+760,Scott County,Super Subgroup,107,26,24.3
+760,Scott County,White,192,63,32.8
+761,Oneida,All Students,85,35,41.2
+761,Oneida,Economically Disadvantaged,32,4,12.5
+761,Oneida,Non-Economically Disadvantaged,53,31,58.5
+761,Oneida,Non-English Learners,85,35,41.2
+761,Oneida,Non-Students with Disabilities,75,35,46.7
+761,Oneida,Students with Disabilities,10,**,**
+761,Oneida,Super Subgroup,34,4,11.8
+761,Oneida,White,85,35,41.2
+770,Sequatchie County,All Students,171,56,32.7
+770,Sequatchie County,American Indian or Alaska Native,1,*,*
+770,Sequatchie County,Black/Hispanic/Native American,8,*,*
+770,Sequatchie County,Economically Disadvantaged,81,23,28.4
+770,Sequatchie County,Hispanic,7,*,*
+770,Sequatchie County,Non-Economically Disadvantaged,90,33,36.7
+770,Sequatchie County,Non-English Learners,171,56,32.7
+770,Sequatchie County,Non-Students with Disabilities,146,56,38.4
+770,Sequatchie County,Students with Disabilities,25,**,**
+770,Sequatchie County,Super Subgroup,92,24,26.1
+770,Sequatchie County,White,163,55,33.7
+780,Sevier County,All Students,1084,444,41
+780,Sevier County,American Indian or Alaska Native,3,*,*
+780,Sevier County,Asian,24,16,66.7
+780,Sevier County,Black or African American,24,7,29.2
+780,Sevier County,Black/Hispanic/Native American,129,21,16.3
+780,Sevier County,Economically Disadvantaged,382,98,25.7
+780,Sevier County,English Learners with Transitional 1-4,53,**,**
+780,Sevier County,Hispanic,102,14,13.7
+780,Sevier County,Non-Economically Disadvantaged,702,346,49.3
+780,Sevier County,Non-English Learners,1031,444,43.1
+780,Sevier County,Non-Students with Disabilities,969,434,44.8
+780,Sevier County,Students with Disabilities,115,10,8.7
+780,Sevier County,Super Subgroup,500,118,23.6
+780,Sevier County,White,931,407,43.7
+792,Shelby County,All Students,7906,1650,20.9
+792,Shelby County,American Indian or Alaska Native,7,*,*
+792,Shelby County,Asian,151,102,67.5
+792,Shelby County,Black or African American,6248,1105,17.7
+792,Shelby County,Black/Hispanic/Native American,7249,1285,17.7
+792,Shelby County,Economically Disadvantaged,4636,620,13.4
+792,Shelby County,English Learners with Transitional 1-4,490,17,3.5
+792,Shelby County,Hispanic,994,179,18
+792,Shelby County,Native Hawaiian or Other Pacific Islander,5,*,*
+792,Shelby County,Non-Economically Disadvantaged,3270,1030,31.5
+792,Shelby County,Non-English Learners,7416,1633,22
+792,Shelby County,Non-Students with Disabilities,6796,1610,23.7
+792,Shelby County,Students with Disabilities,1110,40,3.6
+792,Shelby County,Super Subgroup,7495,1355,18.1
+792,Shelby County,White,501,259,51.7
+793,Arlington,All Students,512,324,63.3
+793,Arlington,American Indian or Alaska Native,2,*,*
+793,Arlington,Asian,21,16,76.2
+793,Arlington,Black or African American,86,39,45.3
+793,Arlington,Black/Hispanic/Native American,117,51,43.6
+793,Arlington,Economically Disadvantaged,51,17,33.3
+793,Arlington,English Learners with Transitional 1-4,12,2,16.7
+793,Arlington,Hispanic,29,10,34.5
+793,Arlington,Native Hawaiian or Other Pacific Islander,1,*,*
+793,Arlington,Non-Economically Disadvantaged,461,307,66.6
+793,Arlington,Non-English Learners,500,322,64.4
+793,Arlington,Non-Students with Disabilities,469,317,67.6
+793,Arlington,Students with Disabilities,43,7,16.3
+793,Arlington,Super Subgroup,164,66,40.2
+793,Arlington,White,373,257,68.9
+794,Bartlett,All Students,605,351,58
+794,Bartlett,American Indian or Alaska Native,2,*,*
+794,Bartlett,Asian,28,22,78.6
+794,Bartlett,Black or African American,206,94,45.6
+794,Bartlett,Black/Hispanic/Native American,232,106,45.7
+794,Bartlett,Economically Disadvantaged,127,46,36.2
+794,Bartlett,English Learners with Transitional 1-4,8,*,*
+794,Bartlett,Hispanic,24,11,45.8
+794,Bartlett,Native Hawaiian or Other Pacific Islander,7,*,*
+794,Bartlett,Non-Economically Disadvantaged,478,305,63.8
+794,Bartlett,Non-English Learners,597,348,58.3
+794,Bartlett,Non-Students with Disabilities,538,335,62.3
+794,Bartlett,Students with Disabilities,67,16,23.9
+794,Bartlett,Super Subgroup,324,139,42.9
+794,Bartlett,White,338,221,65.4
+795,Collierville,All Students,647,489,75.6
+795,Collierville,American Indian or Alaska Native,4,*,*
+795,Collierville,Asian,61,49,80.3
+795,Collierville,Black or African American,132,58,43.9
+795,Collierville,Black/Hispanic/Native American,175,85,48.6
+795,Collierville,Economically Disadvantaged,58,14,24.1
+795,Collierville,English Learners with Transitional 1-4,9,*,*
+795,Collierville,Hispanic,39,24,61.5
+795,Collierville,Native Hawaiian or Other Pacific Islander,1,*,*
+795,Collierville,Non-Economically Disadvantaged,589,475,80.6
+795,Collierville,Non-English Learners,638,486,76.2
+795,Collierville,Non-Students with Disabilities,550,459,83.5
+795,Collierville,Students with Disabilities,97,30,30.9
+795,Collierville,Super Subgroup,229,113,49.3
+795,Collierville,White,410,354,86.3
+796,Germantown,All Students,433,357,82.4
+796,Germantown,American Indian or Alaska Native,1,*,*
+796,Germantown,Asian,43,37,86
+796,Germantown,Black or African American,50,34,68
+796,Germantown,Black/Hispanic/Native American,72,52,72.2
+796,Germantown,Economically Disadvantaged,25,16,64
+796,Germantown,English Learners with Transitional 1-4,10,3,30
+796,Germantown,Hispanic,21,17,81
+796,Germantown,Native Hawaiian or Other Pacific Islander,1,*,*
+796,Germantown,Non-Economically Disadvantaged,408,341,83.6
+796,Germantown,Non-English Learners,423,354,83.7
+796,Germantown,Non-Students with Disabilities,400,348,87
+796,Germantown,Students with Disabilities,33,9,27.3
+796,Germantown,Super Subgroup,120,73,60.8
+796,Germantown,White,317,267,84.2
+798,Millington Municipal Schools,All Students,226,68,30.1
+798,Millington Municipal Schools,American Indian or Alaska Native,5,*,*
+798,Millington Municipal Schools,Asian,3,*,*
+798,Millington Municipal Schools,Black or African American,107,15,14
+798,Millington Municipal Schools,Black/Hispanic/Native American,134,28,20.9
+798,Millington Municipal Schools,Economically Disadvantaged,113,22,19.5
+798,Millington Municipal Schools,English Learners with Transitional 1-4,3,*,*
+798,Millington Municipal Schools,Hispanic,22,10,45.5
+798,Millington Municipal Schools,Non-Economically Disadvantaged,113,46,40.7
+798,Millington Municipal Schools,Non-English Learners,223,68,30.5
+798,Millington Municipal Schools,Non-Students with Disabilities,183,68,37.2
+798,Millington Municipal Schools,Students with Disabilities,43,**,**
+798,Millington Municipal Schools,Super Subgroup,176,38,21.6
+798,Millington Municipal Schools,White,89,39,43.8
+800,Smith County,All Students,245,80,32.7
+800,Smith County,American Indian or Alaska Native,1,*,*
+800,Smith County,Black or African American,10,1,10
+800,Smith County,Black/Hispanic/Native American,18,1,5.6
+800,Smith County,Economically Disadvantaged,91,14,15.4
+800,Smith County,Hispanic,7,*,*
+800,Smith County,Non-Economically Disadvantaged,154,66,42.9
+800,Smith County,Non-English Learners,245,80,32.7
+800,Smith County,Non-Students with Disabilities,206,79,38.3
+800,Smith County,Students with Disabilities,39,1,2.6
+800,Smith County,Super Subgroup,109,16,14.7
+800,Smith County,White,227,79,34.8
+810,Stewart County,All Students,180,87,48.3
+810,Stewart County,American Indian or Alaska Native,2,*,*
+810,Stewart County,Asian,1,*,*
+810,Stewart County,Black or African American,4,*,*
+810,Stewart County,Black/Hispanic/Native American,10,4,40
+810,Stewart County,Economically Disadvantaged,57,16,28.1
+810,Stewart County,English Learners with Transitional 1-4,1,*,*
+810,Stewart County,Hispanic,4,*,*
+810,Stewart County,Native Hawaiian or Other Pacific Islander,1,*,*
+810,Stewart County,Non-Economically Disadvantaged,123,71,57.7
+810,Stewart County,Non-English Learners,179,87,48.6
+810,Stewart County,Non-Students with Disabilities,148,85,57.4
+810,Stewart County,Students with Disabilities,32,2,6.3
+810,Stewart County,Super Subgroup,73,19,26
+810,Stewart County,White,168,83,49.4
+820,Sullivan County,All Students,752,329,43.8
+820,Sullivan County,American Indian or Alaska Native,2,*,*
+820,Sullivan County,Asian,6,*,*
+820,Sullivan County,Black or African American,12,5,41.7
+820,Sullivan County,Black/Hispanic/Native American,24,9,37.5
+820,Sullivan County,Economically Disadvantaged,271,72,26.6
+820,Sullivan County,English Learners with Transitional 1-4,1,*,*
+820,Sullivan County,Hispanic,10,3,30
+820,Sullivan County,Native Hawaiian or Other Pacific Islander,1,*,*
+820,Sullivan County,Non-Economically Disadvantaged,481,257,53.4
+820,Sullivan County,Non-English Learners,751,329,43.8
+820,Sullivan County,Non-Students with Disabilities,632,324,51.3
+820,Sullivan County,Students with Disabilities,120,5,4.2
+820,Sullivan County,Super Subgroup,336,82,24.4
+820,Sullivan County,White,721,316,43.8
+821,Bristol,All Students,348,173,49.7
+821,Bristol,American Indian or Alaska Native,1,*,*
+821,Bristol,Asian,4,*,*
+821,Bristol,Black or African American,19,10,52.6
+821,Bristol,Black/Hispanic/Native American,36,17,47.2
+821,Bristol,Economically Disadvantaged,121,31,25.6
+821,Bristol,English Learners with Transitional 1-4,4,*,*
+821,Bristol,Hispanic,16,6,37.5
+821,Bristol,Native Hawaiian or Other Pacific Islander,1,*,*
+821,Bristol,Non-Economically Disadvantaged,227,142,62.6
+821,Bristol,Non-English Learners,344,172,50
+821,Bristol,Non-Students with Disabilities,321,173,53.9
+821,Bristol,Students with Disabilities,27,**,**
+821,Bristol,Super Subgroup,153,43,28.1
+821,Bristol,White,307,152,49.5
+822,Kingsport,All Students,539,323,59.9
+822,Kingsport,American Indian or Alaska Native,4,*,*
+822,Kingsport,Asian,15,14,93.3
+822,Kingsport,Black or African American,46,18,39.1
+822,Kingsport,Black/Hispanic/Native American,73,29,39.7
+822,Kingsport,Economically Disadvantaged,206,73,35.4
+822,Kingsport,English Learners with Transitional 1-4,8,*,*
+822,Kingsport,Hispanic,23,9,39.1
+822,Kingsport,Native Hawaiian or Other Pacific Islander,2,*,*
+822,Kingsport,Non-Economically Disadvantaged,333,250,75.1
+822,Kingsport,Non-English Learners,531,321,60.5
+822,Kingsport,Non-Students with Disabilities,442,315,71.3
+822,Kingsport,Students with Disabilities,97,8,8.2
+822,Kingsport,Super Subgroup,269,97,36.1
+822,Kingsport,White,449,280,62.4
+830,Sumner County,All Students,2141,1020,47.6
+830,Sumner County,American Indian or Alaska Native,8,*,*
+830,Sumner County,Asian,53,28,52.8
+830,Sumner County,Black or African American,250,54,21.6
+830,Sumner County,Black/Hispanic/Native American,422,110,26.1
+830,Sumner County,Economically Disadvantaged,534,140,26.2
+830,Sumner County,English Learners with Transitional 1-4,34,3,8.8
+830,Sumner County,Hispanic,164,53,32.3
+830,Sumner County,Native Hawaiian or Other Pacific Islander,1,*,*
+830,Sumner County,Non-Economically Disadvantaged,1607,880,54.8
+830,Sumner County,Non-English Learners,2107,1017,48.3
+830,Sumner County,Non-Students with Disabilities,1862,991,53.2
+830,Sumner County,Students with Disabilities,279,29,10.4
+830,Sumner County,Super Subgroup,901,245,27.2
+830,Sumner County,White,1665,881,52.9
+840,Tipton County,All Students,808,400,49.5
+840,Tipton County,American Indian or Alaska Native,3,*,*
+840,Tipton County,Asian,3,*,*
+840,Tipton County,Black or African American,202,49,24.3
+840,Tipton County,Black/Hispanic/Native American,217,59,27.2
+840,Tipton County,Economically Disadvantaged,273,78,28.6
+840,Tipton County,Hispanic,12,8,66.7
+840,Tipton County,Native Hawaiian or Other Pacific Islander,2,*,*
+840,Tipton County,Non-Economically Disadvantaged,535,322,60.2
+840,Tipton County,Non-English Learners,808,400,49.5
+840,Tipton County,Non-Students with Disabilities,710,396,55.8
+840,Tipton County,Students with Disabilities,98,4,4.1
+840,Tipton County,Super Subgroup,399,119,29.8
+840,Tipton County,White,586,337,57.5
+850,Trousdale County,All Students,90,54,60
+850,Trousdale County,Black or African American,12,3,25
+850,Trousdale County,Black/Hispanic/Native American,17,6,35.3
+850,Trousdale County,Economically Disadvantaged,31,15,48.4
+850,Trousdale County,English Learners with Transitional 1-4,1,*,*
+850,Trousdale County,Hispanic,5,*,*
+850,Trousdale County,Non-Economically Disadvantaged,59,39,66.1
+850,Trousdale County,Non-English Learners,89,53,59.6
+850,Trousdale County,Non-Students with Disabilities,77,52,67.5
+850,Trousdale County,Students with Disabilities,13,2,15.4
+850,Trousdale County,Super Subgroup,40,17,42.5
+850,Trousdale County,White,73,48,65.8
+860,Unicoi County,All Students,205,75,36.6
+860,Unicoi County,Black/Hispanic/Native American,26,9,34.6
+860,Unicoi County,Economically Disadvantaged,93,26,28
+860,Unicoi County,English Learners with Transitional 1-4,9,*,*
+860,Unicoi County,Hispanic,26,9,34.6
+860,Unicoi County,Non-Economically Disadvantaged,112,49,43.8
+860,Unicoi County,Non-English Learners,196,75,38.3
+860,Unicoi County,Non-Students with Disabilities,167,75,44.9
+860,Unicoi County,Students with Disabilities,38,**,**
+860,Unicoi County,Super Subgroup,116,31,26.7
+860,Unicoi County,White,179,66,36.9
+870,Union County,All Students,202,39,19.3
+870,Union County,Black or African American,1,*,*
+870,Union County,Black/Hispanic/Native American,6,*,*
+870,Union County,Economically Disadvantaged,111,23,20.7
+870,Union County,Hispanic,5,*,*
+870,Union County,Non-Economically Disadvantaged,91,16,17.6
+870,Union County,Non-English Learners,202,39,19.3
+870,Union County,Non-Students with Disabilities,177,38,21.5
+870,Union County,Students with Disabilities,25,1,4
+870,Union County,Super Subgroup,118,23,19.5
+870,Union County,White,196,38,19.4
+880,Van Buren County,All Students,60,24,40
+880,Van Buren County,Asian,1,*,*
+880,Van Buren County,Black/Hispanic/Native American,4,*,*
+880,Van Buren County,Economically Disadvantaged,28,7,25
+880,Van Buren County,English Learners with Transitional 1-4,1,*,*
+880,Van Buren County,Hispanic,4,*,*
+880,Van Buren County,Non-Economically Disadvantaged,32,17,53.1
+880,Van Buren County,Non-English Learners,59,24,40.7
+880,Van Buren County,Non-Students with Disabilities,51,24,47.1
+880,Van Buren County,Students with Disabilities,9,*,*
+880,Van Buren County,Super Subgroup,33,9,27.3
+880,Van Buren County,White,55,20,36.4
+890,Warren County,All Students,459,161,35.1
+890,Warren County,American Indian or Alaska Native,3,*,*
+890,Warren County,Asian,3,*,*
+890,Warren County,Black or African American,26,7,26.9
+890,Warren County,Black/Hispanic/Native American,101,29,28.7
+890,Warren County,Economically Disadvantaged,223,53,23.8
+890,Warren County,English Learners with Transitional 1-4,16,1,6.3
+890,Warren County,Hispanic,72,21,29.2
+890,Warren County,Non-Economically Disadvantaged,236,108,45.8
+890,Warren County,Non-English Learners,443,160,36.1
+890,Warren County,Non-Students with Disabilities,398,160,40.2
+890,Warren County,Students with Disabilities,61,1,1.6
+890,Warren County,Super Subgroup,277,65,23.5
+890,Warren County,White,355,130,36.6
+900,Washington County,All Students,751,338,45
+900,Washington County,American Indian or Alaska Native,3,*,*
+900,Washington County,Asian,4,*,*
+900,Washington County,Black or African American,15,2,13.3
+900,Washington County,Black/Hispanic/Native American,51,14,27.5
+900,Washington County,Economically Disadvantaged,230,50,21.7
+900,Washington County,English Learners with Transitional 1-4,3,*,*
+900,Washington County,Hispanic,33,11,33.3
+900,Washington County,Non-Economically Disadvantaged,521,288,55.3
+900,Washington County,Non-English Learners,748,337,45.1
+900,Washington County,Non-Students with Disabilities,652,331,50.8
+900,Washington County,Students with Disabilities,99,7,7.1
+900,Washington County,Super Subgroup,304,63,20.7
+900,Washington County,White,696,320,46
+901,Johnson City,All Students,529,300,56.7
+901,Johnson City,American Indian or Alaska Native,5,*,*
+901,Johnson City,Asian,17,14,82.4
+901,Johnson City,Black or African American,72,32,44.4
+901,Johnson City,Black/Hispanic/Native American,121,44,36.4
+901,Johnson City,Economically Disadvantaged,177,55,31.1
+901,Johnson City,English Learners with Transitional 1-4,12,1,8.3
+901,Johnson City,Hispanic,44,10,22.7
+901,Johnson City,Native Hawaiian or Other Pacific Islander,1,*,*
+901,Johnson City,Non-Economically Disadvantaged,352,245,69.6
+901,Johnson City,Non-English Learners,517,299,57.8
+901,Johnson City,Non-Students with Disabilities,456,295,64.7
+901,Johnson City,Students with Disabilities,73,5,6.8
+901,Johnson City,Super Subgroup,258,82,31.8
+901,Johnson City,White,390,241,61.8
+910,Wayne County,All Students,176,62,35.2
+910,Wayne County,American Indian or Alaska Native,1,*,*
+910,Wayne County,Black/Hispanic/Native American,2,*,*
+910,Wayne County,Economically Disadvantaged,72,24,33.3
+910,Wayne County,Hispanic,1,*,*
+910,Wayne County,Non-Economically Disadvantaged,104,38,36.5
+910,Wayne County,Non-English Learners,176,62,35.2
+910,Wayne County,Non-Students with Disabilities,132,55,41.7
+910,Wayne County,Students with Disabilities,44,7,15.9
+910,Wayne County,Super Subgroup,96,29,30.2
+910,Wayne County,White,174,61,35.1
+920,Weakley County,All Students,319,168,52.7
+920,Weakley County,Asian,3,*,*
+920,Weakley County,Black or African American,28,8,28.6
+920,Weakley County,Black/Hispanic/Native American,39,12,30.8
+920,Weakley County,Economically Disadvantaged,118,38,32.2
+920,Weakley County,Hispanic,11,4,36.4
+920,Weakley County,Non-Economically Disadvantaged,201,130,64.7
+920,Weakley County,Non-English Learners,319,168,52.7
+920,Weakley County,Non-Students with Disabilities,279,168,60.2
+920,Weakley County,Students with Disabilities,40,**,**
+920,Weakley County,Super Subgroup,143,46,32.2
+920,Weakley County,White,277,154,55.6
+930,White County,All Students,277,128,46.2
+930,White County,American Indian or Alaska Native,1,*,*
+930,White County,Asian,1,*,*
+930,White County,Black or African American,8,*,*
+930,White County,Black/Hispanic/Native American,14,6,42.9
+930,White County,Economically Disadvantaged,125,38,30.4
+930,White County,Hispanic,5,*,*
+930,White County,Native Hawaiian or Other Pacific Islander,1,*,*
+930,White County,Non-Economically Disadvantaged,152,90,59.2
+930,White County,Non-English Learners,277,128,46.2
+930,White County,Non-Students with Disabilities,239,120,50.2
+930,White County,Students with Disabilities,38,8,21.1
+930,White County,Super Subgroup,142,45,31.7
+930,White County,White,261,121,46.4
+940,Williamson County,All Students,3210,2501,77.9
+940,Williamson County,American Indian or Alaska Native,29,20,69
+940,Williamson County,Asian,188,155,82.4
+940,Williamson County,Black or African American,196,102,52
+940,Williamson County,Black/Hispanic/Native American,469,271,57.8
+940,Williamson County,Economically Disadvantaged,215,102,47.4
+940,Williamson County,English Learners with Transitional 1-4,47,15,31.9
+940,Williamson County,Hispanic,244,149,61.1
+940,Williamson County,Native Hawaiian or Other Pacific Islander,8,*,*
+940,Williamson County,Non-Economically Disadvantaged,2995,2399,80.1
+940,Williamson County,Non-English Learners,3163,2486,78.6
+940,Williamson County,Non-Students with Disabilities,2891,2411,83.4
+940,Williamson County,Students with Disabilities,319,90,28.2
+940,Williamson County,Super Subgroup,854,425,49.8
+940,Williamson County,White,2545,2067,81.2
+950,Wilson County,All Students,1662,798,48
+950,Wilson County,American Indian or Alaska Native,4,*,*
+950,Wilson County,Asian,31,19,61.3
+950,Wilson County,Black or African American,179,34,19
+950,Wilson County,Black/Hispanic/Native American,305,61,20
+950,Wilson County,Economically Disadvantaged,416,95,22.8
+950,Wilson County,English Learners with Transitional 1-4,51,6,11.8
+950,Wilson County,Hispanic,122,25,20.5
+950,Wilson County,Native Hawaiian or Other Pacific Islander,3,*,*
+950,Wilson County,Non-Economically Disadvantaged,1246,703,56.4
+950,Wilson County,Non-English Learners,1611,792,49.2
+950,Wilson County,Non-Students with Disabilities,1490,783,52.6
+950,Wilson County,Students with Disabilities,172,15,8.7
+950,Wilson County,Super Subgroup,674,157,23.3
+950,Wilson County,White,1323,716,54.1
+951,Lebanon,All Students,1,*,*
+951,Lebanon,English Learners with Transitional 1-4,1,*,*
+951,Lebanon,Non-Economically Disadvantaged,1,*,*
+951,Lebanon,Non-Students with Disabilities,1,*,*
+951,Lebanon,Super Subgroup,1,*,*
+951,Lebanon,White,1,*,*
+961,Alvin C York Institute,All Students,136,49,36
+961,Alvin C York Institute,Black or African American,1,*,*
+961,Alvin C York Institute,Black/Hispanic/Native American,1,*,*
+961,Alvin C York Institute,Economically Disadvantaged,52,9,17.3
+961,Alvin C York Institute,Non-Economically Disadvantaged,84,40,47.6
+961,Alvin C York Institute,Non-English Learners,136,49,36
+961,Alvin C York Institute,Non-Students with Disabilities,117,49,41.9
+961,Alvin C York Institute,Students with Disabilities,19,**,**
+961,Alvin C York Institute,Super Subgroup,63,9,14.3
+961,Alvin C York Institute,White,135,49,36.3
+963,Tennessee School for Blind,All Students,14,**,**
+963,Tennessee School for Blind,Asian,1,*,*
+963,Tennessee School for Blind,Black or African American,1,*,*
+963,Tennessee School for Blind,Black/Hispanic/Native American,5,*,*
+963,Tennessee School for Blind,Economically Disadvantaged,2,*,*
+963,Tennessee School for Blind,English Learners with Transitional 1-4,3,*,*
+963,Tennessee School for Blind,Hispanic,4,*,*
+963,Tennessee School for Blind,Non-Economically Disadvantaged,12,**,**
+963,Tennessee School for Blind,Non-English Learners,11,**,**
+963,Tennessee School for Blind,Students with Disabilities,14,**,**
+963,Tennessee School for Blind,Super Subgroup,14,**,**
+963,Tennessee School for Blind,White,8,*,*
+964,Tennessee School for the Deaf,All Students,10,**,**
+964,Tennessee School for the Deaf,Black or African American,4,*,*
+964,Tennessee School for the Deaf,Black/Hispanic/Native American,4,*,*
+964,Tennessee School for the Deaf,Economically Disadvantaged,7,*,*
+964,Tennessee School for the Deaf,Non-Economically Disadvantaged,3,*,*
+964,Tennessee School for the Deaf,Non-English Learners,10,**,**
+964,Tennessee School for the Deaf,Students with Disabilities,10,**,**
+964,Tennessee School for the Deaf,Super Subgroup,10,**,**
+964,Tennessee School for the Deaf,White,6,*,*
+970,Department Of Children's Services Education Division,All Students,676,**,**
+970,Department Of Children's Services Education Division,American Indian or Alaska Native,2,*,*
+970,Department Of Children's Services Education Division,Asian,2,*,*
+970,Department Of Children's Services Education Division,Black or African American,244,**,**
+970,Department Of Children's Services Education Division,Black/Hispanic/Native American,280,**,**
+970,Department Of Children's Services Education Division,Economically Disadvantaged,613,**,**
+970,Department Of Children's Services Education Division,English Learners with Transitional 1-4,9,*,*
+970,Department Of Children's Services Education Division,Hispanic,34,**,**
+970,Department Of Children's Services Education Division,Native Hawaiian or Other Pacific Islander,2,*,*
+970,Department Of Children's Services Education Division,Non-Economically Disadvantaged,63,1,1.6
+970,Department Of Children's Services Education Division,Non-English Learners,667,**,**
+970,Department Of Children's Services Education Division,Non-Students with Disabilities,450,**,**
+970,Department Of Children's Services Education Division,Students with Disabilities,226,**,**
+970,Department Of Children's Services Education Division,Super Subgroup,643,**,**
+970,Department Of Children's Services Education Division,White,392,**,**
+985,Achievement School District,All Students,687,15,2.2
+985,Achievement School District,American Indian or Alaska Native,1,*,*
+985,Achievement School District,Asian,2,*,*
+985,Achievement School District,Black or African American,646,14,2.2
+985,Achievement School District,Black/Hispanic/Native American,667,15,2.2
+985,Achievement School District,Economically Disadvantaged,546,10,1.8
+985,Achievement School District,English Learners with Transitional 1-4,23,**,**
+985,Achievement School District,Hispanic,20,1,5
+985,Achievement School District,Non-Economically Disadvantaged,141,5,3.5
+985,Achievement School District,Non-English Learners,664,15,2.3
+985,Achievement School District,Non-Students with Disabilities,577,15,2.6
+985,Achievement School District,Students with Disabilities,110,**,**
+985,Achievement School District,Super Subgroup,680,15,2.2
+985,Achievement School District,White,18,**,**

@@ -1,0 +1,16 @@
+,year,system,system_name,subject,grade,student_group,valid_tests,n_below,n_approaching,n_met_expectations,n_exceeded_expectations,pct_below,pct_approaching,pct_met_expectations,pct_exceeded_expectations,pct_met_exceeded
+2,2022,0,State of Tennessee,Biology I,9th through 12th,Economically Disadvantaged,18633,7882,6585,3862,304,42.4,35.3,20.7,1.6,22.4
+8,2022,0,State of Tennessee,ELA,3rd through 5th,Economically Disadvantaged,68684,27383,26875,12543,1883,39.9,39.1,18.3,2.7,21.0
+14,2022,0,State of Tennessee,ELA,3rd through 8th,Economically Disadvantaged,133063,52989,55093,21762,3219,39.8,41.4,16.4,2.4,18.8
+20,2022,0,State of Tennessee,ELA,6th through 8th,Economically Disadvantaged,64379,25606,28218,9219,1336,39.8,43.8,14.3,2.1,16.4
+26,2022,0,State of Tennessee,HS English,9th through 12th,Economically Disadvantaged,39091,9571,20905,7620,995,24.5,53.5,19.5,2.5,22.0
+32,2022,0,State of Tennessee,HS Math,9th through 12th,Economically Disadvantaged,53286,39002,9698,4019,567,73.2,18.2,7.5,1.1,8.6
+38,2022,0,State of Tennessee,Math,3rd through 5th,Economically Disadvantaged,68536,31914,23358,10621,2643,46.5,34.1,15.5,3.9,19.4
+44,2022,0,State of Tennessee,Math,3rd through 8th,Economically Disadvantaged,132880,63887,46007,19099,3887,48.1,34.6,14.4,2.9,17.3
+50,2022,0,State of Tennessee,Math,6th through 8th,Economically Disadvantaged,64344,31973,22649,8478,1244,49.7,35.2,13.2,1.9,15.1
+56,2022,0,State of Tennessee,Science,3rd through 5th,Economically Disadvantaged,68484,23596,28250,15016,1622,34.4,41.3,21.9,2.4,24.3
+62,2022,0,State of Tennessee,Science,3rd through 8th,Economically Disadvantaged,132382,46418,57253,26211,2500,35.1,43.2,19.8,1.9,21.7
+68,2022,0,State of Tennessee,Science,6th through 8th,Economically Disadvantaged,63898,22822,29003,11195,878,35.7,45.4,17.5,1.4,18.9
+74,2022,0,State of Tennessee,Social Studies,3rd through 8th,Economically Disadvantaged,64028,23923,24321,14309,1475,37.4,38,22.3,2.3,24.7
+80,2022,0,State of Tennessee,Social Studies,6th through 8th,Economically Disadvantaged,64028,23923,24321,14309,1475,37.4,38,22.3,2.3,24.7
+86,2022,0,State of Tennessee,US History,9th through 12th,Economically Disadvantaged,9486,4375,3062,1621,428,46.1,32.3,17.1,4.5,21.6

@@ -1,0 +1,2454 @@
+year,district_number,district_name,subgroup,graduation cohort,graduation count,graduation rate
+2019,0,State of Tennessee,All Students,72481,65043,89.7
+2019,0,State of Tennessee,American Indian or Alaska Native,269,239,88.8
+2019,0,State of Tennessee,Asian,1652,1571,95.1
+2019,0,State of Tennessee,Black or African American,17552,14658,83.5
+2019,0,State of Tennessee,Black/Hispanic/Native American,24523,20531,83.7
+2019,0,State of Tennessee,Economically Disadvantaged,28997,24025,82.9
+2019,0,State of Tennessee,English Learners with Transitional 1-4,2686,1931,71.9
+2019,0,State of Tennessee,Female,34843,32257,92.6
+2019,0,State of Tennessee,Hispanic,6702,5634,84.1
+2019,0,State of Tennessee,Homeless,2595,2011,77.5
+2019,0,State of Tennessee,Male,37638,32786,87.1
+2019,0,State of Tennessee,Migrant,180,162,90
+2019,0,State of Tennessee,Native Hawaiian or Other Pacific Islander,129,120,93
+2019,0,State of Tennessee,Non-Black/Hispanic/Native American,47958,44512,92.8
+2019,0,State of Tennessee,Non-Economically Disadvantaged,43484,41018,94.3
+2019,0,State of Tennessee,Non-English Learners/Transitional 1-4,69795,63112,90.4
+2019,0,State of Tennessee,Non-Homeless,69886,63032,90.2
+2019,0,State of Tennessee,Non-Migrant,72301,64881,89.7
+2019,0,State of Tennessee,Non-Students with Disabilities,62724,57972,92.4
+2019,0,State of Tennessee,Students with Disabilities,9757,7071,72.5
+2019,0,State of Tennessee,White,46177,42821,92.7
+2019,10,Anderson County,All Students,552,528,95.7
+2019,10,Anderson County,American Indian or Alaska Native,2,*,*
+2019,10,Anderson County,Asian,8,*,*
+2019,10,Anderson County,Black or African American,10,8,80
+2019,10,Anderson County,Black/Hispanic/Native American,19,17,89.5
+2019,10,Anderson County,Economically Disadvantaged,208,190,91.3
+2019,10,Anderson County,English Learners with Transitional 1-4,3,*,*
+2019,10,Anderson County,Female,243,235,96.7
+2019,10,Anderson County,Hispanic,7,*,*
+2019,10,Anderson County,Homeless,18,14,77.8
+2019,10,Anderson County,Male,309,293,94.8
+2019,10,Anderson County,Non-Black/Hispanic/Native American,533,511,95.9
+2019,10,Anderson County,Non-Economically Disadvantaged,344,338,98.3
+2019,10,Anderson County,Non-English Learners/Transitional 1-4,549,525,95.6
+2019,10,Anderson County,Non-Homeless,534,514,96.3
+2019,10,Anderson County,Non-Migrant,552,528,95.7
+2019,10,Anderson County,Non-Students with Disabilities,465,452,97.2
+2019,10,Anderson County,Students with Disabilities,87,76,87.4
+2019,10,Anderson County,White,525,503,95.8
+2019,12,Oak Ridge,All Students,304,280,92.1
+2019,12,Oak Ridge,American Indian or Alaska Native,2,*,*
+2019,12,Oak Ridge,Asian,17,16,94.1
+2019,12,Oak Ridge,Black or African American,50,45,90
+2019,12,Oak Ridge,Black/Hispanic/Native American,84,73,86.9
+2019,12,Oak Ridge,Economically Disadvantaged,80,67,83.8
+2019,12,Oak Ridge,English Learners with Transitional 1-4,10,7,70
+2019,12,Oak Ridge,Female,143,138,96.5
+2019,12,Oak Ridge,Hispanic,32,26,81.3
+2019,12,Oak Ridge,Homeless,8,*,*
+2019,12,Oak Ridge,Male,161,142,88.2
+2019,12,Oak Ridge,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,12,Oak Ridge,Non-Black/Hispanic/Native American,220,207,94.1
+2019,12,Oak Ridge,Non-Economically Disadvantaged,224,213,95.1
+2019,12,Oak Ridge,Non-English Learners/Transitional 1-4,294,273,92.9
+2019,12,Oak Ridge,Non-Homeless,296,274,92.6
+2019,12,Oak Ridge,Non-Migrant,304,280,92.1
+2019,12,Oak Ridge,Non-Students with Disabilities,267,248,92.9
+2019,12,Oak Ridge,Students with Disabilities,37,32,86.5
+2019,12,Oak Ridge,White,202,190,94.1
+2019,20,Bedford County,All Students,632,575,91
+2019,20,Bedford County,American Indian or Alaska Native,4,*,*
+2019,20,Bedford County,Asian,4,*,*
+2019,20,Bedford County,Black or African American,59,54,91.5
+2019,20,Bedford County,Black/Hispanic/Native American,213,187,87.8
+2019,20,Bedford County,Economically Disadvantaged,268,236,88.1
+2019,20,Bedford County,English Learners with Transitional 1-4,47,34,72.3
+2019,20,Bedford County,Female,297,275,92.6
+2019,20,Bedford County,Hispanic,150,129,86
+2019,20,Bedford County,Homeless,22,17,77.3
+2019,20,Bedford County,Male,335,300,89.6
+2019,20,Bedford County,Migrant,2,*,*
+2019,20,Bedford County,Non-Black/Hispanic/Native American,419,388,92.6
+2019,20,Bedford County,Non-Economically Disadvantaged,364,339,93.1
+2019,20,Bedford County,Non-English Learners/Transitional 1-4,585,541,92.5
+2019,20,Bedford County,Non-Homeless,610,558,91.5
+2019,20,Bedford County,Non-Migrant,630,573,91
+2019,20,Bedford County,Non-Students with Disabilities,551,508,92.2
+2019,20,Bedford County,Students with Disabilities,81,67,82.7
+2019,20,Bedford County,White,415,384,92.5
+2019,30,Benton County,All Students,160,152,95
+2019,30,Benton County,Black or African American,8,*,*
+2019,30,Benton County,Black/Hispanic/Native American,11,8,72.7
+2019,30,Benton County,Economically Disadvantaged,83,77,92.8
+2019,30,Benton County,Female,79,75,94.9
+2019,30,Benton County,Hispanic,3,*,*
+2019,30,Benton County,Homeless,6,*,*
+2019,30,Benton County,Male,81,77,95.1
+2019,30,Benton County,Non-Black/Hispanic/Native American,149,144,96.6
+2019,30,Benton County,Non-Economically Disadvantaged,77,75,97.4
+2019,30,Benton County,Non-English Learners/Transitional 1-4,160,152,95
+2019,30,Benton County,Non-Homeless,154,146,94.8
+2019,30,Benton County,Non-Migrant,160,152,95
+2019,30,Benton County,Non-Students with Disabilities,128,122,95.3
+2019,30,Benton County,Students with Disabilities,32,30,93.8
+2019,30,Benton County,White,149,144,96.6
+2019,40,Bledsoe County,All Students,121,112,92.6
+2019,40,Bledsoe County,American Indian or Alaska Native,2,*,*
+2019,40,Bledsoe County,Black or African American,4,*,*
+2019,40,Bledsoe County,Black/Hispanic/Native American,11,10,90.9
+2019,40,Bledsoe County,Economically Disadvantaged,56,49,87.5
+2019,40,Bledsoe County,English Learners with Transitional 1-4,3,*,*
+2019,40,Bledsoe County,Female,49,44,89.8
+2019,40,Bledsoe County,Hispanic,5,*,*
+2019,40,Bledsoe County,Homeless,5,*,*
+2019,40,Bledsoe County,Male,72,68,94.4
+2019,40,Bledsoe County,Migrant,1,*,*
+2019,40,Bledsoe County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,40,Bledsoe County,Non-Black/Hispanic/Native American,110,102,92.7
+2019,40,Bledsoe County,Non-Economically Disadvantaged,65,63,96.9
+2019,40,Bledsoe County,Non-English Learners/Transitional 1-4,118,109,92.4
+2019,40,Bledsoe County,Non-Homeless,116,108,93.1
+2019,40,Bledsoe County,Non-Migrant,120,111,92.5
+2019,40,Bledsoe County,Non-Students with Disabilities,94,86,91.5
+2019,40,Bledsoe County,Students with Disabilities,27,26,96.3
+2019,40,Bledsoe County,White,109,102,93.6
+2019,50,Blount County,All Students,794,739,93.1
+2019,50,Blount County,American Indian or Alaska Native,6,*,*
+2019,50,Blount County,Asian,7,*,*
+2019,50,Blount County,Black or African American,17,**,**
+2019,50,Blount County,Black/Hispanic/Native American,53,49,92.5
+2019,50,Blount County,Economically Disadvantaged,257,229,89.1
+2019,50,Blount County,English Learners with Transitional 1-4,10,**,**
+2019,50,Blount County,Female,401,383,95.5
+2019,50,Blount County,Hispanic,30,27,90
+2019,50,Blount County,Homeless,4,*,*
+2019,50,Blount County,Male,393,356,90.6
+2019,50,Blount County,Native Hawaiian or Other Pacific Islander,2,*,*
+2019,50,Blount County,Non-Black/Hispanic/Native American,741,690,93.1
+2019,50,Blount County,Non-Economically Disadvantaged,537,510,95
+2019,50,Blount County,Non-English Learners/Transitional 1-4,784,729,93
+2019,50,Blount County,Non-Homeless,790,735,93
+2019,50,Blount County,Non-Migrant,794,739,93.1
+2019,50,Blount County,Non-Students with Disabilities,680,656,96.5
+2019,50,Blount County,Students with Disabilities,114,83,72.8
+2019,50,Blount County,White,732,681,93
+2019,51,Alcoa,All Students,172,170,98.8
+2019,51,Alcoa,American Indian or Alaska Native,1,*,*
+2019,51,Alcoa,Asian,3,*,*
+2019,51,Alcoa,Black or African American,59,**,**
+2019,51,Alcoa,Black/Hispanic/Native American,73,**,**
+2019,51,Alcoa,Economically Disadvantaged,66,65,98.5
+2019,51,Alcoa,English Learners with Transitional 1-4,2,*,*
+2019,51,Alcoa,Female,82,81,98.8
+2019,51,Alcoa,Hispanic,13,**,**
+2019,51,Alcoa,Homeless,7,*,*
+2019,51,Alcoa,Male,90,89,98.9
+2019,51,Alcoa,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,51,Alcoa,Non-Black/Hispanic/Native American,99,97,98
+2019,51,Alcoa,Non-Economically Disadvantaged,106,**,**
+2019,51,Alcoa,Non-English Learners/Transitional 1-4,170,168,98.8
+2019,51,Alcoa,Non-Homeless,165,**,**
+2019,51,Alcoa,Non-Migrant,172,170,98.8
+2019,51,Alcoa,Non-Students with Disabilities,155,**,**
+2019,51,Alcoa,Students with Disabilities,17,16,94.1
+2019,51,Alcoa,White,95,93,97.9
+2019,52,Maryville,All Students,420,397,94.5
+2019,52,Maryville,American Indian or Alaska Native,0,*,*
+2019,52,Maryville,Asian,12,**,**
+2019,52,Maryville,Black or African American,20,18,90
+2019,52,Maryville,Black/Hispanic/Native American,42,37,88.1
+2019,52,Maryville,Economically Disadvantaged,77,64,83.1
+2019,52,Maryville,English Learners with Transitional 1-4,8,*,*
+2019,52,Maryville,Female,200,190,95
+2019,52,Maryville,Hispanic,22,19,86.4
+2019,52,Maryville,Homeless,4,*,*
+2019,52,Maryville,Male,220,207,94.1
+2019,52,Maryville,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,52,Maryville,Non-Black/Hispanic/Native American,378,360,95.2
+2019,52,Maryville,Non-Economically Disadvantaged,343,333,97.1
+2019,52,Maryville,Non-English Learners/Transitional 1-4,412,390,94.7
+2019,52,Maryville,Non-Homeless,416,393,94.5
+2019,52,Maryville,Non-Migrant,420,397,94.5
+2019,52,Maryville,Non-Students with Disabilities,357,349,97.8
+2019,52,Maryville,Students with Disabilities,63,48,76.2
+2019,52,Maryville,White,365,347,95.1
+2019,60,Bradley County,All Students,826,775,93.8
+2019,60,Bradley County,American Indian or Alaska Native,1,*,*
+2019,60,Bradley County,Asian,3,*,*
+2019,60,Bradley County,Black or African American,32,29,90.6
+2019,60,Bradley County,Black/Hispanic/Native American,71,65,91.5
+2019,60,Bradley County,Economically Disadvantaged,287,249,86.8
+2019,60,Bradley County,English Learners with Transitional 1-4,5,*,*
+2019,60,Bradley County,Female,385,368,95.6
+2019,60,Bradley County,Hispanic,38,35,92.1
+2019,60,Bradley County,Homeless,1,*,*
+2019,60,Bradley County,Male,441,407,92.3
+2019,60,Bradley County,Native Hawaiian or Other Pacific Islander,2,*,*
+2019,60,Bradley County,Non-Black/Hispanic/Native American,755,710,94
+2019,60,Bradley County,Non-Economically Disadvantaged,539,526,97.6
+2019,60,Bradley County,Non-English Learners/Transitional 1-4,821,770,93.8
+2019,60,Bradley County,Non-Homeless,825,774,93.8
+2019,60,Bradley County,Non-Migrant,826,775,93.8
+2019,60,Bradley County,Non-Students with Disabilities,745,708,95
+2019,60,Bradley County,Students with Disabilities,81,67,82.7
+2019,60,Bradley County,White,750,705,94
+2019,61,Cleveland,All Students,413,370,89.6
+2019,61,Cleveland,American Indian or Alaska Native,5,*,*
+2019,61,Cleveland,Asian,9,*,*
+2019,61,Cleveland,Black or African American,69,62,89.9
+2019,61,Cleveland,Black/Hispanic/Native American,152,137,90.1
+2019,61,Cleveland,Economically Disadvantaged,182,154,84.6
+2019,61,Cleveland,English Learners with Transitional 1-4,28,20,71.4
+2019,61,Cleveland,Female,189,171,90.5
+2019,61,Cleveland,Hispanic,78,70,89.7
+2019,61,Cleveland,Homeless,3,*,*
+2019,61,Cleveland,Male,224,199,88.8
+2019,61,Cleveland,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,61,Cleveland,Non-Black/Hispanic/Native American,261,233,89.3
+2019,61,Cleveland,Non-Economically Disadvantaged,231,216,93.5
+2019,61,Cleveland,Non-English Learners/Transitional 1-4,385,350,90.9
+2019,61,Cleveland,Non-Homeless,410,367,89.5
+2019,61,Cleveland,Non-Migrant,413,370,89.6
+2019,61,Cleveland,Non-Students with Disabilities,353,326,92.4
+2019,61,Cleveland,Students with Disabilities,60,44,73.3
+2019,61,Cleveland,White,251,223,88.8
+2019,70,Campbell County,All Students,407,371,91.2
+2019,70,Campbell County,Asian,1,*,*
+2019,70,Campbell County,Black or African American,1,*,*
+2019,70,Campbell County,Black/Hispanic/Native American,3,*,*
+2019,70,Campbell County,Economically Disadvantaged,211,189,89.6
+2019,70,Campbell County,English Learners with Transitional 1-4,0,*,*
+2019,70,Campbell County,Female,202,184,91.1
+2019,70,Campbell County,Hispanic,2,*,*
+2019,70,Campbell County,Homeless,37,33,89.2
+2019,70,Campbell County,Male,205,187,91.2
+2019,70,Campbell County,Non-Black/Hispanic/Native American,404,368,91.1
+2019,70,Campbell County,Non-Economically Disadvantaged,196,182,92.9
+2019,70,Campbell County,Non-English Learners/Transitional 1-4,407,371,91.2
+2019,70,Campbell County,Non-Homeless,370,338,91.4
+2019,70,Campbell County,Non-Migrant,407,371,91.2
+2019,70,Campbell County,Non-Students with Disabilities,353,326,92.4
+2019,70,Campbell County,Students with Disabilities,54,45,83.3
+2019,70,Campbell County,White,403,368,91.3
+2019,80,Cannon County,All Students,144,131,91
+2019,80,Cannon County,Asian,1,*,*
+2019,80,Cannon County,Black or African American,1,*,*
+2019,80,Cannon County,Black/Hispanic/Native American,7,*,*
+2019,80,Cannon County,Economically Disadvantaged,50,42,84
+2019,80,Cannon County,English Learners with Transitional 1-4,1,*,*
+2019,80,Cannon County,Female,65,64,98.5
+2019,80,Cannon County,Hispanic,6,*,*
+2019,80,Cannon County,Homeless,1,*,*
+2019,80,Cannon County,Male,79,67,84.8
+2019,80,Cannon County,Non-Black/Hispanic/Native American,137,124,90.5
+2019,80,Cannon County,Non-Economically Disadvantaged,94,89,94.7
+2019,80,Cannon County,Non-English Learners/Transitional 1-4,143,131,91.6
+2019,80,Cannon County,Non-Homeless,143,130,90.9
+2019,80,Cannon County,Non-Migrant,144,131,91
+2019,80,Cannon County,Non-Students with Disabilities,119,114,95.8
+2019,80,Cannon County,Students with Disabilities,25,17,68
+2019,80,Cannon County,White,136,124,91.2
+2019,90,Carroll County,All Students,10,**,**
+2019,90,Carroll County,Black or African American,3,*,*
+2019,90,Carroll County,Black/Hispanic/Native American,3,*,*
+2019,90,Carroll County,Economically Disadvantaged,8,*,*
+2019,90,Carroll County,Female,5,*,*
+2019,90,Carroll County,Homeless,3,*,*
+2019,90,Carroll County,Male,5,*,*
+2019,90,Carroll County,Non-Black/Hispanic/Native American,7,*,*
+2019,90,Carroll County,Non-Economically Disadvantaged,2,*,*
+2019,90,Carroll County,Non-English Learners/Transitional 1-4,10,**,**
+2019,90,Carroll County,Non-Homeless,7,*,*
+2019,90,Carroll County,Non-Migrant,10,**,**
+2019,90,Carroll County,Non-Students with Disabilities,9,*,*
+2019,90,Carroll County,Students with Disabilities,1,*,*
+2019,90,Carroll County,White,7,*,*
+2019,92,Hollow Rock - Bruceton,All Students,44,43,97.7
+2019,92,Hollow Rock - Bruceton,American Indian or Alaska Native,1,*,*
+2019,92,Hollow Rock - Bruceton,Black or African American,4,*,*
+2019,92,Hollow Rock - Bruceton,Black/Hispanic/Native American,5,*,*
+2019,92,Hollow Rock - Bruceton,Economically Disadvantaged,20,19,95
+2019,92,Hollow Rock - Bruceton,Female,18,**,**
+2019,92,Hollow Rock - Bruceton,Homeless,3,*,*
+2019,92,Hollow Rock - Bruceton,Male,26,25,96.2
+2019,92,Hollow Rock - Bruceton,Non-Black/Hispanic/Native American,39,38,97.4
+2019,92,Hollow Rock - Bruceton,Non-Economically Disadvantaged,24,**,**
+2019,92,Hollow Rock - Bruceton,Non-English Learners/Transitional 1-4,44,43,97.7
+2019,92,Hollow Rock - Bruceton,Non-Homeless,41,**,**
+2019,92,Hollow Rock - Bruceton,Non-Migrant,44,43,97.7
+2019,92,Hollow Rock - Bruceton,Non-Students with Disabilities,40,**,**
+2019,92,Hollow Rock - Bruceton,Students with Disabilities,4,*,*
+2019,92,Hollow Rock - Bruceton,White,39,38,97.4
+2019,93,Huntingdon Special School District,All Students,78,**,**
+2019,93,Huntingdon Special School District,American Indian or Alaska Native,1,*,*
+2019,93,Huntingdon Special School District,Asian,0,*,*
+2019,93,Huntingdon Special School District,Black or African American,11,**,**
+2019,93,Huntingdon Special School District,Black/Hispanic/Native American,13,**,**
+2019,93,Huntingdon Special School District,Economically Disadvantaged,34,**,**
+2019,93,Huntingdon Special School District,Female,42,**,**
+2019,93,Huntingdon Special School District,Hispanic,1,*,*
+2019,93,Huntingdon Special School District,Homeless,7,*,*
+2019,93,Huntingdon Special School District,Male,36,**,**
+2019,93,Huntingdon Special School District,Non-Black/Hispanic/Native American,65,**,**
+2019,93,Huntingdon Special School District,Non-Economically Disadvantaged,44,**,**
+2019,93,Huntingdon Special School District,Non-English Learners/Transitional 1-4,78,**,**
+2019,93,Huntingdon Special School District,Non-Homeless,71,**,**
+2019,93,Huntingdon Special School District,Non-Migrant,78,**,**
+2019,93,Huntingdon Special School District,Non-Students with Disabilities,71,**,**
+2019,93,Huntingdon Special School District,Students with Disabilities,7,*,*
+2019,93,Huntingdon Special School District,White,65,**,**
+2019,94,McKenzie,All Students,112,109,97.3
+2019,94,McKenzie,Asian,2,*,*
+2019,94,McKenzie,Black or African American,20,**,**
+2019,94,McKenzie,Black/Hispanic/Native American,23,**,**
+2019,94,McKenzie,Economically Disadvantaged,43,42,97.7
+2019,94,McKenzie,English Learners with Transitional 1-4,1,*,*
+2019,94,McKenzie,Female,61,59,96.7
+2019,94,McKenzie,Hispanic,3,*,*
+2019,94,McKenzie,Homeless,5,*,*
+2019,94,McKenzie,Male,51,50,98
+2019,94,McKenzie,Non-Black/Hispanic/Native American,89,86,96.6
+2019,94,McKenzie,Non-Economically Disadvantaged,69,67,97.1
+2019,94,McKenzie,Non-English Learners/Transitional 1-4,111,109,98.2
+2019,94,McKenzie,Non-Homeless,107,104,97.2
+2019,94,McKenzie,Non-Migrant,112,109,97.3
+2019,94,McKenzie,Non-Students with Disabilities,98,96,98
+2019,94,McKenzie,Students with Disabilities,14,13,92.9
+2019,94,McKenzie,White,87,85,97.7
+2019,95,South Carroll,All Students,17,**,**
+2019,95,South Carroll,Black or African American,1,*,*
+2019,95,South Carroll,Black/Hispanic/Native American,1,*,*
+2019,95,South Carroll,Economically Disadvantaged,4,*,*
+2019,95,South Carroll,Female,11,**,**
+2019,95,South Carroll,Male,6,*,*
+2019,95,South Carroll,Non-Black/Hispanic/Native American,16,**,**
+2019,95,South Carroll,Non-Economically Disadvantaged,13,**,**
+2019,95,South Carroll,Non-English Learners/Transitional 1-4,17,**,**
+2019,95,South Carroll,Non-Homeless,17,**,**
+2019,95,South Carroll,Non-Migrant,17,**,**
+2019,95,South Carroll,Non-Students with Disabilities,15,**,**
+2019,95,South Carroll,Students with Disabilities,2,*,*
+2019,95,South Carroll,White,16,**,**
+2019,97,West Carroll Sp Dist,All Students,71,65,91.5
+2019,97,West Carroll Sp Dist,Black or African American,6,*,*
+2019,97,West Carroll Sp Dist,Black/Hispanic/Native American,6,*,*
+2019,97,West Carroll Sp Dist,Economically Disadvantaged,32,27,84.4
+2019,97,West Carroll Sp Dist,Female,33,30,90.9
+2019,97,West Carroll Sp Dist,Homeless,2,*,*
+2019,97,West Carroll Sp Dist,Male,38,35,92.1
+2019,97,West Carroll Sp Dist,Non-Black/Hispanic/Native American,65,59,90.8
+2019,97,West Carroll Sp Dist,Non-Economically Disadvantaged,39,38,97.4
+2019,97,West Carroll Sp Dist,Non-English Learners/Transitional 1-4,71,65,91.5
+2019,97,West Carroll Sp Dist,Non-Homeless,69,64,92.8
+2019,97,West Carroll Sp Dist,Non-Migrant,71,65,91.5
+2019,97,West Carroll Sp Dist,Non-Students with Disabilities,60,56,93.3
+2019,97,West Carroll Sp Dist,Students with Disabilities,11,9,81.8
+2019,97,West Carroll Sp Dist,White,65,59,90.8
+2019,100,Carter County,All Students,367,326,88.8
+2019,100,Carter County,American Indian or Alaska Native,2,*,*
+2019,100,Carter County,Asian,1,*,*
+2019,100,Carter County,Black or African American,3,*,*
+2019,100,Carter County,Black/Hispanic/Native American,7,*,*
+2019,100,Carter County,Economically Disadvantaged,183,153,83.6
+2019,100,Carter County,English Learners with Transitional 1-4,1,*,*
+2019,100,Carter County,Female,170,158,92.9
+2019,100,Carter County,Hispanic,2,*,*
+2019,100,Carter County,Homeless,25,21,84
+2019,100,Carter County,Male,197,168,85.3
+2019,100,Carter County,Non-Black/Hispanic/Native American,360,319,88.6
+2019,100,Carter County,Non-Economically Disadvantaged,184,173,94
+2019,100,Carter County,Non-English Learners/Transitional 1-4,366,326,89.1
+2019,100,Carter County,Non-Homeless,342,305,89.2
+2019,100,Carter County,Non-Migrant,367,326,88.8
+2019,100,Carter County,Non-Students with Disabilities,303,278,91.7
+2019,100,Carter County,Students with Disabilities,64,48,75
+2019,100,Carter County,White,359,318,88.6
+2019,101,Elizabethton,All Students,198,176,88.9
+2019,101,Elizabethton,American Indian or Alaska Native,1,*,*
+2019,101,Elizabethton,Asian,2,*,*
+2019,101,Elizabethton,Black or African American,15,12,80
+2019,101,Elizabethton,Black/Hispanic/Native American,18,15,83.3
+2019,101,Elizabethton,Economically Disadvantaged,74,59,79.7
+2019,101,Elizabethton,Female,95,90,94.7
+2019,101,Elizabethton,Hispanic,2,*,*
+2019,101,Elizabethton,Homeless,22,16,72.7
+2019,101,Elizabethton,Male,103,86,83.5
+2019,101,Elizabethton,Native Hawaiian or Other Pacific Islander,0,*,*
+2019,101,Elizabethton,Non-Black/Hispanic/Native American,180,161,89.4
+2019,101,Elizabethton,Non-Economically Disadvantaged,124,117,94.4
+2019,101,Elizabethton,Non-English Learners/Transitional 1-4,198,176,88.9
+2019,101,Elizabethton,Non-Homeless,176,160,90.9
+2019,101,Elizabethton,Non-Migrant,198,176,88.9
+2019,101,Elizabethton,Non-Students with Disabilities,176,162,92
+2019,101,Elizabethton,Students with Disabilities,22,14,63.6
+2019,101,Elizabethton,White,178,159,89.3
+2019,110,Cheatham County,All Students,444,408,91.9
+2019,110,Cheatham County,American Indian or Alaska Native,3,*,*
+2019,110,Cheatham County,Asian,2,*,*
+2019,110,Cheatham County,Black or African American,12,11,91.7
+2019,110,Cheatham County,Black/Hispanic/Native American,34,31,91.2
+2019,110,Cheatham County,Economically Disadvantaged,151,124,82.1
+2019,110,Cheatham County,English Learners with Transitional 1-4,5,*,*
+2019,110,Cheatham County,Female,215,199,92.6
+2019,110,Cheatham County,Hispanic,19,17,89.5
+2019,110,Cheatham County,Homeless,23,21,91.3
+2019,110,Cheatham County,Male,229,209,91.3
+2019,110,Cheatham County,Non-Black/Hispanic/Native American,410,377,92
+2019,110,Cheatham County,Non-Economically Disadvantaged,293,284,96.9
+2019,110,Cheatham County,Non-English Learners/Transitional 1-4,439,404,92
+2019,110,Cheatham County,Non-Homeless,421,387,91.9
+2019,110,Cheatham County,Non-Migrant,444,408,91.9
+2019,110,Cheatham County,Non-Students with Disabilities,390,362,92.8
+2019,110,Cheatham County,Students with Disabilities,54,46,85.2
+2019,110,Cheatham County,White,408,375,91.9
+2019,120,Chester County,All Students,219,210,95.9
+2019,120,Chester County,American Indian or Alaska Native,1,*,*
+2019,120,Chester County,Asian,2,*,*
+2019,120,Chester County,Black or African American,26,**,**
+2019,120,Chester County,Black/Hispanic/Native American,29,**,**
+2019,120,Chester County,Economically Disadvantaged,76,71,93.4
+2019,120,Chester County,Female,106,103,97.2
+2019,120,Chester County,Hispanic,2,*,*
+2019,120,Chester County,Homeless,2,*,*
+2019,120,Chester County,Male,113,107,94.7
+2019,120,Chester County,Non-Black/Hispanic/Native American,190,181,95.3
+2019,120,Chester County,Non-Economically Disadvantaged,143,139,97.2
+2019,120,Chester County,Non-English Learners/Transitional 1-4,219,210,95.9
+2019,120,Chester County,Non-Homeless,217,208,95.9
+2019,120,Chester County,Non-Migrant,219,210,95.9
+2019,120,Chester County,Non-Students with Disabilities,196,192,98
+2019,120,Chester County,Students with Disabilities,23,18,78.3
+2019,120,Chester County,White,188,179,95.2
+2019,130,Claiborne County,All Students,287,266,92.7
+2019,130,Claiborne County,American Indian or Alaska Native,1,*,*
+2019,130,Claiborne County,Asian,1,*,*
+2019,130,Claiborne County,Black or African American,3,*,*
+2019,130,Claiborne County,Black/Hispanic/Native American,8,*,*
+2019,130,Claiborne County,Economically Disadvantaged,129,114,88.4
+2019,130,Claiborne County,Female,135,124,91.9
+2019,130,Claiborne County,Hispanic,4,*,*
+2019,130,Claiborne County,Homeless,6,*,*
+2019,130,Claiborne County,Male,152,142,93.4
+2019,130,Claiborne County,Non-Black/Hispanic/Native American,279,259,92.8
+2019,130,Claiborne County,Non-Economically Disadvantaged,158,152,96.2
+2019,130,Claiborne County,Non-English Learners/Transitional 1-4,287,266,92.7
+2019,130,Claiborne County,Non-Homeless,281,261,92.9
+2019,130,Claiborne County,Non-Migrant,287,266,92.7
+2019,130,Claiborne County,Non-Students with Disabilities,254,242,95.3
+2019,130,Claiborne County,Students with Disabilities,33,24,72.7
+2019,130,Claiborne County,White,278,258,92.8
+2019,140,Clay County,All Students,89,87,97.8
+2019,140,Clay County,Black or African American,3,*,*
+2019,140,Clay County,Black/Hispanic/Native American,4,*,*
+2019,140,Clay County,Economically Disadvantaged,47,45,95.7
+2019,140,Clay County,Female,42,**,**
+2019,140,Clay County,Hispanic,1,*,*
+2019,140,Clay County,Homeless,8,*,*
+2019,140,Clay County,Male,47,45,95.7
+2019,140,Clay County,Migrant,3,*,*
+2019,140,Clay County,Non-Black/Hispanic/Native American,85,84,98.8
+2019,140,Clay County,Non-Economically Disadvantaged,42,**,**
+2019,140,Clay County,Non-English Learners/Transitional 1-4,89,87,97.8
+2019,140,Clay County,Non-Homeless,81,80,98.8
+2019,140,Clay County,Non-Migrant,86,84,97.7
+2019,140,Clay County,Non-Students with Disabilities,79,78,98.7
+2019,140,Clay County,Students with Disabilities,10,9,90
+2019,140,Clay County,White,85,84,98.8
+2019,150,Cocke County,All Students,382,353,92.4
+2019,150,Cocke County,Asian,2,*,*
+2019,150,Cocke County,Black or African American,10,**,**
+2019,150,Cocke County,Black/Hispanic/Native American,16,**,**
+2019,150,Cocke County,Economically Disadvantaged,211,193,91.5
+2019,150,Cocke County,English Learners with Transitional 1-4,2,*,*
+2019,150,Cocke County,Female,170,161,94.7
+2019,150,Cocke County,Hispanic,6,*,*
+2019,150,Cocke County,Homeless,27,23,85.2
+2019,150,Cocke County,Male,212,192,90.6
+2019,150,Cocke County,Migrant,1,*,*
+2019,150,Cocke County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,150,Cocke County,Non-Black/Hispanic/Native American,366,337,92.1
+2019,150,Cocke County,Non-Economically Disadvantaged,171,160,93.6
+2019,150,Cocke County,Non-English Learners/Transitional 1-4,380,351,92.4
+2019,150,Cocke County,Non-Homeless,355,330,93
+2019,150,Cocke County,Non-Migrant,381,352,92.4
+2019,150,Cocke County,Non-Students with Disabilities,319,306,95.9
+2019,150,Cocke County,Students with Disabilities,63,47,74.6
+2019,150,Cocke County,White,363,334,92
+2019,160,Coffee County,All Students,437,392,89.7
+2019,160,Coffee County,American Indian or Alaska Native,2,*,*
+2019,160,Coffee County,Asian,7,*,*
+2019,160,Coffee County,Black or African American,16,**,**
+2019,160,Coffee County,Black/Hispanic/Native American,48,46,95.8
+2019,160,Coffee County,Economically Disadvantaged,180,154,85.6
+2019,160,Coffee County,English Learners with Transitional 1-4,9,*,*
+2019,160,Coffee County,Female,211,194,91.9
+2019,160,Coffee County,Hispanic,30,28,93.3
+2019,160,Coffee County,Homeless,13,10,76.9
+2019,160,Coffee County,Male,226,198,87.6
+2019,160,Coffee County,Non-Black/Hispanic/Native American,389,346,88.9
+2019,160,Coffee County,Non-Economically Disadvantaged,257,238,92.6
+2019,160,Coffee County,Non-English Learners/Transitional 1-4,428,384,89.7
+2019,160,Coffee County,Non-Homeless,424,382,90.1
+2019,160,Coffee County,Non-Migrant,437,392,89.7
+2019,160,Coffee County,Non-Students with Disabilities,381,352,92.4
+2019,160,Coffee County,Students with Disabilities,56,40,71.4
+2019,160,Coffee County,White,382,339,88.7
+2019,162,Tullahoma,All Students,251,228,90.8
+2019,162,Tullahoma,American Indian or Alaska Native,2,*,*
+2019,162,Tullahoma,Asian,6,*,*
+2019,162,Tullahoma,Black or African American,29,26,89.7
+2019,162,Tullahoma,Black/Hispanic/Native American,45,41,91.1
+2019,162,Tullahoma,Economically Disadvantaged,79,61,77.2
+2019,162,Tullahoma,English Learners with Transitional 1-4,6,*,*
+2019,162,Tullahoma,Female,113,106,93.8
+2019,162,Tullahoma,Hispanic,14,13,92.9
+2019,162,Tullahoma,Homeless,7,*,*
+2019,162,Tullahoma,Male,138,122,88.4
+2019,162,Tullahoma,Native Hawaiian or Other Pacific Islander,2,*,*
+2019,162,Tullahoma,Non-Black/Hispanic/Native American,206,187,90.8
+2019,162,Tullahoma,Non-Economically Disadvantaged,172,167,97.1
+2019,162,Tullahoma,Non-English Learners/Transitional 1-4,245,222,90.6
+2019,162,Tullahoma,Non-Homeless,244,222,91
+2019,162,Tullahoma,Non-Migrant,251,228,90.8
+2019,162,Tullahoma,Non-Students with Disabilities,230,215,93.5
+2019,162,Tullahoma,Students with Disabilities,21,13,61.9
+2019,162,Tullahoma,White,198,179,90.4
+2019,170,Crockett County,All Students,220,212,96.4
+2019,170,Crockett County,Asian,1,*,*
+2019,170,Crockett County,Black or African American,36,**,**
+2019,170,Crockett County,Black/Hispanic/Native American,74,72,97.3
+2019,170,Crockett County,Economically Disadvantaged,109,102,93.6
+2019,170,Crockett County,English Learners with Transitional 1-4,8,*,*
+2019,170,Crockett County,Female,103,100,97.1
+2019,170,Crockett County,Hispanic,38,36,94.7
+2019,170,Crockett County,Homeless,5,*,*
+2019,170,Crockett County,Male,117,112,95.7
+2019,170,Crockett County,Migrant,1,*,*
+2019,170,Crockett County,Non-Black/Hispanic/Native American,146,140,95.9
+2019,170,Crockett County,Non-Economically Disadvantaged,111,**,**
+2019,170,Crockett County,Non-English Learners/Transitional 1-4,212,204,96.2
+2019,170,Crockett County,Non-Homeless,215,207,96.3
+2019,170,Crockett County,Non-Migrant,219,211,96.3
+2019,170,Crockett County,Non-Students with Disabilities,193,190,98.4
+2019,170,Crockett County,Students with Disabilities,27,22,81.5
+2019,170,Crockett County,White,145,139,95.9
+2019,180,Cumberland County,All Students,504,461,91.5
+2019,180,Cumberland County,American Indian or Alaska Native,4,*,*
+2019,180,Cumberland County,Asian,2,*,*
+2019,180,Cumberland County,Black or African American,5,*,*
+2019,180,Cumberland County,Black/Hispanic/Native American,44,32,72.7
+2019,180,Cumberland County,Economically Disadvantaged,180,156,86.7
+2019,180,Cumberland County,English Learners with Transitional 1-4,15,7,46.7
+2019,180,Cumberland County,Female,250,232,92.8
+2019,180,Cumberland County,Hispanic,35,24,68.6
+2019,180,Cumberland County,Homeless,38,28,73.7
+2019,180,Cumberland County,Male,254,229,90.2
+2019,180,Cumberland County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,180,Cumberland County,Non-Black/Hispanic/Native American,460,429,93.3
+2019,180,Cumberland County,Non-Economically Disadvantaged,324,305,94.1
+2019,180,Cumberland County,Non-English Learners/Transitional 1-4,489,454,92.8
+2019,180,Cumberland County,Non-Homeless,466,433,92.9
+2019,180,Cumberland County,Non-Migrant,504,461,91.5
+2019,180,Cumberland County,Non-Students with Disabilities,437,408,93.4
+2019,180,Cumberland County,Students with Disabilities,67,53,79.1
+2019,180,Cumberland County,White,457,426,93.2
+2019,190,Davidson County,All Students,5612,4626,82.4
+2019,190,Davidson County,American Indian or Alaska Native,15,10,66.7
+2019,190,Davidson County,Asian,259,243,93.8
+2019,190,Davidson County,Black or African American,2559,2119,82.8
+2019,190,Davidson County,Black/Hispanic/Native American,3918,3155,80.5
+2019,190,Davidson County,Economically Disadvantaged,3330,2596,78
+2019,190,Davidson County,English Learners with Transitional 1-4,786,519,66
+2019,190,Davidson County,Female,2689,2355,87.6
+2019,190,Davidson County,Hispanic,1344,1026,76.3
+2019,190,Davidson County,Homeless,405,268,66.2
+2019,190,Davidson County,Male,2923,2271,77.7
+2019,190,Davidson County,Migrant,13,12,92.3
+2019,190,Davidson County,Native Hawaiian or Other Pacific Islander,4,*,*
+2019,190,Davidson County,Non-Black/Hispanic/Native American,1694,1471,86.8
+2019,190,Davidson County,Non-Economically Disadvantaged,2282,2030,89
+2019,190,Davidson County,Non-English Learners/Transitional 1-4,4826,4107,85.1
+2019,190,Davidson County,Non-Homeless,5207,4358,83.7
+2019,190,Davidson County,Non-Migrant,5599,4614,82.4
+2019,190,Davidson County,Non-Students with Disabilities,4871,4172,85.6
+2019,190,Davidson County,Students with Disabilities,741,454,61.3
+2019,190,Davidson County,White,1431,1224,85.5
+2019,200,Decatur County,All Students,118,110,93.2
+2019,200,Decatur County,American Indian or Alaska Native,1,*,*
+2019,200,Decatur County,Asian,1,*,*
+2019,200,Decatur County,Black or African American,8,*,*
+2019,200,Decatur County,Black/Hispanic/Native American,14,10,71.4
+2019,200,Decatur County,Economically Disadvantaged,52,46,88.5
+2019,200,Decatur County,English Learners with Transitional 1-4,0,*,*
+2019,200,Decatur County,Female,55,51,92.7
+2019,200,Decatur County,Hispanic,5,*,*
+2019,200,Decatur County,Homeless,7,*,*
+2019,200,Decatur County,Male,63,59,93.7
+2019,200,Decatur County,Non-Black/Hispanic/Native American,104,100,96.2
+2019,200,Decatur County,Non-Economically Disadvantaged,66,64,97
+2019,200,Decatur County,Non-English Learners/Transitional 1-4,118,110,93.2
+2019,200,Decatur County,Non-Homeless,111,105,94.6
+2019,200,Decatur County,Non-Migrant,118,110,93.2
+2019,200,Decatur County,Non-Students with Disabilities,94,90,95.7
+2019,200,Decatur County,Students with Disabilities,24,20,83.3
+2019,200,Decatur County,White,103,99,96.1
+2019,210,DeKalb County,All Students,197,186,94.4
+2019,210,DeKalb County,Asian,1,*,*
+2019,210,DeKalb County,Black or African American,2,*,*
+2019,210,DeKalb County,Black/Hispanic/Native American,29,**,**
+2019,210,DeKalb County,Economically Disadvantaged,81,73,90.1
+2019,210,DeKalb County,English Learners with Transitional 1-4,9,*,*
+2019,210,DeKalb County,Female,87,85,97.7
+2019,210,DeKalb County,Hispanic,27,**,**
+2019,210,DeKalb County,Homeless,1,*,*
+2019,210,DeKalb County,Male,110,101,91.8
+2019,210,DeKalb County,Migrant,1,*,*
+2019,210,DeKalb County,Non-Black/Hispanic/Native American,168,157,93.5
+2019,210,DeKalb County,Non-Economically Disadvantaged,116,113,97.4
+2019,210,DeKalb County,Non-English Learners/Transitional 1-4,188,177,94.1
+2019,210,DeKalb County,Non-Homeless,196,185,94.4
+2019,210,DeKalb County,Non-Migrant,196,185,94.4
+2019,210,DeKalb County,Non-Students with Disabilities,177,172,97.2
+2019,210,DeKalb County,Students with Disabilities,20,14,70
+2019,210,DeKalb County,White,167,156,93.4
+2019,220,Dickson County,All Students,600,566,94.3
+2019,220,Dickson County,American Indian or Alaska Native,1,*,*
+2019,220,Dickson County,Asian,4,*,*
+2019,220,Dickson County,Black or African American,43,41,95.3
+2019,220,Dickson County,Black/Hispanic/Native American,78,75,96.2
+2019,220,Dickson County,Economically Disadvantaged,190,165,86.8
+2019,220,Dickson County,English Learners with Transitional 1-4,8,*,*
+2019,220,Dickson County,Female,275,262,95.3
+2019,220,Dickson County,Hispanic,34,33,97.1
+2019,220,Dickson County,Homeless,10,8,80
+2019,220,Dickson County,Male,325,304,93.5
+2019,220,Dickson County,Non-Black/Hispanic/Native American,522,491,94.1
+2019,220,Dickson County,Non-Economically Disadvantaged,410,401,97.8
+2019,220,Dickson County,Non-English Learners/Transitional 1-4,592,559,94.4
+2019,220,Dickson County,Non-Homeless,590,558,94.6
+2019,220,Dickson County,Non-Migrant,600,566,94.3
+2019,220,Dickson County,Non-Students with Disabilities,539,518,96.1
+2019,220,Dickson County,Students with Disabilities,61,48,78.7
+2019,220,Dickson County,White,518,487,94
+2019,230,Dyer County,All Students,275,266,96.7
+2019,230,Dyer County,Asian,1,*,*
+2019,230,Dyer County,Black or African American,29,27,93.1
+2019,230,Dyer County,Black/Hispanic/Native American,35,33,94.3
+2019,230,Dyer County,Economically Disadvantaged,116,111,95.7
+2019,230,Dyer County,English Learners with Transitional 1-4,2,*,*
+2019,230,Dyer County,Female,146,143,97.9
+2019,230,Dyer County,Hispanic,6,*,*
+2019,230,Dyer County,Homeless,15,13,86.7
+2019,230,Dyer County,Male,129,123,95.3
+2019,230,Dyer County,Non-Black/Hispanic/Native American,240,233,97.1
+2019,230,Dyer County,Non-Economically Disadvantaged,159,155,97.5
+2019,230,Dyer County,Non-English Learners/Transitional 1-4,273,264,96.7
+2019,230,Dyer County,Non-Homeless,260,253,97.3
+2019,230,Dyer County,Non-Migrant,275,266,96.7
+2019,230,Dyer County,Non-Students with Disabilities,245,242,98.8
+2019,230,Dyer County,Students with Disabilities,30,24,80
+2019,230,Dyer County,White,239,232,97.1
+2019,231,Dyersburg,All Students,190,171,90
+2019,231,Dyersburg,Asian,3,*,*
+2019,231,Dyersburg,Black or African American,70,62,88.6
+2019,231,Dyersburg,Black/Hispanic/Native American,83,74,89.2
+2019,231,Dyersburg,Economically Disadvantaged,91,77,84.6
+2019,231,Dyersburg,English Learners with Transitional 1-4,6,*,*
+2019,231,Dyersburg,Female,98,91,92.9
+2019,231,Dyersburg,Hispanic,13,12,92.3
+2019,231,Dyersburg,Homeless,2,*,*
+2019,231,Dyersburg,Male,92,80,87
+2019,231,Dyersburg,Non-Black/Hispanic/Native American,107,97,90.7
+2019,231,Dyersburg,Non-Economically Disadvantaged,99,94,94.9
+2019,231,Dyersburg,Non-English Learners/Transitional 1-4,184,166,90.2
+2019,231,Dyersburg,Non-Homeless,188,170,90.4
+2019,231,Dyersburg,Non-Migrant,190,171,90
+2019,231,Dyersburg,Non-Students with Disabilities,152,145,95.4
+2019,231,Dyersburg,Students with Disabilities,38,26,68.4
+2019,231,Dyersburg,White,104,94,90.4
+2019,240,Fayette County Public Schools,All Students,212,193,91
+2019,240,Fayette County Public Schools,American Indian or Alaska Native,1,*,*
+2019,240,Fayette County Public Schools,Black or African American,147,134,91.2
+2019,240,Fayette County Public Schools,Black/Hispanic/Native American,160,146,91.3
+2019,240,Fayette County Public Schools,Economically Disadvantaged,125,111,88.8
+2019,240,Fayette County Public Schools,English Learners with Transitional 1-4,2,*,*
+2019,240,Fayette County Public Schools,Female,101,93,92.1
+2019,240,Fayette County Public Schools,Hispanic,12,11,91.7
+2019,240,Fayette County Public Schools,Male,111,100,90.1
+2019,240,Fayette County Public Schools,Native Hawaiian or Other Pacific Islander,0,*,*
+2019,240,Fayette County Public Schools,Non-Black/Hispanic/Native American,52,47,90.4
+2019,240,Fayette County Public Schools,Non-Economically Disadvantaged,87,82,94.3
+2019,240,Fayette County Public Schools,Non-English Learners/Transitional 1-4,210,191,91
+2019,240,Fayette County Public Schools,Non-Homeless,212,193,91
+2019,240,Fayette County Public Schools,Non-Migrant,212,193,91
+2019,240,Fayette County Public Schools,Non-Students with Disabilities,178,166,93.3
+2019,240,Fayette County Public Schools,Students with Disabilities,34,27,79.4
+2019,240,Fayette County Public Schools,White,52,47,90.4
+2019,250,Fentress County,All Students,74,71,95.9
+2019,250,Fentress County,Black/Hispanic/Native American,1,*,*
+2019,250,Fentress County,Economically Disadvantaged,44,43,97.7
+2019,250,Fentress County,Female,41,40,97.6
+2019,250,Fentress County,Hispanic,1,*,*
+2019,250,Fentress County,Homeless,6,*,*
+2019,250,Fentress County,Male,33,31,93.9
+2019,250,Fentress County,Non-Black/Hispanic/Native American,73,70,95.9
+2019,250,Fentress County,Non-Economically Disadvantaged,30,28,93.3
+2019,250,Fentress County,Non-English Learners/Transitional 1-4,74,71,95.9
+2019,250,Fentress County,Non-Homeless,68,65,95.6
+2019,250,Fentress County,Non-Migrant,74,71,95.9
+2019,250,Fentress County,Non-Students with Disabilities,64,**,**
+2019,250,Fentress County,Students with Disabilities,10,7,70
+2019,250,Fentress County,White,73,70,95.9
+2019,260,Franklin County,All Students,374,337,90.1
+2019,260,Franklin County,American Indian or Alaska Native,3,*,*
+2019,260,Franklin County,Asian,3,*,*
+2019,260,Franklin County,Black or African American,31,29,93.5
+2019,260,Franklin County,Black/Hispanic/Native American,61,52,85.2
+2019,260,Franklin County,Economically Disadvantaged,124,102,82.3
+2019,260,Franklin County,English Learners with Transitional 1-4,5,*,*
+2019,260,Franklin County,Female,177,157,88.7
+2019,260,Franklin County,Hispanic,27,20,74.1
+2019,260,Franklin County,Homeless,6,*,*
+2019,260,Franklin County,Male,197,180,91.4
+2019,260,Franklin County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,260,Franklin County,Non-Black/Hispanic/Native American,313,285,91.1
+2019,260,Franklin County,Non-Economically Disadvantaged,250,235,94
+2019,260,Franklin County,Non-English Learners/Transitional 1-4,369,336,91.1
+2019,260,Franklin County,Non-Homeless,368,334,90.8
+2019,260,Franklin County,Non-Migrant,374,337,90.1
+2019,260,Franklin County,Non-Students with Disabilities,321,300,93.5
+2019,260,Franklin County,Students with Disabilities,53,37,69.8
+2019,260,Franklin County,White,309,283,91.6
+2019,271,Humboldt City Schools,All Students,53,45,84.9
+2019,271,Humboldt City Schools,Black or African American,43,39,90.7
+2019,271,Humboldt City Schools,Black/Hispanic/Native American,45,40,88.9
+2019,271,Humboldt City Schools,Economically Disadvantaged,33,25,75.8
+2019,271,Humboldt City Schools,English Learners with Transitional 1-4,1,*,*
+2019,271,Humboldt City Schools,Female,29,23,79.3
+2019,271,Humboldt City Schools,Hispanic,2,*,*
+2019,271,Humboldt City Schools,Homeless,3,*,*
+2019,271,Humboldt City Schools,Male,24,22,91.7
+2019,271,Humboldt City Schools,Non-Black/Hispanic/Native American,8,*,*
+2019,271,Humboldt City Schools,Non-Economically Disadvantaged,20,**,**
+2019,271,Humboldt City Schools,Non-English Learners/Transitional 1-4,52,45,86.5
+2019,271,Humboldt City Schools,Non-Homeless,50,42,84
+2019,271,Humboldt City Schools,Non-Migrant,53,45,84.9
+2019,271,Humboldt City Schools,Non-Students with Disabilities,37,35,94.6
+2019,271,Humboldt City Schools,Students with Disabilities,16,10,62.5
+2019,271,Humboldt City Schools,White,8,*,*
+2019,272,Milan,All Students,146,143,97.9
+2019,272,Milan,Black or African American,44,41,93.2
+2019,272,Milan,Black/Hispanic/Native American,48,45,93.8
+2019,272,Milan,Economically Disadvantaged,65,62,95.4
+2019,272,Milan,Female,78,76,97.4
+2019,272,Milan,Hispanic,4,*,*
+2019,272,Milan,Homeless,3,*,*
+2019,272,Milan,Male,68,67,98.5
+2019,272,Milan,Native Hawaiian or Other Pacific Islander,0,*,*
+2019,272,Milan,Non-Black/Hispanic/Native American,98,**,**
+2019,272,Milan,Non-Economically Disadvantaged,81,**,**
+2019,272,Milan,Non-English Learners/Transitional 1-4,146,143,97.9
+2019,272,Milan,Non-Homeless,143,140,97.9
+2019,272,Milan,Non-Migrant,146,143,97.9
+2019,272,Milan,Non-Students with Disabilities,121,**,**
+2019,272,Milan,Students with Disabilities,25,23,92
+2019,272,Milan,White,98,**,**
+2019,273,Trenton,All Students,110,105,95.5
+2019,273,Trenton,Black or African American,35,33,94.3
+2019,273,Trenton,Black/Hispanic/Native American,42,40,95.2
+2019,273,Trenton,Economically Disadvantaged,59,54,91.5
+2019,273,Trenton,English Learners with Transitional 1-4,1,*,*
+2019,273,Trenton,Female,44,43,97.7
+2019,273,Trenton,Hispanic,7,*,*
+2019,273,Trenton,Homeless,4,*,*
+2019,273,Trenton,Male,66,62,93.9
+2019,273,Trenton,Non-Black/Hispanic/Native American,68,65,95.6
+2019,273,Trenton,Non-Economically Disadvantaged,51,**,**
+2019,273,Trenton,Non-English Learners/Transitional 1-4,109,104,95.4
+2019,273,Trenton,Non-Homeless,106,102,96.2
+2019,273,Trenton,Non-Migrant,110,105,95.5
+2019,273,Trenton,Non-Students with Disabilities,92,89,96.7
+2019,273,Trenton,Students with Disabilities,18,16,88.9
+2019,273,Trenton,White,68,65,95.6
+2019,274,Bradford,All Students,38,**,**
+2019,274,Bradford,Black or African American,2,*,*
+2019,274,Bradford,Black/Hispanic/Native American,3,*,*
+2019,274,Bradford,Economically Disadvantaged,11,**,**
+2019,274,Bradford,Female,21,**,**
+2019,274,Bradford,Hispanic,1,*,*
+2019,274,Bradford,Homeless,1,*,*
+2019,274,Bradford,Male,17,**,**
+2019,274,Bradford,Non-Black/Hispanic/Native American,35,**,**
+2019,274,Bradford,Non-Economically Disadvantaged,27,**,**
+2019,274,Bradford,Non-English Learners/Transitional 1-4,38,**,**
+2019,274,Bradford,Non-Homeless,37,**,**
+2019,274,Bradford,Non-Migrant,38,**,**
+2019,274,Bradford,Non-Students with Disabilities,35,**,**
+2019,274,Bradford,Students with Disabilities,3,*,*
+2019,274,Bradford,White,35,**,**
+2019,275,Gibson Co Sp Dist,All Students,290,268,92.4
+2019,275,Gibson Co Sp Dist,Asian,4,*,*
+2019,275,Gibson Co Sp Dist,Black or African American,26,24,92.3
+2019,275,Gibson Co Sp Dist,Black/Hispanic/Native American,33,30,90.9
+2019,275,Gibson Co Sp Dist,Economically Disadvantaged,69,55,79.7
+2019,275,Gibson Co Sp Dist,English Learners with Transitional 1-4,1,*,*
+2019,275,Gibson Co Sp Dist,Female,133,127,95.5
+2019,275,Gibson Co Sp Dist,Hispanic,7,*,*
+2019,275,Gibson Co Sp Dist,Homeless,1,*,*
+2019,275,Gibson Co Sp Dist,Male,157,141,89.8
+2019,275,Gibson Co Sp Dist,Non-Black/Hispanic/Native American,257,238,92.6
+2019,275,Gibson Co Sp Dist,Non-Economically Disadvantaged,221,213,96.4
+2019,275,Gibson Co Sp Dist,Non-English Learners/Transitional 1-4,289,267,92.4
+2019,275,Gibson Co Sp Dist,Non-Homeless,289,268,92.7
+2019,275,Gibson Co Sp Dist,Non-Migrant,290,268,92.4
+2019,275,Gibson Co Sp Dist,Non-Students with Disabilities,252,243,96.4
+2019,275,Gibson Co Sp Dist,Students with Disabilities,38,25,65.8
+2019,275,Gibson Co Sp Dist,White,253,234,92.5
+2019,280,Giles County,All Students,279,259,92.8
+2019,280,Giles County,American Indian or Alaska Native,2,*,*
+2019,280,Giles County,Asian,1,*,*
+2019,280,Giles County,Black or African American,42,40,95.2
+2019,280,Giles County,Black/Hispanic/Native American,53,49,92.5
+2019,280,Giles County,Economically Disadvantaged,127,113,89
+2019,280,Giles County,English Learners with Transitional 1-4,3,*,*
+2019,280,Giles County,Female,141,137,97.2
+2019,280,Giles County,Hispanic,9,*,*
+2019,280,Giles County,Homeless,6,*,*
+2019,280,Giles County,Male,138,122,88.4
+2019,280,Giles County,Non-Black/Hispanic/Native American,226,210,92.9
+2019,280,Giles County,Non-Economically Disadvantaged,152,146,96.1
+2019,280,Giles County,Non-English Learners/Transitional 1-4,276,256,92.8
+2019,280,Giles County,Non-Homeless,273,255,93.4
+2019,280,Giles County,Non-Migrant,279,259,92.8
+2019,280,Giles County,Non-Students with Disabilities,248,234,94.4
+2019,280,Giles County,Students with Disabilities,31,25,80.6
+2019,280,Giles County,White,225,209,92.9
+2019,290,Grainger County,All Students,274,264,96.4
+2019,290,Grainger County,Black or African American,4,*,*
+2019,290,Grainger County,Black/Hispanic/Native American,14,**,**
+2019,290,Grainger County,Economically Disadvantaged,102,95,93.1
+2019,290,Grainger County,English Learners with Transitional 1-4,6,*,*
+2019,290,Grainger County,Female,142,139,97.9
+2019,290,Grainger County,Hispanic,10,**,**
+2019,290,Grainger County,Homeless,7,*,*
+2019,290,Grainger County,Male,132,125,94.7
+2019,290,Grainger County,Migrant,0,*,*
+2019,290,Grainger County,Non-Black/Hispanic/Native American,260,250,96.2
+2019,290,Grainger County,Non-Economically Disadvantaged,172,169,98.3
+2019,290,Grainger County,Non-English Learners/Transitional 1-4,268,258,96.3
+2019,290,Grainger County,Non-Homeless,267,259,97
+2019,290,Grainger County,Non-Migrant,274,264,96.4
+2019,290,Grainger County,Non-Students with Disabilities,245,242,98.8
+2019,290,Grainger County,Students with Disabilities,29,22,75.9
+2019,290,Grainger County,White,260,250,96.2
+2019,300,Greene County,All Students,523,487,93.1
+2019,300,Greene County,American Indian or Alaska Native,4,*,*
+2019,300,Greene County,Asian,3,*,*
+2019,300,Greene County,Black or African American,6,*,*
+2019,300,Greene County,Black/Hispanic/Native American,30,25,83.3
+2019,300,Greene County,Economically Disadvantaged,217,190,87.6
+2019,300,Greene County,English Learners with Transitional 1-4,6,*,*
+2019,300,Greene County,Female,270,262,97
+2019,300,Greene County,Hispanic,20,16,80
+2019,300,Greene County,Homeless,5,*,*
+2019,300,Greene County,Male,253,225,88.9
+2019,300,Greene County,Migrant,1,*,*
+2019,300,Greene County,Non-Black/Hispanic/Native American,493,462,93.7
+2019,300,Greene County,Non-Economically Disadvantaged,306,297,97.1
+2019,300,Greene County,Non-English Learners/Transitional 1-4,517,483,93.4
+2019,300,Greene County,Non-Homeless,518,483,93.2
+2019,300,Greene County,Non-Migrant,522,486,93.1
+2019,300,Greene County,Non-Students with Disabilities,432,421,97.5
+2019,300,Greene County,Students with Disabilities,91,66,72.5
+2019,300,Greene County,White,490,459,93.7
+2019,301,Greeneville,All Students,230,224,97.4
+2019,301,Greeneville,American Indian or Alaska Native,4,*,*
+2019,301,Greeneville,Asian,7,*,*
+2019,301,Greeneville,Black or African American,25,24,96
+2019,301,Greeneville,Black/Hispanic/Native American,31,30,96.8
+2019,301,Greeneville,Economically Disadvantaged,66,63,95.5
+2019,301,Greeneville,English Learners with Transitional 1-4,5,*,*
+2019,301,Greeneville,Female,118,115,97.5
+2019,301,Greeneville,Hispanic,2,*,*
+2019,301,Greeneville,Homeless,6,*,*
+2019,301,Greeneville,Male,112,109,97.3
+2019,301,Greeneville,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,301,Greeneville,Non-Black/Hispanic/Native American,199,194,97.5
+2019,301,Greeneville,Non-Economically Disadvantaged,164,161,98.2
+2019,301,Greeneville,Non-English Learners/Transitional 1-4,225,219,97.3
+2019,301,Greeneville,Non-Homeless,224,218,97.3
+2019,301,Greeneville,Non-Migrant,230,224,97.4
+2019,301,Greeneville,Non-Students with Disabilities,193,191,99
+2019,301,Greeneville,Students with Disabilities,37,33,89.2
+2019,301,Greeneville,White,191,186,97.4
+2019,310,Grundy County,All Students,171,155,90.6
+2019,310,Grundy County,Black/Hispanic/Native American,2,*,*
+2019,310,Grundy County,Economically Disadvantaged,71,62,87.3
+2019,310,Grundy County,Female,76,74,97.4
+2019,310,Grundy County,Hispanic,2,*,*
+2019,310,Grundy County,Homeless,2,*,*
+2019,310,Grundy County,Male,95,81,85.3
+2019,310,Grundy County,Migrant,1,*,*
+2019,310,Grundy County,Non-Black/Hispanic/Native American,169,153,90.5
+2019,310,Grundy County,Non-Economically Disadvantaged,100,93,93
+2019,310,Grundy County,Non-English Learners/Transitional 1-4,171,155,90.6
+2019,310,Grundy County,Non-Homeless,169,154,91.1
+2019,310,Grundy County,Non-Migrant,170,155,91.2
+2019,310,Grundy County,Non-Students with Disabilities,133,125,94
+2019,310,Grundy County,Students with Disabilities,38,30,78.9
+2019,310,Grundy County,White,169,153,90.5
+2019,320,Hamblen County,All Students,783,739,94.4
+2019,320,Hamblen County,American Indian or Alaska Native,5,*,*
+2019,320,Hamblen County,Asian,11,**,**
+2019,320,Hamblen County,Black or African American,57,50,87.7
+2019,320,Hamblen County,Black/Hispanic/Native American,220,199,90.5
+2019,320,Hamblen County,Economically Disadvantaged,302,271,89.7
+2019,320,Hamblen County,English Learners with Transitional 1-4,43,35,81.4
+2019,320,Hamblen County,Female,370,355,95.9
+2019,320,Hamblen County,Hispanic,158,144,91.1
+2019,320,Hamblen County,Homeless,11,**,**
+2019,320,Hamblen County,Male,413,384,93
+2019,320,Hamblen County,Migrant,11,**,**
+2019,320,Hamblen County,Native Hawaiian or Other Pacific Islander,4,*,*
+2019,320,Hamblen County,Non-Black/Hispanic/Native American,563,540,95.9
+2019,320,Hamblen County,Non-Economically Disadvantaged,481,468,97.3
+2019,320,Hamblen County,Non-English Learners/Transitional 1-4,740,704,95.1
+2019,320,Hamblen County,Non-Homeless,772,728,94.3
+2019,320,Hamblen County,Non-Migrant,772,728,94.3
+2019,320,Hamblen County,Non-Students with Disabilities,676,651,96.3
+2019,320,Hamblen County,Students with Disabilities,107,88,82.2
+2019,320,Hamblen County,White,548,526,96
+2019,330,Hamilton County,All Students,3167,2751,86.9
+2019,330,Hamilton County,American Indian or Alaska Native,13,11,84.6
+2019,330,Hamilton County,Asian,105,98,93.3
+2019,330,Hamilton County,Black or African American,973,818,84.1
+2019,330,Hamilton County,Black/Hispanic/Native American,1383,1135,82.1
+2019,330,Hamilton County,Economically Disadvantaged,1265,1031,81.5
+2019,330,Hamilton County,English Learners with Transitional 1-4,189,108,57.1
+2019,330,Hamilton County,Female,1488,1351,90.8
+2019,330,Hamilton County,Hispanic,397,306,77.1
+2019,330,Hamilton County,Homeless,92,71,77.2
+2019,330,Hamilton County,Male,1679,1400,83.4
+2019,330,Hamilton County,Migrant,2,*,*
+2019,330,Hamilton County,Native Hawaiian or Other Pacific Islander,2,*,*
+2019,330,Hamilton County,Non-Black/Hispanic/Native American,1784,1616,90.6
+2019,330,Hamilton County,Non-Economically Disadvantaged,1902,1720,90.4
+2019,330,Hamilton County,Non-English Learners/Transitional 1-4,2978,2643,88.8
+2019,330,Hamilton County,Non-Homeless,3075,2680,87.2
+2019,330,Hamilton County,Non-Migrant,3165,2750,86.9
+2019,330,Hamilton County,Non-Students with Disabilities,2773,2484,89.6
+2019,330,Hamilton County,Students with Disabilities,394,267,67.8
+2019,330,Hamilton County,White,1677,1516,90.4
+2019,340,Hancock County,All Students,76,74,97.4
+2019,340,Hancock County,Economically Disadvantaged,44,42,95.5
+2019,340,Hancock County,Female,31,**,**
+2019,340,Hancock County,Male,45,43,95.6
+2019,340,Hancock County,Non-Black/Hispanic/Native American,76,74,97.4
+2019,340,Hancock County,Non-Economically Disadvantaged,32,**,**
+2019,340,Hancock County,Non-English Learners/Transitional 1-4,76,74,97.4
+2019,340,Hancock County,Non-Homeless,76,74,97.4
+2019,340,Hancock County,Non-Migrant,76,74,97.4
+2019,340,Hancock County,Non-Students with Disabilities,59,57,96.6
+2019,340,Hancock County,Students with Disabilities,17,**,**
+2019,340,Hancock County,White,76,74,97.4
+2019,350,Hardeman County Schools,All Students,287,236,82.2
+2019,350,Hardeman County Schools,Asian,4,*,*
+2019,350,Hardeman County Schools,Black or African American,153,126,82.4
+2019,350,Hardeman County Schools,Black/Hispanic/Native American,159,130,81.8
+2019,350,Hardeman County Schools,Economically Disadvantaged,163,120,73.6
+2019,350,Hardeman County Schools,English Learners with Transitional 1-4,4,*,*
+2019,350,Hardeman County Schools,Female,135,118,87.4
+2019,350,Hardeman County Schools,Hispanic,6,*,*
+2019,350,Hardeman County Schools,Homeless,5,*,*
+2019,350,Hardeman County Schools,Male,152,118,77.6
+2019,350,Hardeman County Schools,Non-Black/Hispanic/Native American,128,106,82.8
+2019,350,Hardeman County Schools,Non-Economically Disadvantaged,124,116,93.5
+2019,350,Hardeman County Schools,Non-English Learners/Transitional 1-4,283,233,82.3
+2019,350,Hardeman County Schools,Non-Homeless,282,233,82.6
+2019,350,Hardeman County Schools,Non-Migrant,287,236,82.2
+2019,350,Hardeman County Schools,Non-Students with Disabilities,251,215,85.7
+2019,350,Hardeman County Schools,Students with Disabilities,36,21,58.3
+2019,350,Hardeman County Schools,White,124,102,82.3
+2019,360,Hardin County,All Students,267,255,95.5
+2019,360,Hardin County,American Indian or Alaska Native,1,*,*
+2019,360,Hardin County,Asian,2,*,*
+2019,360,Hardin County,Black or African American,19,18,94.7
+2019,360,Hardin County,Black/Hispanic/Native American,26,25,96.2
+2019,360,Hardin County,Economically Disadvantaged,121,113,93.4
+2019,360,Hardin County,English Learners with Transitional 1-4,2,*,*
+2019,360,Hardin County,Female,126,120,95.2
+2019,360,Hardin County,Hispanic,6,*,*
+2019,360,Hardin County,Homeless,16,15,93.8
+2019,360,Hardin County,Male,141,135,95.7
+2019,360,Hardin County,Non-Black/Hispanic/Native American,241,230,95.4
+2019,360,Hardin County,Non-Economically Disadvantaged,146,142,97.3
+2019,360,Hardin County,Non-English Learners/Transitional 1-4,265,253,95.5
+2019,360,Hardin County,Non-Homeless,251,240,95.6
+2019,360,Hardin County,Non-Migrant,267,255,95.5
+2019,360,Hardin County,Non-Students with Disabilities,224,214,95.5
+2019,360,Hardin County,Students with Disabilities,43,41,95.3
+2019,360,Hardin County,White,239,228,95.4
+2019,370,Hawkins County,All Students,508,486,95.7
+2019,370,Hawkins County,American Indian or Alaska Native,1,*,*
+2019,370,Hawkins County,Asian,4,*,*
+2019,370,Hawkins County,Black or African American,13,11,84.6
+2019,370,Hawkins County,Black/Hispanic/Native American,28,24,85.7
+2019,370,Hawkins County,Economically Disadvantaged,235,219,93.2
+2019,370,Hawkins County,English Learners with Transitional 1-4,2,*,*
+2019,370,Hawkins County,Female,255,250,98
+2019,370,Hawkins County,Hispanic,14,12,85.7
+2019,370,Hawkins County,Homeless,10,8,80
+2019,370,Hawkins County,Male,253,236,93.3
+2019,370,Hawkins County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,370,Hawkins County,Non-Black/Hispanic/Native American,480,462,96.3
+2019,370,Hawkins County,Non-Economically Disadvantaged,273,267,97.8
+2019,370,Hawkins County,Non-English Learners/Transitional 1-4,506,485,95.8
+2019,370,Hawkins County,Non-Homeless,498,478,96
+2019,370,Hawkins County,Non-Migrant,508,486,95.7
+2019,370,Hawkins County,Non-Students with Disabilities,436,426,97.7
+2019,370,Hawkins County,Students with Disabilities,72,60,83.3
+2019,370,Hawkins County,White,475,458,96.4
+2019,380,Haywood County,All Students,264,243,92
+2019,380,Haywood County,Asian,1,*,*
+2019,380,Haywood County,Black or African American,186,172,92.5
+2019,380,Haywood County,Black/Hispanic/Native American,200,186,93
+2019,380,Haywood County,Economically Disadvantaged,157,141,89.8
+2019,380,Haywood County,English Learners with Transitional 1-4,4,*,*
+2019,380,Haywood County,Female,116,111,95.7
+2019,380,Haywood County,Hispanic,14,**,**
+2019,380,Haywood County,Homeless,1,*,*
+2019,380,Haywood County,Male,148,132,89.2
+2019,380,Haywood County,Non-Black/Hispanic/Native American,64,57,89.1
+2019,380,Haywood County,Non-Economically Disadvantaged,107,102,95.3
+2019,380,Haywood County,Non-English Learners/Transitional 1-4,260,240,92.3
+2019,380,Haywood County,Non-Homeless,263,243,92.4
+2019,380,Haywood County,Non-Migrant,264,243,92
+2019,380,Haywood County,Non-Students with Disabilities,232,218,94
+2019,380,Haywood County,Students with Disabilities,32,25,78.1
+2019,380,Haywood County,White,63,56,88.9
+2019,390,Henderson County,All Students,327,303,92.7
+2019,390,Henderson County,American Indian or Alaska Native,2,*,*
+2019,390,Henderson County,Asian,3,*,*
+2019,390,Henderson County,Black or African American,33,29,87.9
+2019,390,Henderson County,Black/Hispanic/Native American,50,44,88
+2019,390,Henderson County,Economically Disadvantaged,147,129,87.8
+2019,390,Henderson County,English Learners with Transitional 1-4,2,*,*
+2019,390,Henderson County,Female,160,150,93.8
+2019,390,Henderson County,Hispanic,15,13,86.7
+2019,390,Henderson County,Homeless,13,11,84.6
+2019,390,Henderson County,Male,167,153,91.6
+2019,390,Henderson County,Native Hawaiian or Other Pacific Islander,0,*,*
+2019,390,Henderson County,Non-Black/Hispanic/Native American,277,259,93.5
+2019,390,Henderson County,Non-Economically Disadvantaged,180,174,96.7
+2019,390,Henderson County,Non-English Learners/Transitional 1-4,325,302,92.9
+2019,390,Henderson County,Non-Homeless,314,292,93
+2019,390,Henderson County,Non-Migrant,327,303,92.7
+2019,390,Henderson County,Non-Students with Disabilities,271,260,95.9
+2019,390,Henderson County,Students with Disabilities,56,43,76.8
+2019,390,Henderson County,White,274,256,93.4
+2019,400,Henry County,All Students,304,289,95.1
+2019,400,Henry County,Asian,5,*,*
+2019,400,Henry County,Black or African American,31,30,96.8
+2019,400,Henry County,Black/Hispanic/Native American,41,39,95.1
+2019,400,Henry County,Economically Disadvantaged,110,103,93.6
+2019,400,Henry County,English Learners with Transitional 1-4,1,*,*
+2019,400,Henry County,Female,135,129,95.6
+2019,400,Henry County,Hispanic,10,9,90
+2019,400,Henry County,Homeless,6,*,*
+2019,400,Henry County,Male,169,160,94.7
+2019,400,Henry County,Migrant,0,*,*
+2019,400,Henry County,Non-Black/Hispanic/Native American,263,250,95.1
+2019,400,Henry County,Non-Economically Disadvantaged,194,186,95.9
+2019,400,Henry County,Non-English Learners/Transitional 1-4,303,288,95
+2019,400,Henry County,Non-Homeless,298,283,95
+2019,400,Henry County,Non-Migrant,304,289,95.1
+2019,400,Henry County,Non-Students with Disabilities,268,260,97
+2019,400,Henry County,Students with Disabilities,36,29,80.6
+2019,400,Henry County,White,258,245,95
+2019,410,Hickman County,All Students,250,236,94.4
+2019,410,Hickman County,American Indian or Alaska Native,2,*,*
+2019,410,Hickman County,Asian,2,*,*
+2019,410,Hickman County,Black or African American,13,12,92.3
+2019,410,Hickman County,Black/Hispanic/Native American,22,20,90.9
+2019,410,Hickman County,Economically Disadvantaged,115,106,92.2
+2019,410,Hickman County,English Learners with Transitional 1-4,1,*,*
+2019,410,Hickman County,Female,117,111,94.9
+2019,410,Hickman County,Hispanic,7,*,*
+2019,410,Hickman County,Homeless,7,*,*
+2019,410,Hickman County,Male,133,125,94
+2019,410,Hickman County,Non-Black/Hispanic/Native American,228,216,94.7
+2019,410,Hickman County,Non-Economically Disadvantaged,135,130,96.3
+2019,410,Hickman County,Non-English Learners/Transitional 1-4,249,235,94.4
+2019,410,Hickman County,Non-Homeless,243,229,94.2
+2019,410,Hickman County,Non-Migrant,250,236,94.4
+2019,410,Hickman County,Non-Students with Disabilities,209,205,98.1
+2019,410,Hickman County,Students with Disabilities,41,31,75.6
+2019,410,Hickman County,White,226,214,94.7
+2019,420,Houston County,All Students,121,111,91.7
+2019,420,Houston County,Asian,1,*,*
+2019,420,Houston County,Black or African American,2,*,*
+2019,420,Houston County,Black/Hispanic/Native American,4,*,*
+2019,420,Houston County,Economically Disadvantaged,42,37,88.1
+2019,420,Houston County,Female,57,54,94.7
+2019,420,Houston County,Hispanic,2,*,*
+2019,420,Houston County,Homeless,4,*,*
+2019,420,Houston County,Male,64,57,89.1
+2019,420,Houston County,Non-Black/Hispanic/Native American,117,107,91.5
+2019,420,Houston County,Non-Economically Disadvantaged,79,74,93.7
+2019,420,Houston County,Non-English Learners/Transitional 1-4,121,111,91.7
+2019,420,Houston County,Non-Homeless,117,109,93.2
+2019,420,Houston County,Non-Migrant,121,111,91.7
+2019,420,Houston County,Non-Students with Disabilities,95,90,94.7
+2019,420,Houston County,Students with Disabilities,26,21,80.8
+2019,420,Houston County,White,116,107,92.2
+2019,430,Humphreys County,All Students,183,177,96.7
+2019,430,Humphreys County,American Indian or Alaska Native,2,*,*
+2019,430,Humphreys County,Asian,2,*,*
+2019,430,Humphreys County,Black or African American,10,**,**
+2019,430,Humphreys County,Black/Hispanic/Native American,18,**,**
+2019,430,Humphreys County,Economically Disadvantaged,71,67,94.4
+2019,430,Humphreys County,Female,91,89,97.8
+2019,430,Humphreys County,Hispanic,6,*,*
+2019,430,Humphreys County,Homeless,6,*,*
+2019,430,Humphreys County,Male,92,88,95.7
+2019,430,Humphreys County,Non-Black/Hispanic/Native American,165,159,96.4
+2019,430,Humphreys County,Non-Economically Disadvantaged,112,110,98.2
+2019,430,Humphreys County,Non-English Learners/Transitional 1-4,183,177,96.7
+2019,430,Humphreys County,Non-Homeless,177,172,97.2
+2019,430,Humphreys County,Non-Migrant,183,177,96.7
+2019,430,Humphreys County,Non-Students with Disabilities,152,149,98
+2019,430,Humphreys County,Students with Disabilities,31,28,90.3
+2019,430,Humphreys County,White,163,157,96.3
+2019,440,Jackson County,All Students,110,105,95.5
+2019,440,Jackson County,Asian,1,*,*
+2019,440,Jackson County,Black or African American,1,*,*
+2019,440,Jackson County,Black/Hispanic/Native American,2,*,*
+2019,440,Jackson County,Economically Disadvantaged,61,56,91.8
+2019,440,Jackson County,Female,44,43,97.7
+2019,440,Jackson County,Hispanic,1,*,*
+2019,440,Jackson County,Homeless,106,102,96.2
+2019,440,Jackson County,Male,66,62,93.9
+2019,440,Jackson County,Migrant,104,100,96.2
+2019,440,Jackson County,Non-Black/Hispanic/Native American,108,103,95.4
+2019,440,Jackson County,Non-Economically Disadvantaged,49,**,**
+2019,440,Jackson County,Non-English Learners/Transitional 1-4,110,105,95.5
+2019,440,Jackson County,Non-Homeless,4,*,*
+2019,440,Jackson County,Non-Migrant,6,*,*
+2019,440,Jackson County,Non-Students with Disabilities,91,89,97.8
+2019,440,Jackson County,Students with Disabilities,19,16,84.2
+2019,440,Jackson County,White,107,102,95.3
+2019,450,Jefferson County,All Students,495,474,95.8
+2019,450,Jefferson County,American Indian or Alaska Native,2,*,*
+2019,450,Jefferson County,Asian,10,**,**
+2019,450,Jefferson County,Black or African American,16,15,93.8
+2019,450,Jefferson County,Black/Hispanic/Native American,58,56,96.6
+2019,450,Jefferson County,Economically Disadvantaged,229,214,93.4
+2019,450,Jefferson County,English Learners with Transitional 1-4,10,**,**
+2019,450,Jefferson County,Female,232,224,96.6
+2019,450,Jefferson County,Hispanic,40,39,97.5
+2019,450,Jefferson County,Homeless,4,*,*
+2019,450,Jefferson County,Male,263,250,95.1
+2019,450,Jefferson County,Migrant,2,*,*
+2019,450,Jefferson County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,450,Jefferson County,Non-Black/Hispanic/Native American,437,418,95.7
+2019,450,Jefferson County,Non-Economically Disadvantaged,266,260,97.7
+2019,450,Jefferson County,Non-English Learners/Transitional 1-4,485,464,95.7
+2019,450,Jefferson County,Non-Homeless,491,470,95.7
+2019,450,Jefferson County,Non-Migrant,493,472,95.7
+2019,450,Jefferson County,Non-Students with Disabilities,430,422,98.1
+2019,450,Jefferson County,Students with Disabilities,65,52,80
+2019,450,Jefferson County,White,426,407,95.5
+2019,460,Johnson County,All Students,134,129,96.3
+2019,460,Johnson County,Black or African American,0,*,*
+2019,460,Johnson County,Black/Hispanic/Native American,4,*,*
+2019,460,Johnson County,Economically Disadvantaged,61,57,93.4
+2019,460,Johnson County,English Learners with Transitional 1-4,2,*,*
+2019,460,Johnson County,Female,58,57,98.3
+2019,460,Johnson County,Hispanic,4,*,*
+2019,460,Johnson County,Homeless,2,*,*
+2019,460,Johnson County,Male,76,72,94.7
+2019,460,Johnson County,Migrant,1,*,*
+2019,460,Johnson County,Non-Black/Hispanic/Native American,130,127,97.7
+2019,460,Johnson County,Non-Economically Disadvantaged,73,72,98.6
+2019,460,Johnson County,Non-English Learners/Transitional 1-4,132,128,97
+2019,460,Johnson County,Non-Homeless,132,127,96.2
+2019,460,Johnson County,Non-Migrant,133,128,96.2
+2019,460,Johnson County,Non-Students with Disabilities,107,105,98.1
+2019,460,Johnson County,Students with Disabilities,27,24,88.9
+2019,460,Johnson County,White,130,127,97.7
+2019,470,Knox County,All Students,4349,3967,91.2
+2019,470,Knox County,American Indian or Alaska Native,19,**,**
+2019,470,Knox County,Asian,117,113,96.6
+2019,470,Knox County,Black or African American,721,624,86.5
+2019,470,Knox County,Black/Hispanic/Native American,1050,911,86.8
+2019,470,Knox County,Economically Disadvantaged,1287,1053,81.8
+2019,470,Knox County,English Learners with Transitional 1-4,156,123,78.8
+2019,470,Knox County,Female,2087,1974,94.6
+2019,470,Knox County,Hispanic,310,268,86.5
+2019,470,Knox County,Homeless,76,50,65.8
+2019,470,Knox County,Male,2262,1993,88.1
+2019,470,Knox County,Migrant,3,*,*
+2019,470,Knox County,Native Hawaiian or Other Pacific Islander,18,17,94.4
+2019,470,Knox County,Non-Black/Hispanic/Native American,3299,3056,92.6
+2019,470,Knox County,Non-Economically Disadvantaged,3062,2914,95.2
+2019,470,Knox County,Non-English Learners/Transitional 1-4,4193,3844,91.7
+2019,470,Knox County,Non-Homeless,4273,3917,91.7
+2019,470,Knox County,Non-Migrant,4346,3965,91.2
+2019,470,Knox County,Non-Students with Disabilities,3734,3512,94.1
+2019,470,Knox County,Students with Disabilities,615,455,74
+2019,470,Knox County,White,3164,2926,92.5
+2019,480,Lake County,All Students,46,43,93.5
+2019,480,Lake County,Black or African American,18,17,94.4
+2019,480,Lake County,Black/Hispanic/Native American,19,18,94.7
+2019,480,Lake County,Economically Disadvantaged,31,28,90.3
+2019,480,Lake County,Female,24,**,**
+2019,480,Lake County,Hispanic,1,*,*
+2019,480,Lake County,Male,22,19,86.4
+2019,480,Lake County,Non-Black/Hispanic/Native American,27,25,92.6
+2019,480,Lake County,Non-Economically Disadvantaged,15,**,**
+2019,480,Lake County,Non-English Learners/Transitional 1-4,46,43,93.5
+2019,480,Lake County,Non-Homeless,46,43,93.5
+2019,480,Lake County,Non-Migrant,46,43,93.5
+2019,480,Lake County,Non-Students with Disabilities,39,36,92.3
+2019,480,Lake County,Students with Disabilities,7,*,*
+2019,480,Lake County,White,27,25,92.6
+2019,490,Lauderdale County,All Students,276,270,97.8
+2019,490,Lauderdale County,American Indian or Alaska Native,1,*,*
+2019,490,Lauderdale County,Asian,1,*,*
+2019,490,Lauderdale County,Black or African American,127,125,98.4
+2019,490,Lauderdale County,Black/Hispanic/Native American,138,135,97.8
+2019,490,Lauderdale County,Economically Disadvantaged,148,144,97.3
+2019,490,Lauderdale County,English Learners with Transitional 1-4,5,*,*
+2019,490,Lauderdale County,Female,134,131,97.8
+2019,490,Lauderdale County,Hispanic,10,9,90
+2019,490,Lauderdale County,Homeless,3,*,*
+2019,490,Lauderdale County,Male,142,139,97.9
+2019,490,Lauderdale County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,490,Lauderdale County,Non-Black/Hispanic/Native American,138,135,97.8
+2019,490,Lauderdale County,Non-Economically Disadvantaged,128,126,98.4
+2019,490,Lauderdale County,Non-English Learners/Transitional 1-4,271,266,98.2
+2019,490,Lauderdale County,Non-Homeless,273,267,97.8
+2019,490,Lauderdale County,Non-Migrant,276,270,97.8
+2019,490,Lauderdale County,Non-Students with Disabilities,240,237,98.8
+2019,490,Lauderdale County,Students with Disabilities,36,33,91.7
+2019,490,Lauderdale County,White,136,133,97.8
+2019,500,Lawrence County,All Students,555,540,97.3
+2019,500,Lawrence County,Asian,1,*,*
+2019,500,Lawrence County,Black or African American,19,18,94.7
+2019,500,Lawrence County,Black/Hispanic/Native American,32,30,93.8
+2019,500,Lawrence County,Economically Disadvantaged,233,224,96.1
+2019,500,Lawrence County,English Learners with Transitional 1-4,6,*,*
+2019,500,Lawrence County,Female,281,278,98.9
+2019,500,Lawrence County,Hispanic,13,12,92.3
+2019,500,Lawrence County,Homeless,26,24,92.3
+2019,500,Lawrence County,Male,274,262,95.6
+2019,500,Lawrence County,Migrant,1,*,*
+2019,500,Lawrence County,Non-Black/Hispanic/Native American,523,510,97.5
+2019,500,Lawrence County,Non-Economically Disadvantaged,322,316,98.1
+2019,500,Lawrence County,Non-English Learners/Transitional 1-4,549,536,97.6
+2019,500,Lawrence County,Non-Homeless,529,516,97.5
+2019,500,Lawrence County,Non-Migrant,554,540,97.5
+2019,500,Lawrence County,Non-Students with Disabilities,482,474,98.3
+2019,500,Lawrence County,Students with Disabilities,73,66,90.4
+2019,500,Lawrence County,White,522,509,97.5
+2019,510,Lewis County,All Students,114,109,95.6
+2019,510,Lewis County,American Indian or Alaska Native,1,*,*
+2019,510,Lewis County,Black or African American,3,*,*
+2019,510,Lewis County,Black/Hispanic/Native American,9,*,*
+2019,510,Lewis County,Economically Disadvantaged,49,45,91.8
+2019,510,Lewis County,English Learners with Transitional 1-4,0,*,*
+2019,510,Lewis County,Female,52,49,94.2
+2019,510,Lewis County,Hispanic,5,*,*
+2019,510,Lewis County,Male,62,60,96.8
+2019,510,Lewis County,Non-Black/Hispanic/Native American,105,100,95.2
+2019,510,Lewis County,Non-Economically Disadvantaged,65,64,98.5
+2019,510,Lewis County,Non-English Learners/Transitional 1-4,114,109,95.6
+2019,510,Lewis County,Non-Homeless,114,109,95.6
+2019,510,Lewis County,Non-Migrant,114,109,95.6
+2019,510,Lewis County,Non-Students with Disabilities,100,97,97
+2019,510,Lewis County,Students with Disabilities,14,12,85.7
+2019,510,Lewis County,White,105,100,95.2
+2019,520,Lincoln County,All Students,272,251,92.3
+2019,520,Lincoln County,American Indian or Alaska Native,1,*,*
+2019,520,Lincoln County,Asian,2,*,*
+2019,520,Lincoln County,Black or African American,11,6,54.5
+2019,520,Lincoln County,Black/Hispanic/Native American,32,25,78.1
+2019,520,Lincoln County,Economically Disadvantaged,94,79,84
+2019,520,Lincoln County,English Learners with Transitional 1-4,6,*,*
+2019,520,Lincoln County,Female,135,132,97.8
+2019,520,Lincoln County,Hispanic,20,18,90
+2019,520,Lincoln County,Homeless,2,*,*
+2019,520,Lincoln County,Male,137,119,86.9
+2019,520,Lincoln County,Non-Black/Hispanic/Native American,240,226,94.2
+2019,520,Lincoln County,Non-Economically Disadvantaged,178,172,96.6
+2019,520,Lincoln County,Non-English Learners/Transitional 1-4,266,245,92.1
+2019,520,Lincoln County,Non-Homeless,270,249,92.2
+2019,520,Lincoln County,Non-Migrant,272,251,92.3
+2019,520,Lincoln County,Non-Students with Disabilities,237,225,94.9
+2019,520,Lincoln County,Students with Disabilities,35,26,74.3
+2019,520,Lincoln County,White,238,224,94.1
+2019,521,Fayetteville,All Students,81,76,93.8
+2019,521,Fayetteville,Black or African American,35,30,85.7
+2019,521,Fayetteville,Black/Hispanic/Native American,37,32,86.5
+2019,521,Fayetteville,Economically Disadvantaged,31,27,87.1
+2019,521,Fayetteville,English Learners with Transitional 1-4,2,*,*
+2019,521,Fayetteville,Female,42,41,97.6
+2019,521,Fayetteville,Hispanic,2,*,*
+2019,521,Fayetteville,Male,39,35,89.7
+2019,521,Fayetteville,Non-Black/Hispanic/Native American,44,**,**
+2019,521,Fayetteville,Non-Economically Disadvantaged,50,49,98
+2019,521,Fayetteville,Non-English Learners/Transitional 1-4,79,74,93.7
+2019,521,Fayetteville,Non-Homeless,81,76,93.8
+2019,521,Fayetteville,Non-Migrant,81,76,93.8
+2019,521,Fayetteville,Non-Students with Disabilities,74,71,95.9
+2019,521,Fayetteville,Students with Disabilities,7,*,*
+2019,521,Fayetteville,White,44,**,**
+2019,530,Loudon County,All Students,258,241,93.4
+2019,530,Loudon County,Asian,0,*,*
+2019,530,Loudon County,Black or African American,10,9,90
+2019,530,Loudon County,Black/Hispanic/Native American,40,38,95
+2019,530,Loudon County,Economically Disadvantaged,66,55,83.3
+2019,530,Loudon County,English Learners with Transitional 1-4,11,10,90.9
+2019,530,Loudon County,Female,118,111,94.1
+2019,530,Loudon County,Hispanic,30,29,96.7
+2019,530,Loudon County,Homeless,2,*,*
+2019,530,Loudon County,Male,140,130,92.9
+2019,530,Loudon County,Non-Black/Hispanic/Native American,218,203,93.1
+2019,530,Loudon County,Non-Economically Disadvantaged,192,186,96.9
+2019,530,Loudon County,Non-English Learners/Transitional 1-4,247,231,93.5
+2019,530,Loudon County,Non-Homeless,256,240,93.8
+2019,530,Loudon County,Non-Migrant,258,241,93.4
+2019,530,Loudon County,Non-Students with Disabilities,218,212,97.2
+2019,530,Loudon County,Students with Disabilities,40,29,72.5
+2019,530,Loudon County,White,218,203,93.1
+2019,531,Lenoir City,All Students,273,254,93
+2019,531,Lenoir City,American Indian or Alaska Native,1,*,*
+2019,531,Lenoir City,Asian,3,*,*
+2019,531,Lenoir City,Black or African American,5,*,*
+2019,531,Lenoir City,Black/Hispanic/Native American,53,48,90.6
+2019,531,Lenoir City,Economically Disadvantaged,88,76,86.4
+2019,531,Lenoir City,English Learners with Transitional 1-4,16,15,93.8
+2019,531,Lenoir City,Female,116,109,94
+2019,531,Lenoir City,Hispanic,47,43,91.5
+2019,531,Lenoir City,Homeless,7,*,*
+2019,531,Lenoir City,Male,157,145,92.4
+2019,531,Lenoir City,Migrant,1,*,*
+2019,531,Lenoir City,Non-Black/Hispanic/Native American,220,206,93.6
+2019,531,Lenoir City,Non-Economically Disadvantaged,185,178,96.2
+2019,531,Lenoir City,Non-English Learners/Transitional 1-4,257,239,93
+2019,531,Lenoir City,Non-Homeless,266,250,94
+2019,531,Lenoir City,Non-Migrant,272,253,93
+2019,531,Lenoir City,Non-Students with Disabilities,234,224,95.7
+2019,531,Lenoir City,Students with Disabilities,39,30,76.9
+2019,531,Lenoir City,White,217,203,93.5
+2019,540,McMinn County,All Students,508,472,92.9
+2019,540,McMinn County,American Indian or Alaska Native,2,*,*
+2019,540,McMinn County,Asian,5,*,*
+2019,540,McMinn County,Black or African American,26,25,96.2
+2019,540,McMinn County,Black/Hispanic/Native American,63,58,92.1
+2019,540,McMinn County,Economically Disadvantaged,210,188,89.5
+2019,540,McMinn County,English Learners with Transitional 1-4,8,*,*
+2019,540,McMinn County,Female,253,247,97.6
+2019,540,McMinn County,Hispanic,35,31,88.6
+2019,540,McMinn County,Homeless,9,*,*
+2019,540,McMinn County,Male,255,225,88.2
+2019,540,McMinn County,Native Hawaiian or Other Pacific Islander,0,*,*
+2019,540,McMinn County,Non-Black/Hispanic/Native American,445,414,93
+2019,540,McMinn County,Non-Economically Disadvantaged,298,284,95.3
+2019,540,McMinn County,Non-English Learners/Transitional 1-4,500,465,93
+2019,540,McMinn County,Non-Homeless,499,464,93
+2019,540,McMinn County,Non-Migrant,508,472,92.9
+2019,540,McMinn County,Non-Students with Disabilities,450,430,95.6
+2019,540,McMinn County,Students with Disabilities,58,42,72.4
+2019,540,McMinn County,White,440,409,93
+2019,550,McNairy County,All Students,326,305,93.6
+2019,550,McNairy County,American Indian or Alaska Native,2,*,*
+2019,550,McNairy County,Asian,3,*,*
+2019,550,McNairy County,Black or African American,39,34,87.2
+2019,550,McNairy County,Black/Hispanic/Native American,49,43,87.8
+2019,550,McNairy County,Economically Disadvantaged,162,145,89.5
+2019,550,McNairy County,Female,142,135,95.1
+2019,550,McNairy County,Hispanic,8,*,*
+2019,550,McNairy County,Homeless,7,*,*
+2019,550,McNairy County,Male,184,170,92.4
+2019,550,McNairy County,Non-Black/Hispanic/Native American,277,262,94.6
+2019,550,McNairy County,Non-Economically Disadvantaged,164,160,97.6
+2019,550,McNairy County,Non-English Learners/Transitional 1-4,326,305,93.6
+2019,550,McNairy County,Non-Homeless,319,300,94
+2019,550,McNairy County,Non-Migrant,326,305,93.6
+2019,550,McNairy County,Non-Students with Disabilities,282,273,96.8
+2019,550,McNairy County,Students with Disabilities,44,32,72.7
+2019,550,McNairy County,White,274,260,94.9
+2019,560,Macon County,All Students,275,247,89.8
+2019,560,Macon County,American Indian or Alaska Native,0,*,*
+2019,560,Macon County,Asian,1,*,*
+2019,560,Macon County,Black or African American,0,*,*
+2019,560,Macon County,Black/Hispanic/Native American,25,21,84
+2019,560,Macon County,Economically Disadvantaged,117,96,82.1
+2019,560,Macon County,English Learners with Transitional 1-4,8,*,*
+2019,560,Macon County,Female,133,118,88.7
+2019,560,Macon County,Hispanic,25,21,84
+2019,560,Macon County,Homeless,3,*,*
+2019,560,Macon County,Male,142,129,90.8
+2019,560,Macon County,Migrant,2,*,*
+2019,560,Macon County,Non-Black/Hispanic/Native American,250,226,90.4
+2019,560,Macon County,Non-Economically Disadvantaged,158,151,95.6
+2019,560,Macon County,Non-English Learners/Transitional 1-4,267,240,89.9
+2019,560,Macon County,Non-Homeless,272,246,90.4
+2019,560,Macon County,Non-Migrant,273,246,90.1
+2019,560,Macon County,Non-Students with Disabilities,240,222,92.5
+2019,560,Macon County,Students with Disabilities,35,25,71.4
+2019,560,Macon County,White,249,225,90.4
+2019,570,Madison County,All Students,878,767,87.4
+2019,570,Madison County,American Indian or Alaska Native,3,*,*
+2019,570,Madison County,Asian,9,*,*
+2019,570,Madison County,Black or African American,549,480,87.4
+2019,570,Madison County,Black/Hispanic/Native American,606,530,87.5
+2019,570,Madison County,Economically Disadvantaged,460,383,83.3
+2019,570,Madison County,English Learners with Transitional 1-4,21,16,76.2
+2019,570,Madison County,Female,429,389,90.7
+2019,570,Madison County,Hispanic,54,49,90.7
+2019,570,Madison County,Homeless,45,30,66.7
+2019,570,Madison County,Male,449,378,84.2
+2019,570,Madison County,Migrant,1,*,*
+2019,570,Madison County,Non-Black/Hispanic/Native American,272,237,87.1
+2019,570,Madison County,Non-Economically Disadvantaged,418,384,91.9
+2019,570,Madison County,Non-English Learners/Transitional 1-4,857,751,87.6
+2019,570,Madison County,Non-Homeless,833,737,88.5
+2019,570,Madison County,Non-Migrant,877,766,87.3
+2019,570,Madison County,Non-Students with Disabilities,747,680,91
+2019,570,Madison County,Students with Disabilities,131,87,66.4
+2019,570,Madison County,White,263,228,86.7
+2019,580,Marion County,All Students,286,251,87.8
+2019,580,Marion County,American Indian or Alaska Native,1,*,*
+2019,580,Marion County,Asian,2,*,*
+2019,580,Marion County,Black or African American,13,12,92.3
+2019,580,Marion County,Black/Hispanic/Native American,19,18,94.7
+2019,580,Marion County,Economically Disadvantaged,130,107,82.3
+2019,580,Marion County,Female,127,112,88.2
+2019,580,Marion County,Hispanic,5,*,*
+2019,580,Marion County,Homeless,7,*,*
+2019,580,Marion County,Male,159,139,87.4
+2019,580,Marion County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,580,Marion County,Non-Black/Hispanic/Native American,267,233,87.3
+2019,580,Marion County,Non-Economically Disadvantaged,156,144,92.3
+2019,580,Marion County,Non-English Learners/Transitional 1-4,286,251,87.8
+2019,580,Marion County,Non-Homeless,279,246,88.2
+2019,580,Marion County,Non-Migrant,286,251,87.8
+2019,580,Marion County,Non-Students with Disabilities,248,228,91.9
+2019,580,Marion County,Students with Disabilities,38,23,60.5
+2019,580,Marion County,White,264,230,87.1
+2019,581,Richard City,All Students,22,20,90.9
+2019,581,Richard City,Black or African American,1,*,*
+2019,581,Richard City,Black/Hispanic/Native American,2,*,*
+2019,581,Richard City,Economically Disadvantaged,10,**,**
+2019,581,Richard City,English Learners with Transitional 1-4,0,*,*
+2019,581,Richard City,Female,17,15,88.2
+2019,581,Richard City,Hispanic,1,*,*
+2019,581,Richard City,Homeless,1,*,*
+2019,581,Richard City,Male,5,*,*
+2019,581,Richard City,Non-Black/Hispanic/Native American,20,18,90
+2019,581,Richard City,Non-Economically Disadvantaged,12,10,83.3
+2019,581,Richard City,Non-English Learners/Transitional 1-4,22,20,90.9
+2019,581,Richard City,Non-Homeless,21,19,90.5
+2019,581,Richard City,Non-Migrant,22,20,90.9
+2019,581,Richard City,Non-Students with Disabilities,20,18,90
+2019,581,Richard City,Students with Disabilities,2,*,*
+2019,581,Richard City,White,20,18,90
+2019,590,Marshall County,All Students,416,394,94.7
+2019,590,Marshall County,Asian,3,*,*
+2019,590,Marshall County,Black or African American,36,34,94.4
+2019,590,Marshall County,Black/Hispanic/Native American,77,72,93.5
+2019,590,Marshall County,Economically Disadvantaged,132,119,90.2
+2019,590,Marshall County,English Learners with Transitional 1-4,4,*,*
+2019,590,Marshall County,Female,201,190,94.5
+2019,590,Marshall County,Hispanic,41,38,92.7
+2019,590,Marshall County,Homeless,8,*,*
+2019,590,Marshall County,Male,215,204,94.9
+2019,590,Marshall County,Migrant,0,*,*
+2019,590,Marshall County,Non-Black/Hispanic/Native American,339,322,95
+2019,590,Marshall County,Non-Economically Disadvantaged,284,275,96.8
+2019,590,Marshall County,Non-English Learners/Transitional 1-4,412,392,95.1
+2019,590,Marshall County,Non-Homeless,408,388,95.1
+2019,590,Marshall County,Non-Migrant,416,394,94.7
+2019,590,Marshall County,Non-Students with Disabilities,380,369,97.1
+2019,590,Marshall County,Students with Disabilities,36,25,69.4
+2019,590,Marshall County,White,336,319,94.9
+2019,600,Maury County,All Students,871,768,88.2
+2019,600,Maury County,American Indian or Alaska Native,0,*,*
+2019,600,Maury County,Asian,13,12,92.3
+2019,600,Maury County,Black or African American,151,129,85.4
+2019,600,Maury County,Black/Hispanic/Native American,218,188,86.2
+2019,600,Maury County,Economically Disadvantaged,310,250,80.6
+2019,600,Maury County,English Learners with Transitional 1-4,18,10,55.6
+2019,600,Maury County,Female,427,390,91.3
+2019,600,Maury County,Hispanic,67,59,88.1
+2019,600,Maury County,Homeless,25,18,72
+2019,600,Maury County,Male,444,378,85.1
+2019,600,Maury County,Native Hawaiian or Other Pacific Islander,2,*,*
+2019,600,Maury County,Non-Black/Hispanic/Native American,653,580,88.8
+2019,600,Maury County,Non-Economically Disadvantaged,561,518,92.3
+2019,600,Maury County,Non-English Learners/Transitional 1-4,853,758,88.9
+2019,600,Maury County,Non-Homeless,846,750,88.7
+2019,600,Maury County,Non-Migrant,871,768,88.2
+2019,600,Maury County,Non-Students with Disabilities,744,691,92.9
+2019,600,Maury County,Students with Disabilities,127,77,60.6
+2019,600,Maury County,White,638,566,88.7
+2019,610,Meigs County,All Students,124,122,98.4
+2019,610,Meigs County,Asian,0,*,*
+2019,610,Meigs County,Black or African American,2,*,*
+2019,610,Meigs County,Black/Hispanic/Native American,4,*,*
+2019,610,Meigs County,Economically Disadvantaged,54,53,98.1
+2019,610,Meigs County,Female,50,**,**
+2019,610,Meigs County,Hispanic,2,*,*
+2019,610,Meigs County,Homeless,2,*,*
+2019,610,Meigs County,Male,74,72,97.3
+2019,610,Meigs County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,610,Meigs County,Non-Black/Hispanic/Native American,120,118,98.3
+2019,610,Meigs County,Non-Economically Disadvantaged,70,69,98.6
+2019,610,Meigs County,Non-English Learners/Transitional 1-4,124,122,98.4
+2019,610,Meigs County,Non-Homeless,122,120,98.4
+2019,610,Meigs County,Non-Migrant,124,122,98.4
+2019,610,Meigs County,Non-Students with Disabilities,108,**,**
+2019,610,Meigs County,Students with Disabilities,16,15,93.8
+2019,610,Meigs County,White,119,117,98.3
+2019,620,Monroe County,All Students,525,490,93.3
+2019,620,Monroe County,American Indian or Alaska Native,0,*,*
+2019,620,Monroe County,Asian,7,*,*
+2019,620,Monroe County,Black or African American,16,**,**
+2019,620,Monroe County,Black/Hispanic/Native American,51,48,94.1
+2019,620,Monroe County,Economically Disadvantaged,171,159,93
+2019,620,Monroe County,English Learners with Transitional 1-4,11,9,81.8
+2019,620,Monroe County,Female,236,225,95.3
+2019,620,Monroe County,Hispanic,35,32,91.4
+2019,620,Monroe County,Homeless,6,*,*
+2019,620,Monroe County,Male,289,265,91.7
+2019,620,Monroe County,Native Hawaiian or Other Pacific Islander,2,*,*
+2019,620,Monroe County,Non-Black/Hispanic/Native American,474,442,93.2
+2019,620,Monroe County,Non-Economically Disadvantaged,354,331,93.5
+2019,620,Monroe County,Non-English Learners/Transitional 1-4,514,481,93.6
+2019,620,Monroe County,Non-Homeless,519,484,93.3
+2019,620,Monroe County,Non-Migrant,525,490,93.3
+2019,620,Monroe County,Non-Students with Disabilities,445,422,94.8
+2019,620,Monroe County,Students with Disabilities,80,68,85
+2019,620,Monroe County,White,465,435,93.5
+2019,630,Montgomery County,All Students,2392,2260,94.5
+2019,630,Montgomery County,American Indian or Alaska Native,22,21,95.5
+2019,630,Montgomery County,Asian,67,64,95.5
+2019,630,Montgomery County,Black or African American,717,675,94.1
+2019,630,Montgomery County,Black/Hispanic/Native American,1033,969,93.8
+2019,630,Montgomery County,Economically Disadvantaged,815,739,90.7
+2019,630,Montgomery County,English Learners with Transitional 1-4,65,53,81.5
+2019,630,Montgomery County,Female,1188,1147,96.5
+2019,630,Montgomery County,Hispanic,294,273,92.9
+2019,630,Montgomery County,Homeless,107,94,87.9
+2019,630,Montgomery County,Male,1204,1113,92.4
+2019,630,Montgomery County,Migrant,2,*,*
+2019,630,Montgomery County,Native Hawaiian or Other Pacific Islander,26,25,96.2
+2019,630,Montgomery County,Non-Black/Hispanic/Native American,1359,1291,95
+2019,630,Montgomery County,Non-Economically Disadvantaged,1577,1521,96.4
+2019,630,Montgomery County,Non-English Learners/Transitional 1-4,2327,2207,94.8
+2019,630,Montgomery County,Non-Homeless,2285,2166,94.8
+2019,630,Montgomery County,Non-Migrant,2390,2258,94.5
+2019,630,Montgomery County,Non-Students with Disabilities,2075,2011,96.9
+2019,630,Montgomery County,Students with Disabilities,317,249,78.5
+2019,630,Montgomery County,White,1266,1202,94.9
+2019,640,Moore County,All Students,70,67,95.7
+2019,640,Moore County,Black or African American,2,*,*
+2019,640,Moore County,Black/Hispanic/Native American,4,*,*
+2019,640,Moore County,Economically Disadvantaged,21,19,90.5
+2019,640,Moore County,Female,32,31,96.9
+2019,640,Moore County,Hispanic,2,*,*
+2019,640,Moore County,Homeless,1,*,*
+2019,640,Moore County,Male,38,36,94.7
+2019,640,Moore County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,640,Moore County,Non-Black/Hispanic/Native American,66,63,95.5
+2019,640,Moore County,Non-Economically Disadvantaged,49,48,98
+2019,640,Moore County,Non-English Learners/Transitional 1-4,70,67,95.7
+2019,640,Moore County,Non-Homeless,69,67,97.1
+2019,640,Moore County,Non-Migrant,70,67,95.7
+2019,640,Moore County,Non-Students with Disabilities,66,64,97
+2019,640,Moore County,Students with Disabilities,4,*,*
+2019,640,Moore County,White,65,62,95.4
+2019,650,Morgan County,All Students,236,**,**
+2019,650,Morgan County,American Indian or Alaska Native,1,*,*
+2019,650,Morgan County,Asian,1,*,*
+2019,650,Morgan County,Black or African American,4,*,*
+2019,650,Morgan County,Black/Hispanic/Native American,5,*,*
+2019,650,Morgan County,Economically Disadvantaged,116,**,**
+2019,650,Morgan County,Female,119,**,**
+2019,650,Morgan County,Hispanic,0,*,*
+2019,650,Morgan County,Homeless,33,**,**
+2019,650,Morgan County,Male,117,**,**
+2019,650,Morgan County,Native Hawaiian or Other Pacific Islander,0,*,*
+2019,650,Morgan County,Non-Black/Hispanic/Native American,231,**,**
+2019,650,Morgan County,Non-Economically Disadvantaged,120,**,**
+2019,650,Morgan County,Non-English Learners/Transitional 1-4,236,**,**
+2019,650,Morgan County,Non-Homeless,203,**,**
+2019,650,Morgan County,Non-Migrant,236,**,**
+2019,650,Morgan County,Non-Students with Disabilities,200,**,**
+2019,650,Morgan County,Students with Disabilities,36,35,97.2
+2019,650,Morgan County,White,230,**,**
+2019,660,Obion County,All Students,240,209,87.1
+2019,660,Obion County,Asian,2,*,*
+2019,660,Obion County,Black or African American,22,19,86.4
+2019,660,Obion County,Black/Hispanic/Native American,33,28,84.8
+2019,660,Obion County,Economically Disadvantaged,107,86,80.4
+2019,660,Obion County,English Learners with Transitional 1-4,3,*,*
+2019,660,Obion County,Female,115,105,91.3
+2019,660,Obion County,Hispanic,11,9,81.8
+2019,660,Obion County,Homeless,1,*,*
+2019,660,Obion County,Male,125,104,83.2
+2019,660,Obion County,Migrant,1,*,*
+2019,660,Obion County,Non-Black/Hispanic/Native American,207,181,87.4
+2019,660,Obion County,Non-Economically Disadvantaged,133,123,92.5
+2019,660,Obion County,Non-English Learners/Transitional 1-4,237,208,87.8
+2019,660,Obion County,Non-Homeless,239,208,87
+2019,660,Obion County,Non-Migrant,239,209,87.4
+2019,660,Obion County,Non-Students with Disabilities,206,184,89.3
+2019,660,Obion County,Students with Disabilities,34,25,73.5
+2019,660,Obion County,White,205,179,87.3
+2019,661,Union City,All Students,120,109,90.8
+2019,661,Union City,Black or African American,33,31,93.9
+2019,661,Union City,Black/Hispanic/Native American,45,36,80
+2019,661,Union City,Economically Disadvantaged,38,33,86.8
+2019,661,Union City,English Learners with Transitional 1-4,4,*,*
+2019,661,Union City,Female,55,49,89.1
+2019,661,Union City,Hispanic,12,5,41.7
+2019,661,Union City,Homeless,1,*,*
+2019,661,Union City,Male,65,60,92.3
+2019,661,Union City,Migrant,1,*,*
+2019,661,Union City,Non-Black/Hispanic/Native American,75,73,97.3
+2019,661,Union City,Non-Economically Disadvantaged,82,76,92.7
+2019,661,Union City,Non-English Learners/Transitional 1-4,116,109,94
+2019,661,Union City,Non-Homeless,119,108,90.8
+2019,661,Union City,Non-Migrant,119,109,91.6
+2019,661,Union City,Non-Students with Disabilities,109,98,89.9
+2019,661,Union City,Students with Disabilities,11,**,**
+2019,661,Union City,White,75,73,97.3
+2019,670,Overton County,All Students,223,206,92.4
+2019,670,Overton County,American Indian or Alaska Native,1,*,*
+2019,670,Overton County,Asian,3,*,*
+2019,670,Overton County,Black or African American,1,*,*
+2019,670,Overton County,Black/Hispanic/Native American,4,*,*
+2019,670,Overton County,Economically Disadvantaged,88,76,86.4
+2019,670,Overton County,Female,117,108,92.3
+2019,670,Overton County,Hispanic,2,*,*
+2019,670,Overton County,Homeless,12,10,83.3
+2019,670,Overton County,Male,106,98,92.5
+2019,670,Overton County,Non-Black/Hispanic/Native American,219,202,92.2
+2019,670,Overton County,Non-Economically Disadvantaged,135,130,96.3
+2019,670,Overton County,Non-English Learners/Transitional 1-4,223,206,92.4
+2019,670,Overton County,Non-Homeless,211,196,92.9
+2019,670,Overton County,Non-Migrant,223,206,92.4
+2019,670,Overton County,Non-Students with Disabilities,189,182,96.3
+2019,670,Overton County,Students with Disabilities,34,24,70.6
+2019,670,Overton County,White,216,200,92.6
+2019,680,Perry County,All Students,69,66,95.7
+2019,680,Perry County,Black or African American,2,*,*
+2019,680,Perry County,Black/Hispanic/Native American,5,*,*
+2019,680,Perry County,Economically Disadvantaged,30,27,90
+2019,680,Perry County,Female,39,37,94.9
+2019,680,Perry County,Hispanic,3,*,*
+2019,680,Perry County,Homeless,3,*,*
+2019,680,Perry County,Male,30,29,96.7
+2019,680,Perry County,Non-Black/Hispanic/Native American,64,61,95.3
+2019,680,Perry County,Non-Economically Disadvantaged,39,**,**
+2019,680,Perry County,Non-English Learners/Transitional 1-4,69,66,95.7
+2019,680,Perry County,Non-Homeless,66,65,98.5
+2019,680,Perry County,Non-Migrant,69,66,95.7
+2019,680,Perry County,Non-Students with Disabilities,57,56,98.2
+2019,680,Perry County,Students with Disabilities,12,10,83.3
+2019,680,Perry County,White,64,61,95.3
+2019,690,Pickett County,All Students,41,39,95.1
+2019,690,Pickett County,Black/Hispanic/Native American,2,*,*
+2019,690,Pickett County,Economically Disadvantaged,13,11,84.6
+2019,690,Pickett County,Female,17,**,**
+2019,690,Pickett County,Hispanic,2,*,*
+2019,690,Pickett County,Male,24,22,91.7
+2019,690,Pickett County,Non-Black/Hispanic/Native American,39,37,94.9
+2019,690,Pickett County,Non-Economically Disadvantaged,28,**,**
+2019,690,Pickett County,Non-English Learners/Transitional 1-4,41,39,95.1
+2019,690,Pickett County,Non-Homeless,41,39,95.1
+2019,690,Pickett County,Non-Migrant,41,39,95.1
+2019,690,Pickett County,Non-Students with Disabilities,36,35,97.2
+2019,690,Pickett County,Students with Disabilities,5,*,*
+2019,690,Pickett County,White,39,37,94.9
+2019,700,Polk County,All Students,182,165,90.7
+2019,700,Polk County,American Indian or Alaska Native,1,*,*
+2019,700,Polk County,Black or African American,1,*,*
+2019,700,Polk County,Black/Hispanic/Native American,7,*,*
+2019,700,Polk County,Economically Disadvantaged,80,69,86.3
+2019,700,Polk County,Female,79,74,93.7
+2019,700,Polk County,Hispanic,5,*,*
+2019,700,Polk County,Homeless,18,15,83.3
+2019,700,Polk County,Male,103,91,88.3
+2019,700,Polk County,Non-Black/Hispanic/Native American,175,158,90.3
+2019,700,Polk County,Non-Economically Disadvantaged,102,96,94.1
+2019,700,Polk County,Non-English Learners/Transitional 1-4,182,165,90.7
+2019,700,Polk County,Non-Homeless,164,150,91.5
+2019,700,Polk County,Non-Migrant,182,165,90.7
+2019,700,Polk County,Non-Students with Disabilities,157,147,93.6
+2019,700,Polk County,Students with Disabilities,25,18,72
+2019,700,Polk County,White,175,158,90.3
+2019,710,Putnam County,All Students,822,749,91.1
+2019,710,Putnam County,American Indian or Alaska Native,2,*,*
+2019,710,Putnam County,Asian,11,**,**
+2019,710,Putnam County,Black or African American,27,22,81.5
+2019,710,Putnam County,Black/Hispanic/Native American,161,139,86.3
+2019,710,Putnam County,Economically Disadvantaged,320,279,87.2
+2019,710,Putnam County,English Learners with Transitional 1-4,45,34,75.6
+2019,710,Putnam County,Female,391,366,93.6
+2019,710,Putnam County,Hispanic,132,115,87.1
+2019,710,Putnam County,Homeless,31,26,83.9
+2019,710,Putnam County,Male,431,383,88.9
+2019,710,Putnam County,Migrant,1,*,*
+2019,710,Putnam County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,710,Putnam County,Non-Black/Hispanic/Native American,661,610,92.3
+2019,710,Putnam County,Non-Economically Disadvantaged,502,470,93.6
+2019,710,Putnam County,Non-English Learners/Transitional 1-4,777,715,92
+2019,710,Putnam County,Non-Homeless,791,723,91.4
+2019,710,Putnam County,Non-Migrant,821,749,91.2
+2019,710,Putnam County,Non-Students with Disabilities,677,635,93.8
+2019,710,Putnam County,Students with Disabilities,145,114,78.6
+2019,710,Putnam County,White,649,598,92.1
+2019,720,Rhea County,All Students,349,322,92.3
+2019,720,Rhea County,American Indian or Alaska Native,2,*,*
+2019,720,Rhea County,Asian,2,*,*
+2019,720,Rhea County,Black or African American,17,15,88.2
+2019,720,Rhea County,Black/Hispanic/Native American,52,46,88.5
+2019,720,Rhea County,Economically Disadvantaged,184,164,89.1
+2019,720,Rhea County,English Learners with Transitional 1-4,10,6,60
+2019,720,Rhea County,Female,170,158,92.9
+2019,720,Rhea County,Hispanic,33,29,87.9
+2019,720,Rhea County,Homeless,26,19,73.1
+2019,720,Rhea County,Male,179,164,91.6
+2019,720,Rhea County,Migrant,5,*,*
+2019,720,Rhea County,Non-Black/Hispanic/Native American,297,276,92.9
+2019,720,Rhea County,Non-Economically Disadvantaged,165,158,95.8
+2019,720,Rhea County,Non-English Learners/Transitional 1-4,339,316,93.2
+2019,720,Rhea County,Non-Homeless,323,303,93.8
+2019,720,Rhea County,Non-Migrant,344,319,92.7
+2019,720,Rhea County,Non-Students with Disabilities,304,290,95.4
+2019,720,Rhea County,Students with Disabilities,45,32,71.1
+2019,720,Rhea County,White,295,274,92.9
+2019,730,Roane County,All Students,509,477,93.7
+2019,730,Roane County,American Indian or Alaska Native,1,*,*
+2019,730,Roane County,Asian,6,*,*
+2019,730,Roane County,Black or African American,27,26,96.3
+2019,730,Roane County,Black/Hispanic/Native American,37,35,94.6
+2019,730,Roane County,Economically Disadvantaged,203,179,88.2
+2019,730,Roane County,English Learners with Transitional 1-4,1,*,*
+2019,730,Roane County,Female,226,214,94.7
+2019,730,Roane County,Hispanic,9,*,*
+2019,730,Roane County,Homeless,15,13,86.7
+2019,730,Roane County,Male,283,263,92.9
+2019,730,Roane County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,730,Roane County,Non-Black/Hispanic/Native American,472,442,93.6
+2019,730,Roane County,Non-Economically Disadvantaged,306,298,97.4
+2019,730,Roane County,Non-English Learners/Transitional 1-4,508,476,93.7
+2019,730,Roane County,Non-Homeless,494,464,93.9
+2019,730,Roane County,Non-Migrant,509,477,93.7
+2019,730,Roane County,Non-Students with Disabilities,440,428,97.3
+2019,730,Roane County,Students with Disabilities,69,49,71
+2019,730,Roane County,White,465,435,93.5
+2019,740,Robertson County,All Students,794,754,95
+2019,740,Robertson County,American Indian or Alaska Native,4,*,*
+2019,740,Robertson County,Asian,8,*,*
+2019,740,Robertson County,Black or African American,72,67,93.1
+2019,740,Robertson County,Black/Hispanic/Native American,170,159,93.5
+2019,740,Robertson County,Economically Disadvantaged,283,261,92.2
+2019,740,Robertson County,English Learners with Transitional 1-4,22,21,95.5
+2019,740,Robertson County,Female,358,353,98.6
+2019,740,Robertson County,Hispanic,94,88,93.6
+2019,740,Robertson County,Homeless,37,32,86.5
+2019,740,Robertson County,Male,436,401,92
+2019,740,Robertson County,Migrant,2,*,*
+2019,740,Robertson County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,740,Robertson County,Non-Black/Hispanic/Native American,624,595,95.4
+2019,740,Robertson County,Non-Economically Disadvantaged,511,493,96.5
+2019,740,Robertson County,Non-English Learners/Transitional 1-4,772,733,94.9
+2019,740,Robertson County,Non-Homeless,757,722,95.4
+2019,740,Robertson County,Non-Migrant,792,752,94.9
+2019,740,Robertson County,Non-Students with Disabilities,677,656,96.9
+2019,740,Robertson County,Students with Disabilities,117,98,83.8
+2019,740,Robertson County,White,615,586,95.3
+2019,750,Rutherford County,All Students,3921,3747,95.6
+2019,750,Rutherford County,American Indian or Alaska Native,8,*,*
+2019,750,Rutherford County,Asian,188,185,98.4
+2019,750,Rutherford County,Black or African American,860,815,94.8
+2019,750,Rutherford County,Black/Hispanic/Native American,1398,1328,95
+2019,750,Rutherford County,Economically Disadvantaged,1221,1129,92.5
+2019,750,Rutherford County,English Learners with Transitional 1-4,190,184,96.8
+2019,750,Rutherford County,Female,1982,1922,97
+2019,750,Rutherford County,Hispanic,530,505,95.3
+2019,750,Rutherford County,Homeless,219,191,87.2
+2019,750,Rutherford County,Male,1939,1825,94.1
+2019,750,Rutherford County,Native Hawaiian or Other Pacific Islander,9,*,*
+2019,750,Rutherford County,Non-Black/Hispanic/Native American,2523,2419,95.9
+2019,750,Rutherford County,Non-Economically Disadvantaged,2700,2618,97
+2019,750,Rutherford County,Non-English Learners/Transitional 1-4,3731,3563,95.5
+2019,750,Rutherford County,Non-Homeless,3702,3556,96.1
+2019,750,Rutherford County,Non-Migrant,3921,3747,95.6
+2019,750,Rutherford County,Non-Students with Disabilities,3510,3432,97.8
+2019,750,Rutherford County,Students with Disabilities,411,315,76.6
+2019,750,Rutherford County,White,2326,2227,95.7
+2019,751,Murfreesboro,All Students,0,*,*
+2019,751,Murfreesboro,Black/Hispanic/Native American,0,*,*
+2019,751,Murfreesboro,Female,0,*,*
+2019,751,Murfreesboro,Hispanic,0,*,*
+2019,751,Murfreesboro,Non-Economically Disadvantaged,0,*,*
+2019,751,Murfreesboro,Non-English Learners/Transitional 1-4,0,*,*
+2019,751,Murfreesboro,Non-Homeless,0,*,*
+2019,751,Murfreesboro,Non-Migrant,0,*,*
+2019,751,Murfreesboro,Non-Students with Disabilities,0,*,*
+2019,760,Scott County,All Students,195,180,92.3
+2019,760,Scott County,American Indian or Alaska Native,1,*,*
+2019,760,Scott County,Asian,0,*,*
+2019,760,Scott County,Black or African American,0,*,*
+2019,760,Scott County,Black/Hispanic/Native American,3,*,*
+2019,760,Scott County,Economically Disadvantaged,97,87,89.7
+2019,760,Scott County,English Learners with Transitional 1-4,0,*,*
+2019,760,Scott County,Female,101,95,94.1
+2019,760,Scott County,Hispanic,2,*,*
+2019,760,Scott County,Homeless,1,*,*
+2019,760,Scott County,Male,94,85,90.4
+2019,760,Scott County,Non-Black/Hispanic/Native American,192,177,92.2
+2019,760,Scott County,Non-Economically Disadvantaged,98,93,94.9
+2019,760,Scott County,Non-English Learners/Transitional 1-4,195,180,92.3
+2019,760,Scott County,Non-Homeless,194,179,92.3
+2019,760,Scott County,Non-Migrant,195,180,92.3
+2019,760,Scott County,Non-Students with Disabilities,177,169,95.5
+2019,760,Scott County,Students with Disabilities,18,11,61.1
+2019,760,Scott County,White,192,177,92.2
+2019,761,Oneida,All Students,85,**,**
+2019,761,Oneida,Economically Disadvantaged,32,**,**
+2019,761,Oneida,Female,37,**,**
+2019,761,Oneida,Homeless,1,*,*
+2019,761,Oneida,Male,48,**,**
+2019,761,Oneida,Non-Black/Hispanic/Native American,85,**,**
+2019,761,Oneida,Non-Economically Disadvantaged,53,**,**
+2019,761,Oneida,Non-English Learners/Transitional 1-4,85,**,**
+2019,761,Oneida,Non-Homeless,84,**,**
+2019,761,Oneida,Non-Migrant,85,**,**
+2019,761,Oneida,Non-Students with Disabilities,75,**,**
+2019,761,Oneida,Students with Disabilities,10,**,**
+2019,761,Oneida,White,85,**,**
+2019,770,Sequatchie County,All Students,171,153,89.5
+2019,770,Sequatchie County,American Indian or Alaska Native,1,*,*
+2019,770,Sequatchie County,Asian,0,*,*
+2019,770,Sequatchie County,Black/Hispanic/Native American,8,*,*
+2019,770,Sequatchie County,Economically Disadvantaged,81,68,84
+2019,770,Sequatchie County,Female,78,70,89.7
+2019,770,Sequatchie County,Hispanic,7,*,*
+2019,770,Sequatchie County,Homeless,11,**,**
+2019,770,Sequatchie County,Male,93,83,89.2
+2019,770,Sequatchie County,Non-Black/Hispanic/Native American,163,145,89
+2019,770,Sequatchie County,Non-Economically Disadvantaged,90,85,94.4
+2019,770,Sequatchie County,Non-English Learners/Transitional 1-4,171,153,89.5
+2019,770,Sequatchie County,Non-Homeless,160,142,88.8
+2019,770,Sequatchie County,Non-Migrant,171,153,89.5
+2019,770,Sequatchie County,Non-Students with Disabilities,146,135,92.5
+2019,770,Sequatchie County,Students with Disabilities,25,18,72
+2019,770,Sequatchie County,White,163,145,89
+2019,780,Sevier County,All Students,1084,990,91.3
+2019,780,Sevier County,American Indian or Alaska Native,3,*,*
+2019,780,Sevier County,Asian,24,23,95.8
+2019,780,Sevier County,Black or African American,24,**,**
+2019,780,Sevier County,Black/Hispanic/Native American,129,116,89.9
+2019,780,Sevier County,Economically Disadvantaged,382,338,88.5
+2019,780,Sevier County,English Learners with Transitional 1-4,53,44,83
+2019,780,Sevier County,Female,527,484,91.8
+2019,780,Sevier County,Hispanic,102,90,88.2
+2019,780,Sevier County,Homeless,45,38,84.4
+2019,780,Sevier County,Male,557,506,90.8
+2019,780,Sevier County,Native Hawaiian or Other Pacific Islander,0,*,*
+2019,780,Sevier County,Non-Black/Hispanic/Native American,955,874,91.5
+2019,780,Sevier County,Non-Economically Disadvantaged,702,652,92.9
+2019,780,Sevier County,Non-English Learners/Transitional 1-4,1031,946,91.8
+2019,780,Sevier County,Non-Homeless,1039,952,91.6
+2019,780,Sevier County,Non-Migrant,1084,990,91.3
+2019,780,Sevier County,Non-Students with Disabilities,969,906,93.5
+2019,780,Sevier County,Students with Disabilities,115,84,73
+2019,780,Sevier County,White,931,851,91.4
+2019,792,Shelby County,All Students,7906,6267,79.3
+2019,792,Shelby County,American Indian or Alaska Native,7,*,*
+2019,792,Shelby County,Asian,151,138,91.4
+2019,792,Shelby County,Black or African American,6248,5018,80.3
+2019,792,Shelby County,Black/Hispanic/Native American,7249,5730,79
+2019,792,Shelby County,Economically Disadvantaged,4636,3538,76.3
+2019,792,Shelby County,English Learners with Transitional 1-4,490,293,59.8
+2019,792,Shelby County,Female,3853,3261,84.6
+2019,792,Shelby County,Hispanic,994,708,71.2
+2019,792,Shelby County,Homeless,167,104,62.3
+2019,792,Shelby County,Male,4053,3006,74.2
+2019,792,Shelby County,Migrant,1,*,*
+2019,792,Shelby County,Native Hawaiian or Other Pacific Islander,5,*,*
+2019,792,Shelby County,Non-Black/Hispanic/Native American,657,537,81.7
+2019,792,Shelby County,Non-Economically Disadvantaged,3270,2729,83.5
+2019,792,Shelby County,Non-English Learners/Transitional 1-4,7416,5974,80.6
+2019,792,Shelby County,Non-Homeless,7739,6163,79.6
+2019,792,Shelby County,Non-Migrant,7905,6266,79.3
+2019,792,Shelby County,Non-Students with Disabilities,6796,5585,82.2
+2019,792,Shelby County,Students with Disabilities,1110,682,61.4
+2019,792,Shelby County,White,501,394,78.6
+2019,793,Arlington,All Students,512,498,97.3
+2019,793,Arlington,American Indian or Alaska Native,2,*,*
+2019,793,Arlington,Asian,21,**,**
+2019,793,Arlington,Black or African American,86,82,95.3
+2019,793,Arlington,Black/Hispanic/Native American,117,111,94.9
+2019,793,Arlington,Economically Disadvantaged,51,46,90.2
+2019,793,Arlington,English Learners with Transitional 1-4,12,11,91.7
+2019,793,Arlington,Female,250,244,97.6
+2019,793,Arlington,Hispanic,29,27,93.1
+2019,793,Arlington,Homeless,1,*,*
+2019,793,Arlington,Male,262,254,96.9
+2019,793,Arlington,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,793,Arlington,Non-Black/Hispanic/Native American,395,387,98
+2019,793,Arlington,Non-Economically Disadvantaged,461,452,98
+2019,793,Arlington,Non-English Learners/Transitional 1-4,500,487,97.4
+2019,793,Arlington,Non-Homeless,511,498,97.5
+2019,793,Arlington,Non-Migrant,512,498,97.3
+2019,793,Arlington,Non-Students with Disabilities,469,460,98.1
+2019,793,Arlington,Students with Disabilities,43,38,88.4
+2019,793,Arlington,White,373,365,97.9
+2019,794,Bartlett,All Students,605,593,98
+2019,794,Bartlett,American Indian or Alaska Native,2,*,*
+2019,794,Bartlett,Asian,28,**,**
+2019,794,Bartlett,Black or African American,206,202,98.1
+2019,794,Bartlett,Black/Hispanic/Native American,232,228,98.3
+2019,794,Bartlett,Economically Disadvantaged,127,122,96.1
+2019,794,Bartlett,English Learners with Transitional 1-4,8,*,*
+2019,794,Bartlett,Female,293,288,98.3
+2019,794,Bartlett,Hispanic,24,**,**
+2019,794,Bartlett,Homeless,2,*,*
+2019,794,Bartlett,Male,312,305,97.8
+2019,794,Bartlett,Native Hawaiian or Other Pacific Islander,7,*,*
+2019,794,Bartlett,Non-Black/Hispanic/Native American,373,365,97.9
+2019,794,Bartlett,Non-Economically Disadvantaged,478,471,98.5
+2019,794,Bartlett,Non-English Learners/Transitional 1-4,597,585,98
+2019,794,Bartlett,Non-Homeless,603,591,98
+2019,794,Bartlett,Non-Migrant,605,593,98
+2019,794,Bartlett,Non-Students with Disabilities,538,**,**
+2019,794,Bartlett,Students with Disabilities,67,60,89.6
+2019,794,Bartlett,White,338,330,97.6
+2019,795,Collierville,All Students,647,615,95.1
+2019,795,Collierville,American Indian or Alaska Native,4,*,*
+2019,795,Collierville,Asian,61,57,93.4
+2019,795,Collierville,Black or African American,132,116,87.9
+2019,795,Collierville,Black/Hispanic/Native American,175,157,89.7
+2019,795,Collierville,Economically Disadvantaged,58,48,82.8
+2019,795,Collierville,English Learners with Transitional 1-4,9,*,*
+2019,795,Collierville,Female,323,310,96
+2019,795,Collierville,Hispanic,39,37,94.9
+2019,795,Collierville,Homeless,1,*,*
+2019,795,Collierville,Male,324,305,94.1
+2019,795,Collierville,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,795,Collierville,Non-Black/Hispanic/Native American,472,458,97
+2019,795,Collierville,Non-Economically Disadvantaged,589,567,96.3
+2019,795,Collierville,Non-English Learners/Transitional 1-4,638,608,95.3
+2019,795,Collierville,Non-Homeless,646,614,95
+2019,795,Collierville,Non-Migrant,647,615,95.1
+2019,795,Collierville,Non-Students with Disabilities,550,540,98.2
+2019,795,Collierville,Students with Disabilities,97,75,77.3
+2019,795,Collierville,White,410,400,97.6
+2019,796,Germantown,All Students,433,413,95.4
+2019,796,Germantown,American Indian or Alaska Native,1,*,*
+2019,796,Germantown,Asian,43,39,90.7
+2019,796,Germantown,Black or African American,50,48,96
+2019,796,Germantown,Black/Hispanic/Native American,72,70,97.2
+2019,796,Germantown,Economically Disadvantaged,25,21,84
+2019,796,Germantown,English Learners with Transitional 1-4,10,7,70
+2019,796,Germantown,Female,215,206,95.8
+2019,796,Germantown,Hispanic,21,**,**
+2019,796,Germantown,Homeless,1,*,*
+2019,796,Germantown,Male,218,207,95
+2019,796,Germantown,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,796,Germantown,Non-Black/Hispanic/Native American,361,343,95
+2019,796,Germantown,Non-Economically Disadvantaged,408,392,96.1
+2019,796,Germantown,Non-English Learners/Transitional 1-4,423,406,96
+2019,796,Germantown,Non-Homeless,432,412,95.4
+2019,796,Germantown,Non-Migrant,433,413,95.4
+2019,796,Germantown,Non-Students with Disabilities,400,390,97.5
+2019,796,Germantown,Students with Disabilities,33,23,69.7
+2019,796,Germantown,White,317,303,95.6
+2019,798,Millington Municipal Schools,All Students,226,209,92.5
+2019,798,Millington Municipal Schools,American Indian or Alaska Native,5,*,*
+2019,798,Millington Municipal Schools,Asian,3,*,*
+2019,798,Millington Municipal Schools,Black or African American,107,97,90.7
+2019,798,Millington Municipal Schools,Black/Hispanic/Native American,134,123,91.8
+2019,798,Millington Municipal Schools,Economically Disadvantaged,113,101,89.4
+2019,798,Millington Municipal Schools,English Learners with Transitional 1-4,3,*,*
+2019,798,Millington Municipal Schools,Female,103,94,91.3
+2019,798,Millington Municipal Schools,Hispanic,22,**,**
+2019,798,Millington Municipal Schools,Homeless,3,*,*
+2019,798,Millington Municipal Schools,Male,123,115,93.5
+2019,798,Millington Municipal Schools,Non-Black/Hispanic/Native American,92,86,93.5
+2019,798,Millington Municipal Schools,Non-Economically Disadvantaged,113,108,95.6
+2019,798,Millington Municipal Schools,Non-English Learners/Transitional 1-4,223,206,92.4
+2019,798,Millington Municipal Schools,Non-Homeless,223,207,92.8
+2019,798,Millington Municipal Schools,Non-Migrant,226,209,92.5
+2019,798,Millington Municipal Schools,Non-Students with Disabilities,183,177,96.7
+2019,798,Millington Municipal Schools,Students with Disabilities,43,32,74.4
+2019,798,Millington Municipal Schools,White,89,83,93.3
+2019,800,Smith County,All Students,245,227,92.7
+2019,800,Smith County,American Indian or Alaska Native,1,*,*
+2019,800,Smith County,Black or African American,10,**,**
+2019,800,Smith County,Black/Hispanic/Native American,18,**,**
+2019,800,Smith County,Economically Disadvantaged,91,80,87.9
+2019,800,Smith County,Female,119,112,94.1
+2019,800,Smith County,Hispanic,7,*,*
+2019,800,Smith County,Homeless,5,*,*
+2019,800,Smith County,Male,126,115,91.3
+2019,800,Smith County,Migrant,1,*,*
+2019,800,Smith County,Non-Black/Hispanic/Native American,227,209,92.1
+2019,800,Smith County,Non-Economically Disadvantaged,154,147,95.5
+2019,800,Smith County,Non-English Learners/Transitional 1-4,245,227,92.7
+2019,800,Smith County,Non-Homeless,240,223,92.9
+2019,800,Smith County,Non-Migrant,244,227,93
+2019,800,Smith County,Non-Students with Disabilities,206,199,96.6
+2019,800,Smith County,Students with Disabilities,39,28,71.8
+2019,800,Smith County,White,227,209,92.1
+2019,810,Stewart County,All Students,180,171,95
+2019,810,Stewart County,American Indian or Alaska Native,2,*,*
+2019,810,Stewart County,Asian,1,*,*
+2019,810,Stewart County,Black or African American,4,*,*
+2019,810,Stewart County,Black/Hispanic/Native American,10,**,**
+2019,810,Stewart County,Economically Disadvantaged,57,52,91.2
+2019,810,Stewart County,English Learners with Transitional 1-4,1,*,*
+2019,810,Stewart County,Female,82,80,97.6
+2019,810,Stewart County,Hispanic,4,*,*
+2019,810,Stewart County,Homeless,6,*,*
+2019,810,Stewart County,Male,98,91,92.9
+2019,810,Stewart County,Migrant,1,*,*
+2019,810,Stewart County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,810,Stewart County,Non-Black/Hispanic/Native American,170,161,94.7
+2019,810,Stewart County,Non-Economically Disadvantaged,123,119,96.7
+2019,810,Stewart County,Non-English Learners/Transitional 1-4,179,170,95
+2019,810,Stewart County,Non-Homeless,174,166,95.4
+2019,810,Stewart County,Non-Migrant,179,171,95.5
+2019,810,Stewart County,Non-Students with Disabilities,148,146,98.6
+2019,810,Stewart County,Students with Disabilities,32,25,78.1
+2019,810,Stewart County,White,168,159,94.6
+2019,820,Sullivan County,All Students,752,716,95.2
+2019,820,Sullivan County,American Indian or Alaska Native,2,*,*
+2019,820,Sullivan County,Asian,6,*,*
+2019,820,Sullivan County,Black or African American,12,11,91.7
+2019,820,Sullivan County,Black/Hispanic/Native American,24,23,95.8
+2019,820,Sullivan County,Economically Disadvantaged,271,249,91.9
+2019,820,Sullivan County,English Learners with Transitional 1-4,1,*,*
+2019,820,Sullivan County,Female,383,366,95.6
+2019,820,Sullivan County,Hispanic,10,**,**
+2019,820,Sullivan County,Homeless,53,45,84.9
+2019,820,Sullivan County,Male,369,350,94.9
+2019,820,Sullivan County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,820,Sullivan County,Non-Black/Hispanic/Native American,728,693,95.2
+2019,820,Sullivan County,Non-Economically Disadvantaged,481,467,97.1
+2019,820,Sullivan County,Non-English Learners/Transitional 1-4,751,715,95.2
+2019,820,Sullivan County,Non-Homeless,699,671,96
+2019,820,Sullivan County,Non-Migrant,752,716,95.2
+2019,820,Sullivan County,Non-Students with Disabilities,632,619,97.9
+2019,820,Sullivan County,Students with Disabilities,120,97,80.8
+2019,820,Sullivan County,White,721,686,95.1
+2019,821,Bristol,All Students,348,328,94.3
+2019,821,Bristol,American Indian or Alaska Native,1,*,*
+2019,821,Bristol,Asian,4,*,*
+2019,821,Bristol,Black or African American,19,18,94.7
+2019,821,Bristol,Black/Hispanic/Native American,36,34,94.4
+2019,821,Bristol,Economically Disadvantaged,121,109,90.1
+2019,821,Bristol,English Learners with Transitional 1-4,4,*,*
+2019,821,Bristol,Female,174,169,97.1
+2019,821,Bristol,Hispanic,16,15,93.8
+2019,821,Bristol,Homeless,13,**,**
+2019,821,Bristol,Male,174,159,91.4
+2019,821,Bristol,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,821,Bristol,Non-Black/Hispanic/Native American,312,294,94.2
+2019,821,Bristol,Non-Economically Disadvantaged,227,219,96.5
+2019,821,Bristol,Non-English Learners/Transitional 1-4,344,324,94.2
+2019,821,Bristol,Non-Homeless,335,315,94
+2019,821,Bristol,Non-Migrant,348,328,94.3
+2019,821,Bristol,Non-Students with Disabilities,321,308,96
+2019,821,Bristol,Students with Disabilities,27,20,74.1
+2019,821,Bristol,White,307,289,94.1
+2019,822,Kingsport,All Students,539,507,94.1
+2019,822,Kingsport,American Indian or Alaska Native,4,*,*
+2019,822,Kingsport,Asian,15,**,**
+2019,822,Kingsport,Black or African American,46,45,97.8
+2019,822,Kingsport,Black/Hispanic/Native American,73,68,93.2
+2019,822,Kingsport,Economically Disadvantaged,206,182,88.3
+2019,822,Kingsport,English Learners with Transitional 1-4,8,*,*
+2019,822,Kingsport,Female,279,268,96.1
+2019,822,Kingsport,Hispanic,23,19,82.6
+2019,822,Kingsport,Homeless,33,25,75.8
+2019,822,Kingsport,Male,260,239,91.9
+2019,822,Kingsport,Migrant,1,*,*
+2019,822,Kingsport,Native Hawaiian or Other Pacific Islander,2,*,*
+2019,822,Kingsport,Non-Black/Hispanic/Native American,466,439,94.2
+2019,822,Kingsport,Non-Economically Disadvantaged,333,325,97.6
+2019,822,Kingsport,Non-English Learners/Transitional 1-4,531,500,94.2
+2019,822,Kingsport,Non-Homeless,506,482,95.3
+2019,822,Kingsport,Non-Migrant,538,506,94.1
+2019,822,Kingsport,Non-Students with Disabilities,442,431,97.5
+2019,822,Kingsport,Students with Disabilities,97,76,78.4
+2019,822,Kingsport,White,449,423,94.2
+2019,830,Sumner County,All Students,2141,2043,95.4
+2019,830,Sumner County,American Indian or Alaska Native,8,*,*
+2019,830,Sumner County,Asian,53,51,96.2
+2019,830,Sumner County,Black or African American,250,235,94
+2019,830,Sumner County,Black/Hispanic/Native American,422,399,94.5
+2019,830,Sumner County,Economically Disadvantaged,534,487,91.2
+2019,830,Sumner County,English Learners with Transitional 1-4,34,31,91.2
+2019,830,Sumner County,Female,1029,993,96.5
+2019,830,Sumner County,Hispanic,164,156,95.1
+2019,830,Sumner County,Homeless,59,49,83.1
+2019,830,Sumner County,Male,1112,1050,94.4
+2019,830,Sumner County,Migrant,1,*,*
+2019,830,Sumner County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,830,Sumner County,Non-Black/Hispanic/Native American,1719,1644,95.6
+2019,830,Sumner County,Non-Economically Disadvantaged,1607,1556,96.8
+2019,830,Sumner County,Non-English Learners/Transitional 1-4,2107,2012,95.5
+2019,830,Sumner County,Non-Homeless,2082,1994,95.8
+2019,830,Sumner County,Non-Migrant,2140,2042,95.4
+2019,830,Sumner County,Non-Students with Disabilities,1862,1808,97.1
+2019,830,Sumner County,Students with Disabilities,279,235,84.2
+2019,830,Sumner County,White,1665,1592,95.6
+2019,840,Tipton County,All Students,808,775,95.9
+2019,840,Tipton County,American Indian or Alaska Native,3,*,*
+2019,840,Tipton County,Asian,3,*,*
+2019,840,Tipton County,Black or African American,202,187,92.6
+2019,840,Tipton County,Black/Hispanic/Native American,217,201,92.6
+2019,840,Tipton County,Economically Disadvantaged,273,249,91.2
+2019,840,Tipton County,English Learners with Transitional 1-4,0,*,*
+2019,840,Tipton County,Female,384,374,97.4
+2019,840,Tipton County,Hispanic,12,11,91.7
+2019,840,Tipton County,Homeless,4,*,*
+2019,840,Tipton County,Male,424,401,94.6
+2019,840,Tipton County,Native Hawaiian or Other Pacific Islander,2,*,*
+2019,840,Tipton County,Non-Black/Hispanic/Native American,591,574,97.1
+2019,840,Tipton County,Non-Economically Disadvantaged,535,526,98.3
+2019,840,Tipton County,Non-English Learners/Transitional 1-4,808,775,95.9
+2019,840,Tipton County,Non-Homeless,804,771,95.9
+2019,840,Tipton County,Non-Migrant,808,775,95.9
+2019,840,Tipton County,Non-Students with Disabilities,710,701,98.7
+2019,840,Tipton County,Students with Disabilities,98,74,75.5
+2019,840,Tipton County,White,586,569,97.1
+2019,850,Trousdale County,All Students,90,89,98.9
+2019,850,Trousdale County,Black or African American,12,**,**
+2019,850,Trousdale County,Black/Hispanic/Native American,17,**,**
+2019,850,Trousdale County,Economically Disadvantaged,31,**,**
+2019,850,Trousdale County,English Learners with Transitional 1-4,1,*,*
+2019,850,Trousdale County,Female,38,**,**
+2019,850,Trousdale County,Hispanic,5,*,*
+2019,850,Trousdale County,Homeless,1,*,*
+2019,850,Trousdale County,Male,52,51,98.1
+2019,850,Trousdale County,Non-Black/Hispanic/Native American,73,72,98.6
+2019,850,Trousdale County,Non-Economically Disadvantaged,59,58,98.3
+2019,850,Trousdale County,Non-English Learners/Transitional 1-4,89,88,98.9
+2019,850,Trousdale County,Non-Homeless,89,88,98.9
+2019,850,Trousdale County,Non-Migrant,90,89,98.9
+2019,850,Trousdale County,Non-Students with Disabilities,77,**,**
+2019,850,Trousdale County,Students with Disabilities,13,12,92.3
+2019,850,Trousdale County,White,73,72,98.6
+2019,860,Unicoi County,All Students,205,188,91.7
+2019,860,Unicoi County,American Indian or Alaska Native,0,*,*
+2019,860,Unicoi County,Black or African American,0,*,*
+2019,860,Unicoi County,Black/Hispanic/Native American,26,**,**
+2019,860,Unicoi County,Economically Disadvantaged,93,82,88.2
+2019,860,Unicoi County,English Learners with Transitional 1-4,9,*,*
+2019,860,Unicoi County,Female,97,89,91.8
+2019,860,Unicoi County,Hispanic,26,**,**
+2019,860,Unicoi County,Homeless,17,13,76.5
+2019,860,Unicoi County,Male,108,99,91.7
+2019,860,Unicoi County,Migrant,5,*,*
+2019,860,Unicoi County,Non-Black/Hispanic/Native American,179,162,90.5
+2019,860,Unicoi County,Non-Economically Disadvantaged,112,106,94.6
+2019,860,Unicoi County,Non-English Learners/Transitional 1-4,196,179,91.3
+2019,860,Unicoi County,Non-Homeless,188,175,93.1
+2019,860,Unicoi County,Non-Migrant,200,183,91.5
+2019,860,Unicoi County,Non-Students with Disabilities,167,160,95.8
+2019,860,Unicoi County,Students with Disabilities,38,28,73.7
+2019,860,Unicoi County,White,179,162,90.5
+2019,870,Union County,All Students,202,187,92.6
+2019,870,Union County,Black or African American,1,*,*
+2019,870,Union County,Black/Hispanic/Native American,6,*,*
+2019,870,Union County,Economically Disadvantaged,111,99,89.2
+2019,870,Union County,Female,92,89,96.7
+2019,870,Union County,Hispanic,5,*,*
+2019,870,Union County,Homeless,5,*,*
+2019,870,Union County,Male,110,98,89.1
+2019,870,Union County,Non-Black/Hispanic/Native American,196,181,92.3
+2019,870,Union County,Non-Economically Disadvantaged,91,88,96.7
+2019,870,Union County,Non-English Learners/Transitional 1-4,202,187,92.6
+2019,870,Union County,Non-Homeless,197,183,92.9
+2019,870,Union County,Non-Migrant,202,187,92.6
+2019,870,Union County,Non-Students with Disabilities,177,168,94.9
+2019,870,Union County,Students with Disabilities,25,19,76
+2019,870,Union County,White,196,181,92.3
+2019,880,Van Buren County,All Students,60,58,96.7
+2019,880,Van Buren County,Asian,1,*,*
+2019,880,Van Buren County,Black/Hispanic/Native American,4,*,*
+2019,880,Van Buren County,Economically Disadvantaged,28,27,96.4
+2019,880,Van Buren County,English Learners with Transitional 1-4,1,*,*
+2019,880,Van Buren County,Female,25,24,96
+2019,880,Van Buren County,Hispanic,4,*,*
+2019,880,Van Buren County,Homeless,8,*,*
+2019,880,Van Buren County,Male,35,34,97.1
+2019,880,Van Buren County,Non-Black/Hispanic/Native American,56,54,96.4
+2019,880,Van Buren County,Non-Economically Disadvantaged,32,31,96.9
+2019,880,Van Buren County,Non-English Learners/Transitional 1-4,59,57,96.6
+2019,880,Van Buren County,Non-Homeless,52,51,98.1
+2019,880,Van Buren County,Non-Migrant,60,58,96.7
+2019,880,Van Buren County,Non-Students with Disabilities,51,49,96.1
+2019,880,Van Buren County,Students with Disabilities,9,*,*
+2019,880,Van Buren County,White,55,53,96.4
+2019,890,Warren County,All Students,459,416,90.6
+2019,890,Warren County,American Indian or Alaska Native,3,*,*
+2019,890,Warren County,Asian,3,*,*
+2019,890,Warren County,Black or African American,26,23,88.5
+2019,890,Warren County,Black/Hispanic/Native American,101,96,95
+2019,890,Warren County,Economically Disadvantaged,223,192,86.1
+2019,890,Warren County,English Learners with Transitional 1-4,16,**,**
+2019,890,Warren County,Female,217,206,94.9
+2019,890,Warren County,Hispanic,72,70,97.2
+2019,890,Warren County,Homeless,16,12,75
+2019,890,Warren County,Male,242,210,86.8
+2019,890,Warren County,Native Hawaiian or Other Pacific Islander,0,*,*
+2019,890,Warren County,Non-Black/Hispanic/Native American,358,320,89.4
+2019,890,Warren County,Non-Economically Disadvantaged,236,224,94.9
+2019,890,Warren County,Non-English Learners/Transitional 1-4,443,400,90.3
+2019,890,Warren County,Non-Homeless,443,404,91.2
+2019,890,Warren County,Non-Migrant,459,416,90.6
+2019,890,Warren County,Non-Students with Disabilities,398,375,94.2
+2019,890,Warren County,Students with Disabilities,61,41,67.2
+2019,890,Warren County,White,355,317,89.3
+2019,900,Washington County,All Students,751,710,94.5
+2019,900,Washington County,American Indian or Alaska Native,3,*,*
+2019,900,Washington County,Asian,4,*,*
+2019,900,Washington County,Black or African American,15,13,86.7
+2019,900,Washington County,Black/Hispanic/Native American,51,46,90.2
+2019,900,Washington County,Economically Disadvantaged,230,201,87.4
+2019,900,Washington County,English Learners with Transitional 1-4,3,*,*
+2019,900,Washington County,Female,382,360,94.2
+2019,900,Washington County,Hispanic,33,31,93.9
+2019,900,Washington County,Homeless,38,27,71.1
+2019,900,Washington County,Male,369,350,94.9
+2019,900,Washington County,Migrant,2,*,*
+2019,900,Washington County,Non-Black/Hispanic/Native American,700,664,94.9
+2019,900,Washington County,Non-Economically Disadvantaged,521,509,97.7
+2019,900,Washington County,Non-English Learners/Transitional 1-4,748,708,94.7
+2019,900,Washington County,Non-Homeless,713,683,95.8
+2019,900,Washington County,Non-Migrant,749,708,94.5
+2019,900,Washington County,Non-Students with Disabilities,652,629,96.5
+2019,900,Washington County,Students with Disabilities,99,81,81.8
+2019,900,Washington County,White,696,660,94.8
+2019,901,Johnson City,All Students,529,487,92.1
+2019,901,Johnson City,American Indian or Alaska Native,5,*,*
+2019,901,Johnson City,Asian,17,**,**
+2019,901,Johnson City,Black or African American,72,66,91.7
+2019,901,Johnson City,Black/Hispanic/Native American,121,110,90.9
+2019,901,Johnson City,Economically Disadvantaged,177,148,83.6
+2019,901,Johnson City,English Learners with Transitional 1-4,12,10,83.3
+2019,901,Johnson City,Female,274,254,92.7
+2019,901,Johnson City,Hispanic,44,42,95.5
+2019,901,Johnson City,Homeless,46,35,76.1
+2019,901,Johnson City,Male,255,233,91.4
+2019,901,Johnson City,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,901,Johnson City,Non-Black/Hispanic/Native American,408,377,92.4
+2019,901,Johnson City,Non-Economically Disadvantaged,352,339,96.3
+2019,901,Johnson City,Non-English Learners/Transitional 1-4,517,477,92.3
+2019,901,Johnson City,Non-Homeless,483,452,93.6
+2019,901,Johnson City,Non-Migrant,529,487,92.1
+2019,901,Johnson City,Non-Students with Disabilities,456,435,95.4
+2019,901,Johnson City,Students with Disabilities,73,52,71.2
+2019,901,Johnson City,White,390,359,92.1
+2019,910,Wayne County,All Students,176,166,94.3
+2019,910,Wayne County,American Indian or Alaska Native,1,*,*
+2019,910,Wayne County,Black/Hispanic/Native American,2,*,*
+2019,910,Wayne County,Economically Disadvantaged,72,69,95.8
+2019,910,Wayne County,Female,82,77,93.9
+2019,910,Wayne County,Hispanic,1,*,*
+2019,910,Wayne County,Homeless,4,*,*
+2019,910,Wayne County,Male,94,89,94.7
+2019,910,Wayne County,Non-Black/Hispanic/Native American,174,164,94.3
+2019,910,Wayne County,Non-Economically Disadvantaged,104,97,93.3
+2019,910,Wayne County,Non-English Learners/Transitional 1-4,176,166,94.3
+2019,910,Wayne County,Non-Homeless,172,162,94.2
+2019,910,Wayne County,Non-Migrant,176,166,94.3
+2019,910,Wayne County,Non-Students with Disabilities,132,130,98.5
+2019,910,Wayne County,Students with Disabilities,44,36,81.8
+2019,910,Wayne County,White,174,164,94.3
+2019,920,Weakley County,All Students,319,279,87.5
+2019,920,Weakley County,Asian,3,*,*
+2019,920,Weakley County,Black or African American,28,25,89.3
+2019,920,Weakley County,Black/Hispanic/Native American,39,35,89.7
+2019,920,Weakley County,Economically Disadvantaged,118,92,78
+2019,920,Weakley County,Female,153,136,88.9
+2019,920,Weakley County,Hispanic,11,10,90.9
+2019,920,Weakley County,Homeless,2,*,*
+2019,920,Weakley County,Male,166,143,86.1
+2019,920,Weakley County,Migrant,1,*,*
+2019,920,Weakley County,Non-Black/Hispanic/Native American,280,244,87.1
+2019,920,Weakley County,Non-Economically Disadvantaged,201,187,93
+2019,920,Weakley County,Non-English Learners/Transitional 1-4,319,279,87.5
+2019,920,Weakley County,Non-Homeless,317,279,88
+2019,920,Weakley County,Non-Migrant,318,278,87.4
+2019,920,Weakley County,Non-Students with Disabilities,279,254,91
+2019,920,Weakley County,Students with Disabilities,40,25,62.5
+2019,920,Weakley County,White,277,242,87.4
+2019,930,White County,All Students,277,268,96.8
+2019,930,White County,American Indian or Alaska Native,1,*,*
+2019,930,White County,Asian,1,*,*
+2019,930,White County,Black or African American,8,*,*
+2019,930,White County,Black/Hispanic/Native American,14,**,**
+2019,930,White County,Economically Disadvantaged,125,119,95.2
+2019,930,White County,English Learners with Transitional 1-4,0,*,*
+2019,930,White County,Female,132,130,98.5
+2019,930,White County,Hispanic,5,*,*
+2019,930,White County,Homeless,14,12,85.7
+2019,930,White County,Male,145,138,95.2
+2019,930,White County,Native Hawaiian or Other Pacific Islander,1,*,*
+2019,930,White County,Non-Black/Hispanic/Native American,263,254,96.6
+2019,930,White County,Non-Economically Disadvantaged,152,149,98
+2019,930,White County,Non-English Learners/Transitional 1-4,277,268,96.8
+2019,930,White County,Non-Homeless,263,256,97.3
+2019,930,White County,Non-Migrant,277,268,96.8
+2019,930,White County,Non-Students with Disabilities,239,235,98.3
+2019,930,White County,Students with Disabilities,38,33,86.8
+2019,930,White County,White,261,252,96.6
+2019,940,Williamson County,All Students,3210,3099,96.5
+2019,940,Williamson County,American Indian or Alaska Native,29,26,89.7
+2019,940,Williamson County,Asian,188,183,97.3
+2019,940,Williamson County,Black or African American,196,188,95.9
+2019,940,Williamson County,Black/Hispanic/Native American,469,448,95.5
+2019,940,Williamson County,Economically Disadvantaged,215,193,89.8
+2019,940,Williamson County,English Learners with Transitional 1-4,47,44,93.6
+2019,940,Williamson County,Female,1600,1561,97.6
+2019,940,Williamson County,Hispanic,244,234,95.9
+2019,940,Williamson County,Homeless,34,32,94.1
+2019,940,Williamson County,Male,1610,1538,95.5
+2019,940,Williamson County,Native Hawaiian or Other Pacific Islander,8,*,*
+2019,940,Williamson County,Non-Black/Hispanic/Native American,2741,2651,96.7
+2019,940,Williamson County,Non-Economically Disadvantaged,2995,2906,97
+2019,940,Williamson County,Non-English Learners/Transitional 1-4,3163,3055,96.6
+2019,940,Williamson County,Non-Homeless,3176,3067,96.6
+2019,940,Williamson County,Non-Migrant,3210,3099,96.5
+2019,940,Williamson County,Non-Students with Disabilities,2891,2851,98.6
+2019,940,Williamson County,Students with Disabilities,319,248,77.7
+2019,940,Williamson County,White,2545,2460,96.7
+2019,950,Wilson County,All Students,1662,1597,96.1
+2019,950,Wilson County,American Indian or Alaska Native,4,*,*
+2019,950,Wilson County,Asian,31,30,96.8
+2019,950,Wilson County,Black or African American,179,168,93.9
+2019,950,Wilson County,Black/Hispanic/Native American,305,282,92.5
+2019,950,Wilson County,Economically Disadvantaged,416,373,89.7
+2019,950,Wilson County,English Learners with Transitional 1-4,51,48,94.1
+2019,950,Wilson County,Female,794,773,97.4
+2019,950,Wilson County,Hispanic,122,111,91
+2019,950,Wilson County,Homeless,104,89,85.6
+2019,950,Wilson County,Male,868,824,94.9
+2019,950,Wilson County,Migrant,2,*,*
+2019,950,Wilson County,Native Hawaiian or Other Pacific Islander,3,*,*
+2019,950,Wilson County,Non-Black/Hispanic/Native American,1357,1315,96.9
+2019,950,Wilson County,Non-Economically Disadvantaged,1246,1224,98.2
+2019,950,Wilson County,Non-English Learners/Transitional 1-4,1611,1549,96.2
+2019,950,Wilson County,Non-Homeless,1558,1508,96.8
+2019,950,Wilson County,Non-Migrant,1660,1595,96.1
+2019,950,Wilson County,Non-Students with Disabilities,1490,1455,97.7
+2019,950,Wilson County,Students with Disabilities,172,142,82.6
+2019,950,Wilson County,White,1323,1282,96.9
+2019,951,Lebanon,All Students,1,*,*
+2019,951,Lebanon,English Learners with Transitional 1-4,1,*,*
+2019,951,Lebanon,Male,1,*,*
+2019,951,Lebanon,Non-Black/Hispanic/Native American,1,*,*
+2019,951,Lebanon,Non-Economically Disadvantaged,1,*,*
+2019,951,Lebanon,Non-Homeless,1,*,*
+2019,951,Lebanon,Non-Migrant,1,*,*
+2019,951,Lebanon,Non-Students with Disabilities,1,*,*
+2019,951,Lebanon,White,1,*,*
+2019,961,Alvin C York Institute,All Students,136,125,91.9
+2019,961,Alvin C York Institute,Black or African American,1,*,*
+2019,961,Alvin C York Institute,Black/Hispanic/Native American,1,*,*
+2019,961,Alvin C York Institute,Economically Disadvantaged,52,45,86.5
+2019,961,Alvin C York Institute,Female,61,55,90.2
+2019,961,Alvin C York Institute,Homeless,2,*,*
+2019,961,Alvin C York Institute,Male,75,70,93.3
+2019,961,Alvin C York Institute,Non-Black/Hispanic/Native American,135,125,92.6
+2019,961,Alvin C York Institute,Non-Economically Disadvantaged,84,80,95.2
+2019,961,Alvin C York Institute,Non-English Learners/Transitional 1-4,136,125,91.9
+2019,961,Alvin C York Institute,Non-Homeless,134,123,91.8
+2019,961,Alvin C York Institute,Non-Migrant,136,125,91.9
+2019,961,Alvin C York Institute,Non-Students with Disabilities,117,109,93.2
+2019,961,Alvin C York Institute,Students with Disabilities,19,16,84.2
+2019,961,Alvin C York Institute,White,135,125,92.6
+2019,963,Tennessee School for Blind,All Students,14,3,21.4
+2019,963,Tennessee School for Blind,Asian,1,*,*
+2019,963,Tennessee School for Blind,Black or African American,1,*,*
+2019,963,Tennessee School for Blind,Black/Hispanic/Native American,5,*,*
+2019,963,Tennessee School for Blind,Economically Disadvantaged,2,*,*
+2019,963,Tennessee School for Blind,English Learners with Transitional 1-4,3,*,*
+2019,963,Tennessee School for Blind,Female,8,*,*
+2019,963,Tennessee School for Blind,Hispanic,4,*,*
+2019,963,Tennessee School for Blind,Male,6,*,*
+2019,963,Tennessee School for Blind,Non-Black/Hispanic/Native American,9,*,*
+2019,963,Tennessee School for Blind,Non-Economically Disadvantaged,12,2,16.7
+2019,963,Tennessee School for Blind,Non-English Learners/Transitional 1-4,11,2,18.2
+2019,963,Tennessee School for Blind,Non-Homeless,14,3,21.4
+2019,963,Tennessee School for Blind,Non-Migrant,14,3,21.4
+2019,963,Tennessee School for Blind,Students with Disabilities,14,3,21.4
+2019,963,Tennessee School for Blind,White,8,*,*
+2019,964,Tennessee School for the Deaf,All Students,10,9,90
+2019,964,Tennessee School for the Deaf,Black or African American,4,*,*
+2019,964,Tennessee School for the Deaf,Black/Hispanic/Native American,4,*,*
+2019,964,Tennessee School for the Deaf,Economically Disadvantaged,7,*,*
+2019,964,Tennessee School for the Deaf,Female,5,*,*
+2019,964,Tennessee School for the Deaf,Male,5,*,*
+2019,964,Tennessee School for the Deaf,Non-Black/Hispanic/Native American,6,*,*
+2019,964,Tennessee School for the Deaf,Non-Economically Disadvantaged,3,*,*
+2019,964,Tennessee School for the Deaf,Non-English Learners/Transitional 1-4,10,9,90
+2019,964,Tennessee School for the Deaf,Non-Homeless,10,9,90
+2019,964,Tennessee School for the Deaf,Non-Migrant,10,9,90
+2019,964,Tennessee School for the Deaf,Students with Disabilities,10,9,90
+2019,964,Tennessee School for the Deaf,White,6,*,*
+2019,970,Department Of Children's Services Education Division,All Students,676,92,13.6
+2019,970,Department Of Children's Services Education Division,American Indian or Alaska Native,2,*,*
+2019,970,Department Of Children's Services Education Division,Asian,2,*,*
+2019,970,Department Of Children's Services Education Division,Black or African American,244,36,14.8
+2019,970,Department Of Children's Services Education Division,Black/Hispanic/Native American,280,41,14.6
+2019,970,Department Of Children's Services Education Division,Economically Disadvantaged,613,87,14.2
+2019,970,Department Of Children's Services Education Division,English Learners with Transitional 1-4,9,*,*
+2019,970,Department Of Children's Services Education Division,Female,158,21,13.3
+2019,970,Department Of Children's Services Education Division,Hispanic,34,5,14.7
+2019,970,Department Of Children's Services Education Division,Homeless,38,5,13.2
+2019,970,Department Of Children's Services Education Division,Male,518,71,13.7
+2019,970,Department Of Children's Services Education Division,Migrant,1,*,*
+2019,970,Department Of Children's Services Education Division,Native Hawaiian or Other Pacific Islander,2,*,*
+2019,970,Department Of Children's Services Education Division,Non-Black/Hispanic/Native American,396,51,12.9
+2019,970,Department Of Children's Services Education Division,Non-Economically Disadvantaged,63,5,7.9
+2019,970,Department Of Children's Services Education Division,Non-English Learners/Transitional 1-4,667,90,13.5
+2019,970,Department Of Children's Services Education Division,Non-Homeless,638,87,13.6
+2019,970,Department Of Children's Services Education Division,Non-Migrant,675,92,13.6
+2019,970,Department Of Children's Services Education Division,Non-Students with Disabilities,450,61,13.6
+2019,970,Department Of Children's Services Education Division,Students with Disabilities,226,31,13.7
+2019,970,Department Of Children's Services Education Division,White,392,50,12.8
+2019,985,Achievement School District,All Students,687,355,51.7
+2019,985,Achievement School District,American Indian or Alaska Native,1,*,*
+2019,985,Achievement School District,Asian,2,*,*
+2019,985,Achievement School District,Black or African American,646,347,53.7
+2019,985,Achievement School District,Black/Hispanic/Native American,667,352,52.8
+2019,985,Achievement School District,Economically Disadvantaged,546,293,53.7
+2019,985,Achievement School District,English Learners with Transitional 1-4,23,8,34.8
+2019,985,Achievement School District,Female,352,202,57.4
+2019,985,Achievement School District,Hispanic,20,5,25
+2019,985,Achievement School District,Homeless,42,20,47.6
+2019,985,Achievement School District,Male,335,153,45.7
+2019,985,Achievement School District,Non-Black/Hispanic/Native American,20,3,15
+2019,985,Achievement School District,Non-Economically Disadvantaged,141,62,44
+2019,985,Achievement School District,Non-English Learners/Transitional 1-4,664,347,52.3
+2019,985,Achievement School District,Non-Homeless,645,335,51.9
+2019,985,Achievement School District,Non-Migrant,687,355,51.7
+2019,985,Achievement School District,Non-Students with Disabilities,577,295,51.1
+2019,985,Achievement School District,Students with Disabilities,110,60,54.5
+2019,985,Achievement School District,White,18,3,16.7

@@ -1,0 +1,149 @@
+district_number,district,street_address_1,street_address_2,city,state,zipcode,phone1,phone2,grades_served,director,countyname,school_count
+0,State of Tennessee,710 James Robertson Pkwy,,Nashville,TN,37243,,,Grades PK-12,Commissioner Penny Schwinn,State,1878
+10,Anderson County,101 South Main ST,,Clinton,TN,37716,(865) 463-2800,(865) 457-9157,Grades PK-12,Dr. Tim Parrott,Anderson County,18
+11,Clinton,212  N  Hicks ST,,Clinton,TN,37716,(865) 457-0159,(865) 463-0668,Grades PK-6,Kelly D. Johnson,Anderson County,3
+12,Oak Ridge,P. O. Box 6588 AVE,,Oak Ridge,TN,37831,(865) 425-9001,(865) 425-9070,Grades PK-12,Dr. Bruce Borchers,Anderson County,8
+20,Bedford County,500  Madison  ST,,Shelbyville,TN,37160,(931) 684-3284,(931) 684-3289,Grades PK-12,Don Embry,Bedford County,14
+30,Benton County,197 Briarwood ST,,Camden,TN,38320,(731) 584-6111,(731) 584-8142,Grades PK-12,Mark Florence,Benton County,8
+40,Bledsoe County,P. O. Box 369 ST,,Pikeville,TN,37367,(423) 447-2914,(423) 447-7135,Grades PK-12,James Ellis,Bledsoe County,5
+50,Blount County,831  Grandview  DR,,Maryville,TN,37803,(865) 984-1212,(865) 980-1002,Grades PK-12,Mr. Robb Britt,Blount County,22
+51,Alcoa,524 Faraday ST,,Alcoa,TN,37701,(865) 984-0531,(865) 984-5832,Grades PK-12,Rebecca Stone,Blount County,4
+52,Maryville,833  Lawrence  AVE,,Maryville,TN,37803,(865) 982-7121,(865) 977-5055,Grades PK-12,Dr. Mike Winstead,Blount County,7
+60,Bradley County,800  South  Lee HWY,,Cleveland,TN,37311,(423) 476-0620,(423) 476-0485,Grades PK-12,Dr. Linda Cash,Bradley County,17
+61,Cleveland,4300  Mouse  Creek Nw RD,,Cleveland,TN,37312,(423) 472-9571,(423) 472-3390,Grades PK-12,Dr. Russell Dyer,Bradley County,9
+70,Campbell County,P. O. Box 445 ST,,Jacksboro,TN,37757,(423) 562-8377,(423) 566-7562,Grades PK-12,Jennifer Fields,Campbell County,15
+80,Cannon County,301 West Main ST,,Woodbury,TN,37190,(615) 563-5752,(615) 563-5772,Grades PK-12,Mr. William Freddy Curtis,Cannon County,7
+90,Carroll County,P. O. Box 799 ST,,Huntingdon,TN,38344,(731) 986-4482,(731) 986-0198,Grades PK-12,John McAdams,Carroll County,2
+92,Hollow Rock - Bruceton,P. O. Box 135 ST,,Bruceton,TN,38317,(731) 418-4180,(731) 418-4188,Grades PK-12,David Duncan,Carroll County,2
+93,Huntingdon Special School District,585 High ST,P. O. Box 648,Huntingdon,TN,38344,(731) 986-2222,(731) 986-4365,Grades PK-12,Pat Dillahunty,Carroll County,4
+94,McKenzie,114  W  Bell AVE,,McKenzie,TN,38201,(731) 352-2246,(731) 352-7550,Grades PK-12,Lynn Watkins,Carroll County,3
+95,South Carroll,145 Clarksburg RD,P. O. Box  219,Clarksburg,TN,38324,(731) 986-3165,(731) 986-4562,Grades PK-12,Lex Suite,Carroll County,1
+97,West Carroll Sp Dist,P. O. Box 279,,Trezevant,TN,38258,(731) 662-4200,(731) 662-4250,Grades PK-12,Dexter Williams,Carroll County,3
+100,Carter County,305 Academy ST,,Elizabethton,TN,37673,(423) 547-4000,(423) 547-8338,Grades PK-12,Dr. Tracy McAbee,Carter County,15
+101,Elizabethton,804 S Watauga AVE,,Elizabethton,TN,37643,(423) 547-8000,(423) 547-8929,Grades PK-12,Richard VanHuss,Carter County,5
+110,Cheatham County,102  Elizabeth  ST,,Ashland City,TN,37015,(615) 792-5664,(615) 792-2551,Grades PK-12,Dr. Cathy Beck,Cheatham County,13
+120,Chester County,970 East Main ST,,Henderson,TN,38340,(731) 989-5134,(731) 989-4755,Grades PK-12,Troy Kilzer II,Chester County,6
+130,Claiborne County,P. O.  Box 179 RD,,Tazewell,TN,37879,(423) 626-3543,(423) 626-5945,Grades PK-12,Dr. Linda Keck,Claiborne County,13
+140,Clay County,P. O. Box 469 ST,,Celina,TN,38551,(931) 243-3310,(931) 243-3706,Grades PK-12,Matt Eldridge,Clay County,4
+150,Cocke County,305 Hedrick DR,,Newport,TN,37821,(423) 623-7821,(423) 625-3947,Grades PK-12,Mr. Manney Moore,Cocke County,12
+151,Newport,301 College ST,,Newport,TN,37821,(423) 625-0686,(423) 613-8029,Grades PK-8,Ms. Sandra W. Burchette,Cocke County,1
+160,Coffee County,1343  McArthur  ST,,Manchester,TN,37355,(931) 723-5150,(931) 723-5153,Grades PK-12,Dr. Charles Lawson,Coffee County,10
+161,Manchester,215  East  Fort ST,,Manchester,TN,37355,(931) 728-2316,(931) 728-7075,Grades PK-8,Dr. Joey Vaughn,Coffee County,3
+162,Tullahoma,510  S  Jackson ST,,Tullahoma,TN,37388,(931) 454-2600,(931) 454-2642,Grades PK-12,Dr. Catherine Stephens,Coffee County,7
+170,Crockett County,102 North Cavalier DR,,Alamo,TN,38001,(731) 696-2604,(731) 696-4734,Grades PK-12,P. A. Pratt,Crockett County,5
+171,Alamo,265 East Park ST,,Alamo,TN,38001,(731) 696-5515,(731) 696-2541,Grades PK-6,Reecha Black,Crockett County,1
+172,Bells,4547 Hwy  88 South,,Bells,TN,38006,(731) 663-2041,(731) 663-2161,Grades PK-5,Mark Wallace - Director,Crockett County,1
+180,Cumberland County,368 4th ST,,Crossville,TN,38555,(931) 484-8091,(931) 484-6491,Grades PK-12,Ina Maxwell,Cumberland County,12
+190,Davidson County,2601 Bransford AVE,,Nashville,TN,37204,(615) 259-4636,(615) 214-8850,Grades PK-12,Dr. Adrienne Battle,Davidson County,168
+200,Decatur County,P. O. Box 369,,Decaturville,TN,38329,(731) 852-2391,(731) 852-2960,Grades PK-12,Chris Villaflor,Decatur County,4
+210,DeKalb County,110 South Public Square,,Smithville,TN,37166,(615) 597-4084,(615) 597-6326,Grades PK-12,Patrick Cripps,DeKalb County,6
+220,Dickson County,817  N  Charlotte ST,,Dickson,TN,37055,(615) 446-7571,(615) 441-1375,Grades PK-12,Dr. Danny L. Weeks,Dickson County,18
+230,Dyer County,159 Everett AVE,,Dyersburg,TN,38024,(731) 285-6712,(731) 286-6721,Grades PK-12,Cheryl Mathis,Dyer County,8
+231,Dyersburg,509 Lake RD,,Dyersburg,TN,38024,(731) 286-3600,(731) 286-2754,Grades PK-12,Kim Worley,Dyer County,4
+240,Fayette County Public Schools,P O Box 9 ST,,Somerville,TN,38068,(901) 465-5260,(901) 465-3299,Grades PK-12,Dr. Connie Smith,Fayette County,7
+250,Fentress County,P. O. Box 963,,Jamestown,TN,38556,(931) 879-9218,(931) 879-4050,Grades PK-12,Mike Jones,Fentress County,6
+260,Franklin County,215 South College ST,,Winchester,TN,37398,(931) 967-0626,(931) 967-7832,Grades PK-12,Mr. Stanley Bean,Franklin County,11
+271,Humboldt City Schools,2602 Viking DR,,Humboldt,TN,38343,(731) 784-2652,(731) 784-2480,Grades PK-12,Dr. Versie R. Hamlett,Gibson County,3
+272,Milan,1165 South Main ST,,Milan,TN,38358,(731) 686-0844,(731) 686-8781,Grades PK-12,Jonathan Criswell,Gibson County,3
+273,Trenton,201  W  10th ST,,Trenton,TN,38382,(731) 855-1191,(731) 855-1414,Grades PK-12,Tim Haney,Gibson County,3
+274,Bradford,P. O. Box 220 ST,,Bradford,TN,38316,(731) 742-3180,(731) 742-3994,Grades PK-12,Dan Black,Gibson County,2
+275,Gibson Co Sp Dist,130 Hwy  45 W Box 60,,Dyer,TN,38330,(731) 692-3803,(731) 692-4375,Grades PK-12,Eddie Pruett,Gibson County,9
+280,Giles County,270  Richland  DR,,Pulaski,TN,38478,(931) 363-4558,(931) 363-8975,Grades PK-12,Vickie Beard,Giles County,8
+290,Grainger County,P. O.  Box 38 PIKE,,Rutledge,TN,37861,(865) 828-3611,(865) 828-4357,Grades PK-12,Mr. James Atkins,Grainger County,9
+300,Greene County,910 Summer ST,,Greeneville,TN,37743,(423) 639-4194,(423) 639-1615,Grades PK-12,Mr. David McLain,Greene County,16
+301,Greeneville,P O  Box 1420 ST,,Greeneville,TN,37744,(423) 787-8000,(423) 638-2540,Grades PK-12,Steve Starnes,Greene County,7
+310,Grundy County,P. O. Box 97 ST,,Altamont,TN,37301,(931) 692-3467,(931) 692-2188,Grades PK-12,Glenda M. Dykes,Grundy County,8
+320,Hamblen County,210 East  Morris BLVD,,Morristown,TN,37813,(423) 586-7700,(423) 586-7747,Grades PK-12,Dr. Jeff Perry,Hamblen County,18
+330,Hamilton County,3074 Hickory Valley RD,,Chattanooga,TN,37421,(423) 498-7020,(423) 209-8601,Grades PK-12,Dr. Bryan Johnson,Hamilton County,79
+340,Hancock County,P.O. Box 629 ST,,Sneedville,TN,37869,(423) 733-2591,(423) 733-8757,Grades PK-12,Dr. Michael Belcher,Hancock County,3
+350,Hardeman County Schools,10815 Old Hwy. 64,,Bolivar,TN,38008,(731) 658-2510,(731) 658-2061,Grades PK-12,Mr. Warner Ross II,Hardeman County,9
+360,Hardin County,155 Guinn ST,,Savannah,TN,38372,(731) 925-3943,(731) 925-7313,Grades PK-12,Michael Davis,Hardin County,7
+370,Hawkins County,200 N  Depot ST,,Rogersville,TN,37857,(423) 272-7629,(423) 357-6694,Grades PK-12,Dr. Greg Sturgill,Hawkins County,18
+371,Rogersville,116 Broadway,,Rogersville,TN,37857,(423) 272-7651,(423) 272-7790,Grades PK-8,J.T. Stroder,Hawkins County,1
+380,Haywood County,900 East Main ST,,Brownsville,TN,38012,(731) 772-9613,(731) 772-3275,Grades PK-12,Mr. Joey Hassell,Haywood County,5
+390,Henderson County,35 East Wilson ST,,Lexington,TN,38351,(731) 968-3661,(731) 968-9457,Grades PK-12,Steve Wilkinson,Henderson County,9
+391,Lexington,99 Monroe AVE,,Lexington,TN,38351,(731) 967-5591,(731) 967-0794,Grades PK-8,Cindy Olive,Henderson County,2
+400,Henry County,217  Grove  BLVD,,Paris,TN,38242,(731) 642-9733,(731) 642-8073,Grades PK-12,Leah Watkins,Henry County,6
+401,Paris,1219 Hwy 641 S,,Paris,TN,38242,(731) 642-9322,(731) 642-9327,Grades PK-8,Dr. Norma Gerrell,Henry County,3
+410,Hickman County,115  Murphree  AVE,,Centerville,TN,37033,(931) 729-3391,(931) 729-3834,Grades PK-12,Michelle Gilbert,Hickman County,8
+420,Houston County,P O  Box 209,,Erin,TN,37061,(931) 289-4148,(931) 289-5543,Grades PK-12,Ms. Kris McAskill,Houston County,5
+430,Humphreys County,2443 Hwy  70 E,,Waverly,TN,37185,(931) 296-2568,(931) 296-6501,Grades PK-12,Richard Rye,Humphreys County,7
+440,Jackson County,711 School DR,,Gainesboro,TN,38562,(931) 268-0268,(931) 268-3647,Grades PK-12,Kristy Brown,Jackson County,4
+450,Jefferson County,P. O. Box 190 ST,,Dandridge,TN,37725,(865) 397-3194,(865) 397-3301,Grades PK-12,Dr. Shane Johnston,Jefferson County,13
+460,Johnson County,211 N  Church ST,,Mountain City,TN,37683,(423) 727-2640,(423) 727-2663,Grades PK-12,Dr. Mischelle Simcox,Johnson County,7
+470,Knox County,P O Box 2188 ST,,Knoxville,TN,37901,(865) 594-1620,(865) 594-1264,Grades PK-12,Bob Thomas,Knox County,91
+480,Lake County,P. O. Box 397,,Tiptonville,TN,38079,(731) 253-6601,(731) 253-7111,Grades PK-12,Sherry Darnell,Lake County,3
+490,Lauderdale County,P O Box 350 AVE,,Ripley,TN,38063,(731) 635-2941,(731) 635-7985,Grades PK-12,Shawn Kimble,Lauderdale County,7
+500,Lawrence County,700 Mahr AVE,,Lawrenceburg,TN,38464,(931) 762-3581,(931) 762-7299,Grades PK-12,Mr. Johnny McDaniel,Lawrence County,13
+510,Lewis County,206  S  Court ST,,Hohenwald,TN,38462,(931) 796-3264,(931) 796-5127,Grades PK-12,Mr. Benny Pace,Lewis County,4
+520,Lincoln County,206 E  Davidson DR,,Fayetteville,TN,37334,(931) 433-3565,(931) 433-7397,Grades PK-12,Dr. Bill Heath,Lincoln County,8
+521,Fayetteville,110 Elk Avenue South,Suite 200,Fayetteville,TN,37334,(931) 433-5542,(931) 433-7499,Grades PK-12,Bill Hopkins,Lincoln County,3
+530,Loudon County,100 River RD,,Loudon,TN,37774,(865) 458-5411,(865) 458-6138,Grades PK-12,Michael Garren,Loudon County,9
+531,Lenoir City,200 East Broadway,,Lenoir City,TN,37771,(865) 986-8058,(865) 988-6732,Grades PK-12,Dr. Jeanne Barker,Loudon County,3
+540,McMinn County,3 South Hill ST,,Athens,TN,37303,(423) 942-2110,(423) 942-8817,Grades PK-12,Lee Parkison,McMinn County,9
+541,Athens,943  Crestway  DR,,Athens,TN,37303,(423) 745-2863,(423) 745-9041,Grades PK-8,Robert W. Greene,McMinn County,5
+542,Etowah,858  8th  ST,,Etowah,TN,37331,(423) 263-5483,(423) 263-3401,Grades PK-8,Dr. Mike Frazier,McMinn County,1
+550,McNairy County,530 Mulberry AVE,,Selmer,TN,38375,(731) 645-3267,(731) 645-8085,Grades PK-12,Greg Martin,McNairy County,10
+560,Macon County,501 College ST,,Lafayette,TN,37083,(615) 666-2125,(615) 666-7878,Grades PK-12,Anthony Boles,Macon County,8
+570,Madison County,310  North  PKWY,,Jackson,TN,38305,(731) 664-2500,(731) 664-2502,Grades PK-12,Dr. Marlon King,Madison County,23
+580,Marion County,204  Betsy  Pack DR,,Jasper,TN,37347,(423) 942-3434,(423) 942-4210,Grades PK-12,Dr. Mark Griffith,Marion County,11
+581,Richard City,1620  Hamilton  AVE,,South Pittsburg,TN,37380,(423) 837-7282,(423) 837-0641,Grades PK-12,Ms. Beth Webb,Marion County,1
+590,Marshall County,700  Jones  CIR,,Lewisburg,TN,37091,(931) 359-1581,(931) 270-8816,Grades PK-12,Mr. Jacob Sorrells,Marshall County,10
+600,Maury County,501 West 8th ST,,Columbia,TN,38401,(931) 388-8403,(931) 840-4410,Grades PK-12,Michael Hickman,Maury County,23
+610,Meigs County,P. O. Box 1039,,Decatur,TN,37322,(423) 334-5793,(423) 334-1462,Grades PK-12,R. Clinton Baker,Meigs County,4
+620,Monroe County,205  Oak  Grove RD,,Madisonville,TN,37354,(423) 442-2373,(423) 442-1389,Grades PK-12,DeAnne McClendon,Monroe County,12
+621,Sweetwater,P. O.  Box 231 ST,,Sweetwater,TN,37874,(423) 337-7051,(423) 337-6773,Grades PK-8,Rodney Boruff,Monroe County,4
+630,Montgomery County,621  Gracey  AVE,,Clarksville,TN,37040,(931) 920-7808,(931) 920-9808,Grades PK-12,Mr. Millard L. House II,Montgomery County,39
+640,Moore County,P O Box 219 ST,,Lynchburg,TN,37352,(931) 759-7303,(931) 759-6386,Grades PK-12,Mr. Chad Moorehead,Moore County,2
+650,Morgan County,136 Flat Fork RD,,Wartburg,TN,37887,(423) 346-6214,(423) 346-6043,Grades PK-12,David Treece,Morgan County,8
+660,Obion County,1700 North Fifth ST,,Union City,TN,38261,(731) 885-9743,(731) 885-4902,Grades PK-12,Tim Watkins,Obion County,7
+661,Union City,P. O. Box 749 ST,,Union City,TN,38281,(731) 885-3922,(731) 885-6033,Grades PK-12,Mr. Wes Kennedy,Obion County,3
+670,Overton County,302 Zachary ST,,Livingston,TN,38570,(931) 823-1287,(931) 823-4673,Grades PK-12,Mark Winningham,Overton County,9
+680,Perry County,857 Squirrel Hollow DR,,Linden,TN,37096,(931) 589-2102,(931) 589-5110,Grades PK-12,Mr. Eric Lomax,Perry County,5
+690,Pickett County,141 Skyline DR,,Byrdstown,TN,38549,(931) 864-3123,(931) 864-7185,Grades PK-12,Diane Elder,Pickett County,2
+700,Polk County,P. O. Box 665 ST,,Benton,TN,37307,(423) 299-0471,(423) 338-2691,Grades PK-12,Dr. James R. Jones,Polk County,7
+710,Putnam County,1400 East Spring ST,,Cookeville,TN,38506,(931) 526-9777,(931) 372-0391,Grades PK-12,Mr. Corby King,Putnam County,22
+720,Rhea County,305  California  AVE,,Dayton,TN,37321,(423) 775-7813,(423) 775-7831,Grades PK-12,Mr. Jerry Levengood,Rhea County,7
+721,Dayton,520  Cherry  ST,,Dayton,TN,37321,(423) 775-8414,(423) 775-4002,Grades PK-8,Trish Newsome,Rhea County,1
+730,Roane County,105  Bluff  RD,,Kingston,TN,37763,(865) 376-5592,(865) 376-1284,Grades PK-12,Dr. LaDonna McFall,Roane County,17
+740,Robertson County,800 M S Couts BLVD,,Springfield,TN,37172,(615) 384-5588,(615) 384-9749,Grades PK-12,Dr. Chris Causey,Robertson County,25
+750,Rutherford County,2240 Southpark BLVD,,Murfreesboro,TN,37128,(615) 893-5812,(615) 904-3770,Grades PK-12,Bill C. Spurlock,Rutherford County,50
+751,Murfreesboro,2552 South Church ST,,Murfreesboro,TN,37127,(615) 893-2313,(615) 893-2352,Grades PK-8,Ralph Ringstaff,Rutherford County,13
+760,Scott County,P O Box 37 ST,,Huntsville,TN,37756,(423) 663-2159,(423) 663-9682,Grades PK-12,Billy Hall,Scott County,7
+761,Oneida,P O Box 4819,,Oneida,TN,37841,(423) 569-8912,(423) 569-2201,Grades PK-12,Dr. Jeanny Phillips,Scott County,3
+770,Sequatchie County,P O Box 488 DR,,Dunlap,TN,37327,(423) 949-3617,(423) 949-5257,Grades PK-12,Michael L. Swafford,Sequatchie County,3
+780,Sevier County,226  Cedar  ST,,Sevierville,TN,37862,(865) 453-4671,(865) 774-4562,Grades PK-12,Dr. Jack A. Parton,Sevier County,30
+792,Shelby County,160  S  Hollywood,,Memphis,TN,38112,(901) 321-2500,(901) 321-2642,Grades PK-12,Dr. Joris Ray,Shelby County,223
+793,Arlington,12060 Arlington TRL,,Arlington,TN,38002,(901) 389-2497,(901) 389-2498,Grades PK-12,Jeff Mayo,Shelby County,4
+794,Bartlett,5705 Stage RD,,Bartlett,TN,38134,(901) 202-0855,(901) 202-0854,Grades PK-12,Dr. David A. Stephens,Shelby County,10
+795,Collierville,146 College ST,,Collierville,TN,38017,(901) 861-7000,(901) 861-1447,Grades PK-12,Gary Lilly,Shelby County,9
+796,Germantown,6685 Poplar AVE,,Germantown,TN,38138,(901) 752-7900,(901) 757-6479,Grades PK-12,Jason Manuel,Shelby County,6
+797,Lakeland,10001 Hwy 70,,Lakeland,TN,38002,(901) 867-5412,(901) 867-2063,Grades PK-8,Dr. W. Edward Horrell III,Shelby County,2
+798,Millington Municipal Schools,5020 Second AVE,,Millington,TN,38053,(901) 873-5680,(901) 873-5699,Grades PK-12,James Griffin,Shelby County,4
+800,Smith County,126 S C M S Lane,,Carthage,TN,37030,(615) 735-9625,(615) 735-8271,Grades PK-12,Barry H. Smith,Smith County,9
+810,Stewart County,P O  Box 433 ST,,Dover,TN,37058,(931) 232-5176,(931) 232-5390,Grades PK-12,Mike Craig,Stewart County,6
+820,Sullivan County,P. O. Box 306,,Blountville,TN,37617,(423) 354-1000,(423) 354-1074,Grades PK-12,Dr. David Cox,Sullivan County,23
+821,Bristol,615 Martin Luther King Jr BLVD,,Bristol,TN,37620,(423) 652-9451,(423) 652-9255,Grades PK-12,Dr. Annette Tudor,Sullivan County,8
+822,Kingsport,400 Clinchfield ST,,Kingsport,TN,37660,(423) 378-2100,(423) 378-2120,Grades PK-12,Dr. Jeff Moorhouse,Sullivan County,12
+830,Sumner County,695 East Main ST,,Gallatin,TN,37066,(615) 451-5200,(615) 451-5216,Grades PK-12,Dr. Del R. Phillips III,Sumner County,49
+840,Tipton County,1580 Highway 51 South,P. O. Box 486,Covington,TN,38019,(901) 476-7148,(901) 476-4870,Grades PK-12,Dr. John Combs,Tipton County,14
+850,Trousdale County,103 Lock Six RD,,Hartsville,TN,37074,(615) 374-2193,(615) 374-1108,Grades PK-12,Dr. Clint A. Satterfield,Trousdale County,3
+860,Unicoi County,100 Nolichucky AVE,,Erwin,TN,37650,(423) 743-1600,(423) 743-1615,Grades PK-12,Mr. John English,Unicoi County,7
+870,Union County,P. O. Box 10 HWY,,Maynardville,TN,37807,(865) 992-5466,(865) 992-0126,Grades PK-12,Dr. James E Carter,Union County,11
+880,Van Buren County,P O  Box 98 ST,,Spencer,TN,38585,(931) 946-2242,(931) 946-2858,Grades PK-12,Cheryl Cole,Van Buren County,2
+890,Warren County,2548 Morrison ST,,McMinnville,TN,37110,(931) 668-4022,(931) 815-2703,Grades PK-12,Grant Swallows,Warren County,11
+900,Washington County,405  W  College ST,,Jonesborough,TN,37659,(423) 753-1100,(423) 753-1114,Grades PK-12,Jim Wernke,Washington County,16
+901,Johnson City,P. O. Box 1517,,Johnson City,TN,37605,(423) 434-5200,(423) 218-4968,Grades PK-12,Dr. Steve Barnett,Washington County,12
+910,Wayne County,P. O. Box 658 ST,,Waynesboro,TN,38485,(931) 722-3548,(931) 722-7579,Grades PK-12,Marlon Davis,Wayne County,8
+920,Weakley County,8319  Hwy  22 Suite A,,Dresden,TN,38225,(731) 364-2247,(731) 364-2662,Grades PK-12,Randy Frazier,Weakley County,11
+930,White County,136 Baker ST,,Sparta,TN,38583,(931) 836-2229,(931) 836-8128,Grades PK-12,Mr. Kurt Dronebarger,White County,8
+940,Williamson County,1320 W Main,Suite 202,Franklin,TN,37064,(615) 472-4000,(615) 472-4190,Grades PK-12,Jason Golden,Williamson County,48
+941,Franklin SSD,507  Highway  96 West,,Franklin,TN,37064,(615) 794-6624,(615) 790-4716,Grades PK-8,Dr. David L. Snowden,Williamson County,8
+950,Wilson County,415 Harding DR,,Lebanon,TN,37087,(615) 444-3282,(615) 449-3858,Grades PK-12,Dr. Donna Wright,Wilson County,23
+951,Lebanon,397 North Castle Heights AVE,,Lebanon,TN,37087,(615) 449-6060,(615) 449-5673,Grades PK-8,Mr. Scott Benson,Wilson County,6
+960,West Tennessee School for the Deaf,100 Berryhill DR,,Jackson,TN,38301,(731) 423-5705,(731) 423-6470,Grades PK-6,Dr. Vicki Kirk,Madison County,1
+961,Alvin C York Institute,P O Box 70 ST,,Jamestown,TN,38556,(931) 879-8101,(931) 879-2147,Grades 9-12,Dr Joe Miller,Fentress County,1
+963,Tennessee School for Blind,115  Stewarts  Ferry PIKE,,Nashville,TN,37214,(615) 339-6284,(615) 231-7300,Grades PK-12,Dr. David Martin,Davidson County,1
+964,Tennessee School for the Deaf,2725  Island  Home BLVD,,Knoxville,TN,37920,(865) 579-2500,(865) 579-2484,Grades PK-12,Vicki Kirk,Knox County,3
+985,Achievement School District,710 James Robertson PKWY,,Nashville,TN,37243,(615) 253-4176,(615) 253-4177,Grades PK-12,Lisa Settle,Shelby County,30
+986,Tennessee State Board of Education,710 James Robertson PKWY,1st Floor,Nashville,TN,37243,(615) 741-2966,(615) 741-0371,Grades KG-11,Sara Heyburn Morrison,State,3
