@@ -76,5 +76,6 @@ The analysis provided key insights into education attainment in Tennessee:
 
 Thank you for taking the time to explore my capstone with me. Together, we can raise awareness and create change.
 
-## Tableau Link for Ready Grad Metrics
-- https://public.tableau.com/views/ReadyGradTNMetrics-PatrickJohnston/ready_grad_tn_stats?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+## Tableau Links
+- Full Story: [link](https://public.tableau.com/views/PatrickFinalCapstoneStory/the_main_point?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- TN Ready Grad Metrics only [link](https://public.tableau.com/views/ReadyGradTNMetrics-PatrickJohnston/ready_grad_tn_stats?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
