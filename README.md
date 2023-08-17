@@ -75,3 +75,6 @@ The analysis provided key insights into education attainment in Tennessee:
 - Continued efforts are needed to ensure that every student has the opportunity to succeed in higher education regardless of circumstance. 
 
 Thank you for taking the time to explore my capstone with me. Together, we can raise awareness and create change.
+
+## Tableau Link for Ready Grad Metrics
+- https://public.tableau.com/views/ReadyGradTNMetrics-PatrickJohnston/ready_grad_tn_stats?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
